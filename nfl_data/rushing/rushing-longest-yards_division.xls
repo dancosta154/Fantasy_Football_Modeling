@@ -1509,7 +1509,7 @@
 					<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 				</div>
 			<input type="hidden" name="team_id" value="" class="team-id-val">
-			<input type="hidden" name="formtime" value="1651700884" class="formtime-val">
+			<input type="hidden" name="formtime" value="1651702582" class="formtime-val">
 			<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 				
 				<div class="msg msg-success space-bottom hidden"></div>
@@ -1783,7 +1783,7 @@
 								<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 							</div>
 							<input type="hidden" name="team_id" value="" class="team-id-val">
-							<input type="hidden" name="formtime" value="1651700884" class="formtime-val">
+							<input type="hidden" name="formtime" value="1651702582" class="formtime-val">
 							<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 						</div> <!-- desktop-bar-text-wrapper -->
 					</div> <!-- desktop-bar-wrapper -->
@@ -2222,19 +2222,19 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="018">18</td>
-			        <td class="text-left" data-sort="Carter Michael">
-				        					        <a href="/nfl/player/michael-carter-5" title="Michael Carter">Michael Carter</a>
+			        <td class="text-left" data-sort="Michel Sony">
+				        					        <a href="/nfl/player/sony-michel" title="Sony Michel">Sony Michel</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/new-york-jets">New York Jets</a></td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
         			 <td class="text-left">RB</td>
         			 <td class="text-right" data-sort="0039">39</td>
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="018">18</td>
-			        <td class="text-left" data-sort="Michel Sony">
-				        					        <a href="/nfl/player/sony-michel" title="Sony Michel">Sony Michel</a>
+			        <td class="text-left" data-sort="Carter Michael">
+				        					        <a href="/nfl/player/michael-carter-5" title="Michael Carter">Michael Carter</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/new-york-jets">New York Jets</a></td>
         			 <td class="text-left">RB</td>
         			 <td class="text-right" data-sort="0039">39</td>
 			</tr>
@@ -2348,19 +2348,19 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="033">33</td>
-			        <td class="text-left" data-sort="Kamara Alvin">
-				        					        <a href="/nfl/player/alvin-kamara" title="Alvin Kamara">Alvin Kamara</a>
+			        <td class="text-left" data-sort="Williams Javonte">
+				        					        <a href="/nfl/player/javonte-williams" title="Javonte Williams">Javonte Williams</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/new-orleans-saints">New Orleans Saints</a></td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/denver-broncos">Denver Broncos</a></td>
         			 <td class="text-left">RB</td>
         			 <td class="text-right" data-sort="0030">30</td>
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="033">33</td>
-			        <td class="text-left" data-sort="Williams Javonte">
-				        					        <a href="/nfl/player/javonte-williams" title="Javonte Williams">Javonte Williams</a>
+			        <td class="text-left" data-sort="Kamara Alvin">
+				        					        <a href="/nfl/player/alvin-kamara" title="Alvin Kamara">Alvin Kamara</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/denver-broncos">Denver Broncos</a></td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/new-orleans-saints">New Orleans Saints</a></td>
         			 <td class="text-left">RB</td>
         			 <td class="text-right" data-sort="0030">30</td>
 			</tr>
@@ -2708,20 +2708,20 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="072">72</td>
-			        <td class="text-left" data-sort="Ekeler Austin">
-				        					        <a href="/nfl/player/austin-ekeler" title="Austin Ekeler">Austin Ekeler</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-chargers">Los Angeles Chargers</a></td>
-        			 <td class="text-left">RB</td>
-        			 <td class="text-right" data-sort="0020">20</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="072">72</td>
 			        <td class="text-left" data-sort="Winston Jameis">
 				        					        <a href="/nfl/player/jameis-winston" title="Jameis Winston">Jameis Winston</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/new-orleans-saints">New Orleans Saints</a></td>
         			 <td class="text-left">QB</td>
+        			 <td class="text-right" data-sort="0020">20</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="072">72</td>
+			        <td class="text-left" data-sort="Ekeler Austin">
+				        					        <a href="/nfl/player/austin-ekeler" title="Austin Ekeler">Austin Ekeler</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-chargers">Los Angeles Chargers</a></td>
+        			 <td class="text-left">RB</td>
         			 <td class="text-right" data-sort="0020">20</td>
 			</tr>
 							        <tr>
@@ -2825,8 +2825,8 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="083">83</td>
-			        <td class="text-left" data-sort="Huntley Jason">
-				        					        <a href="/nfl/player/jason-huntley" title="Jason Huntley">Jason Huntley</a>
+			        <td class="text-left" data-sort="Gainwell Kenneth">
+				        					        <a href="/nfl/player/kenny-gainwell" title="Kenneth Gainwell">Kenneth Gainwell</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/philadelphia-eagles">Philadelphia Eagles</a></td>
         			 <td class="text-left">RB</td>
@@ -2834,8 +2834,8 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="083">83</td>
-			        <td class="text-left" data-sort="Gainwell Kenneth">
-				        					        <a href="/nfl/player/kenny-gainwell" title="Kenneth Gainwell">Kenneth Gainwell</a>
+			        <td class="text-left" data-sort="Huntley Jason">
+				        					        <a href="/nfl/player/jason-huntley" title="Jason Huntley">Jason Huntley</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/philadelphia-eagles">Philadelphia Eagles</a></td>
         			 <td class="text-left">RB</td>
@@ -3278,7 +3278,7 @@
 		var om_track_page_type = 'player_stat';
 		var om_track_user_type = 'visitor';
 		var om_http_referer = '';
-		var om_csrf_token = "8556fbd3437b473fe2bd8eaf6e3156e28cc8d26584c1881f1398b12511b80a27";
+		var om_csrf_token = "c61c1e2e276051a8aa5d30c34b2d72aa0d661ef41b2fe276a104515a2e13ad9d";
 	</script>
 	<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,13994,'rra9f0aquvvs7lnpzbk3');</script>
 

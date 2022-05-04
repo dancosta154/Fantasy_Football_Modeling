@@ -1509,7 +1509,7 @@
 					<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 				</div>
 			<input type="hidden" name="team_id" value="" class="team-id-val">
-			<input type="hidden" name="formtime" value="1651700883" class="formtime-val">
+			<input type="hidden" name="formtime" value="1651702581" class="formtime-val">
 			<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 				
 				<div class="msg msg-success space-bottom hidden"></div>
@@ -1783,7 +1783,7 @@
 								<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 							</div>
 							<input type="hidden" name="team_id" value="" class="team-id-val">
-							<input type="hidden" name="formtime" value="1651700883" class="formtime-val">
+							<input type="hidden" name="formtime" value="1651702581" class="formtime-val">
 							<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 						</div> <!-- desktop-bar-text-wrapper -->
 					</div> <!-- desktop-bar-wrapper -->
@@ -2654,20 +2654,20 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="065">65</td>
-			        <td class="text-left" data-sort="Collins Alex">
-				        					        <a href="/nfl/player/alex-collins" title="Alex Collins">Alex Collins</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/seattle-seahawks">Seattle Seahawks</a></td>
-        			 <td class="text-left">RB</td>
-        			 <td class="text-right" data-sort="0025">25</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="065">65</td>
 			        <td class="text-left" data-sort="Johnson Diontae">
 				        					        <a href="/nfl/player/diontae-johnson" title="Diontae Johnson">Diontae Johnson</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/pittsburgh-steelers">Pittsburgh Steelers</a></td>
         			 <td class="text-left">WR</td>
+        			 <td class="text-right" data-sort="0025">25</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="065">65</td>
+			        <td class="text-left" data-sort="Collins Alex">
+				        					        <a href="/nfl/player/alex-collins" title="Alex Collins">Alex Collins</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/seattle-seahawks">Seattle Seahawks</a></td>
+        			 <td class="text-left">RB</td>
         			 <td class="text-right" data-sort="0025">25</td>
 			</tr>
 							        <tr>
@@ -2771,20 +2771,20 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="077">77</td>
-			        <td class="text-left" data-sort="Trubisky Mitchell">
-				        					        <a href="/nfl/player/mitch-trubisky" title="Mitchell Trubisky">Mitchell Trubisky</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/buffalo-bills">Buffalo Bills</a></td>
-        			 <td class="text-left">QB</td>
-        			 <td class="text-right" data-sort="0022">22</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="077">77</td>
 			        <td class="text-left" data-sort="Johnson Ty">
 				        					        <a href="/nfl/player/ty-johnson-3" title="Ty Johnson">Ty Johnson</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/new-york-jets">New York Jets</a></td>
         			 <td class="text-left">RB</td>
+        			 <td class="text-right" data-sort="0022">22</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="077">77</td>
+			        <td class="text-left" data-sort="Trubisky Mitchell">
+				        					        <a href="/nfl/player/mitch-trubisky" title="Mitchell Trubisky">Mitchell Trubisky</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/buffalo-bills">Buffalo Bills</a></td>
+        			 <td class="text-left">QB</td>
         			 <td class="text-right" data-sort="0022">22</td>
 			</tr>
 							        <tr>
@@ -3278,7 +3278,7 @@
 		var om_track_page_type = 'player_stat';
 		var om_track_user_type = 'visitor';
 		var om_http_referer = '';
-		var om_csrf_token = "f5098908f1dc18d08bbf4872485c8495a4f34cb302c25014e956240a3690dbaf";
+		var om_csrf_token = "fbcfba2cc7198b6287dc8f24d9282118a31fd44f4712523e15dbe9c634efe582";
 	</script>
 	<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,13994,'rra9f0aquvvs7lnpzbk3');</script>
 

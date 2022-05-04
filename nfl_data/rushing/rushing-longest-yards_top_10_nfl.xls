@@ -1509,7 +1509,7 @@
 					<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 				</div>
 			<input type="hidden" name="team_id" value="" class="team-id-val">
-			<input type="hidden" name="formtime" value="1651700885" class="formtime-val">
+			<input type="hidden" name="formtime" value="1651702583" class="formtime-val">
 			<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 				
 				<div class="msg msg-success space-bottom hidden"></div>
@@ -1783,7 +1783,7 @@
 								<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 							</div>
 							<input type="hidden" name="team_id" value="" class="team-id-val">
-							<input type="hidden" name="formtime" value="1651700885" class="formtime-val">
+							<input type="hidden" name="formtime" value="1651702583" class="formtime-val">
 							<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 						</div> <!-- desktop-bar-text-wrapper -->
 					</div> <!-- desktop-bar-wrapper -->
@@ -2366,15 +2366,6 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="035">35</td>
-			        <td class="text-left" data-sort="Hurts Jalen">
-				        					        <a href="/nfl/player/jalen-hurts" title="Jalen Hurts">Jalen Hurts</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/philadelphia-eagles">Philadelphia Eagles</a></td>
-        			 <td class="text-left">QB</td>
-        			 <td class="text-right" data-sort="0027">27</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="035">35</td>
 			        <td class="text-left" data-sort="Samuel Deebo">
 				        					        <a href="/nfl/player/deebo-samuel" title="Deebo Samuel">Deebo Samuel</a>
                 			        			 </td>
@@ -2389,6 +2380,15 @@
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/washington-commanders">Washington Commanders</a></td>
         			 <td class="text-left">WR</td>
+        			 <td class="text-right" data-sort="0027">27</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="035">35</td>
+			        <td class="text-left" data-sort="Hurts Jalen">
+				        					        <a href="/nfl/player/jalen-hurts" title="Jalen Hurts">Jalen Hurts</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/philadelphia-eagles">Philadelphia Eagles</a></td>
+        			 <td class="text-left">QB</td>
         			 <td class="text-right" data-sort="0027">27</td>
 			</tr>
 							        <tr>
@@ -3278,7 +3278,7 @@
 		var om_track_page_type = 'player_stat';
 		var om_track_user_type = 'visitor';
 		var om_http_referer = '';
-		var om_csrf_token = "0faf3bdce989608f9ea2a5dc053a34efe938133bbbe11dd37426ac072dfc5be1";
+		var om_csrf_token = "402a1cd6e13557b6c4891693e289b759471a08d37e60b56a535bdc039a8524ca";
 	</script>
 	<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,13994,'rra9f0aquvvs7lnpzbk3');</script>
 

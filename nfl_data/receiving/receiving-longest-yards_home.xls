@@ -1509,7 +1509,7 @@
 					<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 				</div>
 			<input type="hidden" name="team_id" value="" class="team-id-val">
-			<input type="hidden" name="formtime" value="1651699945" class="formtime-val">
+			<input type="hidden" name="formtime" value="1651702330" class="formtime-val">
 			<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 				
 				<div class="msg msg-success space-bottom hidden"></div>
@@ -1783,7 +1783,7 @@
 								<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 							</div>
 							<input type="hidden" name="team_id" value="" class="team-id-val">
-							<input type="hidden" name="formtime" value="1651699945" class="formtime-val">
+							<input type="hidden" name="formtime" value="1651702330" class="formtime-val">
 							<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 						</div> <!-- desktop-bar-text-wrapper -->
 					</div> <!-- desktop-bar-wrapper -->
@@ -2448,19 +2448,19 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="044">44</td>
-			        <td class="text-left" data-sort="Hilton T.Y.">
-				        					        <a href="/nfl/player/ty-hilton" title="T.Y. Hilton">T.Y. Hilton</a>
+			        <td class="text-left" data-sort="Higgins Tee">
+				        					        <a href="/nfl/player/tee-higgins" title="Tee Higgins">Tee Higgins</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/indianapolis-colts">Indianapolis Colts</a></td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/cincinnati-bengals">Cincinnati Bengals</a></td>
         			 <td class="text-left">WR</td>
         			 <td class="text-right" data-sort="0052">52</td>
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="044">44</td>
-			        <td class="text-left" data-sort="Higgins Tee">
-				        					        <a href="/nfl/player/tee-higgins" title="Tee Higgins">Tee Higgins</a>
+			        <td class="text-left" data-sort="Hilton T.Y.">
+				        					        <a href="/nfl/player/ty-hilton" title="T.Y. Hilton">T.Y. Hilton</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/cincinnati-bengals">Cincinnati Bengals</a></td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/indianapolis-colts">Indianapolis Colts</a></td>
         			 <td class="text-left">WR</td>
         			 <td class="text-right" data-sort="0052">52</td>
 			</tr>
@@ -2781,19 +2781,19 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="076">76</td>
-			        <td class="text-left" data-sort="Allen Keenan">
-				        					        <a href="/nfl/player/keenan-allen" title="Keenan Allen">Keenan Allen</a>
+			        <td class="text-left" data-sort="Parker DeVante">
+				        					        <a href="/nfl/player/devante-parker" title="DeVante Parker">DeVante Parker</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-chargers">Los Angeles Chargers</a></td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/miami-dolphins">Miami Dolphins</a></td>
         			 <td class="text-left">WR</td>
         			 <td class="text-right" data-sort="0042">42</td>
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="076">76</td>
-			        <td class="text-left" data-sort="Parker DeVante">
-				        					        <a href="/nfl/player/devante-parker" title="DeVante Parker">DeVante Parker</a>
+			        <td class="text-left" data-sort="Allen Keenan">
+				        					        <a href="/nfl/player/keenan-allen" title="Keenan Allen">Keenan Allen</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/miami-dolphins">Miami Dolphins</a></td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-chargers">Los Angeles Chargers</a></td>
         			 <td class="text-left">WR</td>
         			 <td class="text-right" data-sort="0042">42</td>
 			</tr>
@@ -2844,19 +2844,19 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="084">84</td>
-			        <td class="text-left" data-sort="Green A.J.">
-				        					        <a href="/nfl/player/aj-green" title="A.J. Green">A.J. Green</a>
+			        <td class="text-left" data-sort="Conley Chris">
+				        					        <a href="/nfl/player/chris-conley-2" title="Chris Conley">Chris Conley</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/arizona-cardinals">Arizona Cardinals</a></td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/houston-texans">Houston Texans</a></td>
         			 <td class="text-left">WR</td>
         			 <td class="text-right" data-sort="0041">41</td>
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="084">84</td>
-			        <td class="text-left" data-sort="Conley Chris">
-				        					        <a href="/nfl/player/chris-conley-2" title="Chris Conley">Chris Conley</a>
+			        <td class="text-left" data-sort="Green A.J.">
+				        					        <a href="/nfl/player/aj-green" title="A.J. Green">A.J. Green</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/houston-texans">Houston Texans</a></td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/arizona-cardinals">Arizona Cardinals</a></td>
         			 <td class="text-left">WR</td>
         			 <td class="text-right" data-sort="0041">41</td>
 			</tr>
@@ -3287,7 +3287,7 @@
 		var om_track_page_type = 'player_stat';
 		var om_track_user_type = 'visitor';
 		var om_http_referer = '';
-		var om_csrf_token = "8bde5f602f3e41344f9650b21d836c27ba69173ebbf3fd1780ce5e20d632a0b8";
+		var om_csrf_token = "e2795b103ddaceeb74587afa935be366b2e53deb411c58695cdcbed68c3f561b";
 	</script>
 	<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,13994,'rra9f0aquvvs7lnpzbk3');</script>
 

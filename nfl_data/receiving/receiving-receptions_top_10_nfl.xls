@@ -1509,7 +1509,7 @@
 					<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 				</div>
 			<input type="hidden" name="team_id" value="" class="team-id-val">
-			<input type="hidden" name="formtime" value="1651699939" class="formtime-val">
+			<input type="hidden" name="formtime" value="1651702324" class="formtime-val">
 			<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 				
 				<div class="msg msg-success space-bottom hidden"></div>
@@ -1783,7 +1783,7 @@
 								<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 							</div>
 							<input type="hidden" name="team_id" value="" class="team-id-val">
-							<input type="hidden" name="formtime" value="1651699939" class="formtime-val">
+							<input type="hidden" name="formtime" value="1651702324" class="formtime-val">
 							<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 						</div> <!-- desktop-bar-text-wrapper -->
 					</div> <!-- desktop-bar-wrapper -->
@@ -2880,19 +2880,19 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="086">86</td>
-			        <td class="text-left" data-sort="Patrick Tim">
-				        					        <a href="/nfl/player/tim-patrick-2" title="Tim Patrick">Tim Patrick</a>
+			        <td class="text-left" data-sort="Cephus Quintez">
+				        					        <a href="/nfl/player/quintez-cephus" title="Quintez Cephus">Quintez Cephus</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/denver-broncos">Denver Broncos</a></td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/detroit-lions">Detroit Lions</a></td>
         			 <td class="text-left">WR</td>
         			 <td class="text-right" data-sort="0003.5">3.50</td>
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="086">86</td>
-			        <td class="text-left" data-sort="Cephus Quintez">
-				        					        <a href="/nfl/player/quintez-cephus" title="Quintez Cephus">Quintez Cephus</a>
+			        <td class="text-left" data-sort="Patrick Tim">
+				        					        <a href="/nfl/player/tim-patrick-2" title="Tim Patrick">Tim Patrick</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/detroit-lions">Detroit Lions</a></td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/denver-broncos">Denver Broncos</a></td>
         			 <td class="text-left">WR</td>
         			 <td class="text-right" data-sort="0003.5">3.50</td>
 			</tr>
@@ -3287,7 +3287,7 @@
 		var om_track_page_type = 'player_stat';
 		var om_track_user_type = 'visitor';
 		var om_http_referer = '';
-		var om_csrf_token = "6a58a018665d3d5103088f77ab15a5b0318e018885f70d05da21bcdea164fa5f";
+		var om_csrf_token = "22793345fa4b23ca18cf03d5f145d264991b8d6179cb313defbe3d33028a5663";
 	</script>
 	<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,13994,'rra9f0aquvvs7lnpzbk3');</script>
 

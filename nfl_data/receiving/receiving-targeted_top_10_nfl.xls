@@ -1509,7 +1509,7 @@
 					<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 				</div>
 			<input type="hidden" name="team_id" value="" class="team-id-val">
-			<input type="hidden" name="formtime" value="1651699949" class="formtime-val">
+			<input type="hidden" name="formtime" value="1651702334" class="formtime-val">
 			<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 				
 				<div class="msg msg-success space-bottom hidden"></div>
@@ -1783,7 +1783,7 @@
 								<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 							</div>
 							<input type="hidden" name="team_id" value="" class="team-id-val">
-							<input type="hidden" name="formtime" value="1651699949" class="formtime-val">
+							<input type="hidden" name="formtime" value="1651702334" class="formtime-val">
 							<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 						</div> <!-- desktop-bar-text-wrapper -->
 					</div> <!-- desktop-bar-wrapper -->
@@ -2925,19 +2925,19 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="095">95</td>
-			        <td class="text-left" data-sort="Shenault Jr. Laviska">
-				        					        <a href="/nfl/player/laviska-shenault-jr" title="Laviska Shenault Jr.">Laviska Shenault Jr.</a>
+			        <td class="text-left" data-sort="Watkins Quez">
+				        					        <a href="/nfl/player/quez-watkins" title="Quez Watkins">Quez Watkins</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/jacksonville-jaguars">Jacksonville Jaguars</a></td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/philadelphia-eagles">Philadelphia Eagles</a></td>
         			 <td class="text-left">WR</td>
         			 <td class="text-right" data-sort="0005">5.00</td>
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="095">95</td>
-			        <td class="text-left" data-sort="Watkins Quez">
-				        					        <a href="/nfl/player/quez-watkins" title="Quez Watkins">Quez Watkins</a>
+			        <td class="text-left" data-sort="Shenault Jr. Laviska">
+				        					        <a href="/nfl/player/laviska-shenault-jr" title="Laviska Shenault Jr.">Laviska Shenault Jr.</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/philadelphia-eagles">Philadelphia Eagles</a></td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/jacksonville-jaguars">Jacksonville Jaguars</a></td>
         			 <td class="text-left">WR</td>
         			 <td class="text-right" data-sort="0005">5.00</td>
 			</tr>
@@ -3287,7 +3287,7 @@
 		var om_track_page_type = 'player_stat';
 		var om_track_user_type = 'visitor';
 		var om_http_referer = '';
-		var om_csrf_token = "9fde59a96bd8289071ce84a63da68394ddfd0b17731999d469e623ead27c457d";
+		var om_csrf_token = "561c8a3195ea0e361ed65d33a9fe1b46dfb1c48ca4483581e7e30c85563a6b2a";
 	</script>
 	<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,13994,'rra9f0aquvvs7lnpzbk3');</script>
 

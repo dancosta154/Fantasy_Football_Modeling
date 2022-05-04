@@ -1509,7 +1509,7 @@
 					<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 				</div>
 			<input type="hidden" name="team_id" value="" class="team-id-val">
-			<input type="hidden" name="formtime" value="1651699948" class="formtime-val">
+			<input type="hidden" name="formtime" value="1651702332" class="formtime-val">
 			<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 				
 				<div class="msg msg-success space-bottom hidden"></div>
@@ -1783,7 +1783,7 @@
 								<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 							</div>
 							<input type="hidden" name="team_id" value="" class="team-id-val">
-							<input type="hidden" name="formtime" value="1651699948" class="formtime-val">
+							<input type="hidden" name="formtime" value="1651702332" class="formtime-val">
 							<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 						</div> <!-- desktop-bar-text-wrapper -->
 					</div> <!-- desktop-bar-wrapper -->
@@ -2889,20 +2889,20 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="090">90</td>
-			        <td class="text-left" data-sort="Cook Jared">
-				        					        <a href="/nfl/player/jared-cook-2" title="Jared Cook">Jared Cook</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-chargers">Los Angeles Chargers</a></td>
-        			 <td class="text-left">TE</td>
-        			 <td class="text-right" data-sort="0005">5.00</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="090">90</td>
 			        <td class="text-left" data-sort="Osborn K.J.">
 				        					        <a href="/nfl/player/kj-osborn" title="K.J. Osborn">K.J. Osborn</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/minnesota-vikings">Minnesota Vikings</a></td>
         			 <td class="text-left">WR</td>
+        			 <td class="text-right" data-sort="0005">5.00</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="090">90</td>
+			        <td class="text-left" data-sort="Cook Jared">
+				        					        <a href="/nfl/player/jared-cook-2" title="Jared Cook">Jared Cook</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-chargers">Los Angeles Chargers</a></td>
+        			 <td class="text-left">TE</td>
         			 <td class="text-right" data-sort="0005">5.00</td>
 			</tr>
 							        <tr>
@@ -3287,7 +3287,7 @@
 		var om_track_page_type = 'player_stat';
 		var om_track_user_type = 'visitor';
 		var om_http_referer = '';
-		var om_csrf_token = "7efa3c49bc0f1fece70a759ce56beb4500188bb0c74e827f4d714fe595107c89";
+		var om_csrf_token = "b000ba85648c83134c75127fe75cc6fe381c454e95c3af4f4965e506d2f7bce2";
 	</script>
 	<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,13994,'rra9f0aquvvs7lnpzbk3');</script>
 

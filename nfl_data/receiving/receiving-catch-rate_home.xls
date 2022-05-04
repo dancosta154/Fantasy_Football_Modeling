@@ -1509,7 +1509,7 @@
 					<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 				</div>
 			<input type="hidden" name="team_id" value="" class="team-id-val">
-			<input type="hidden" name="formtime" value="1651699950" class="formtime-val">
+			<input type="hidden" name="formtime" value="1651702334" class="formtime-val">
 			<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 				
 				<div class="msg msg-success space-bottom hidden"></div>
@@ -1783,7 +1783,7 @@
 								<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 							</div>
 							<input type="hidden" name="team_id" value="" class="team-id-val">
-							<input type="hidden" name="formtime" value="1651699950" class="formtime-val">
+							<input type="hidden" name="formtime" value="1651702334" class="formtime-val">
 							<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 						</div> <!-- desktop-bar-text-wrapper -->
 					</div> <!-- desktop-bar-wrapper -->
@@ -2835,20 +2835,20 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="085">85</td>
-			        <td class="text-left" data-sort="Njoku David">
-				        					        <a href="/nfl/player/david-njoku" title="David Njoku">David Njoku</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/cleveland-browns">Cleveland Browns</a></td>
-        			 <td class="text-left">TE</td>
-        			 <td class="text-right" data-sort="0000.714286">71.4%</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="085">85</td>
 			        <td class="text-left" data-sort="Singletary Devin">
 				        					        <a href="/nfl/player/devin-singletary" title="Devin Singletary">Devin Singletary</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/buffalo-bills">Buffalo Bills</a></td>
         			 <td class="text-left">RB</td>
+        			 <td class="text-right" data-sort="0000.714286">71.4%</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="085">85</td>
+			        <td class="text-left" data-sort="Njoku David">
+				        					        <a href="/nfl/player/david-njoku" title="David Njoku">David Njoku</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/cleveland-browns">Cleveland Browns</a></td>
+        			 <td class="text-left">TE</td>
         			 <td class="text-right" data-sort="0000.714286">71.4%</td>
 			</tr>
 							        <tr>
@@ -2907,20 +2907,20 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="095">95</td>
-			        <td class="text-left" data-sort="Jefferson Justin">
-				        					        <a href="/nfl/player/justin-jefferson" title="Justin Jefferson">Justin Jefferson</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/minnesota-vikings">Minnesota Vikings</a></td>
-        			 <td class="text-left">WR</td>
-        			 <td class="text-right" data-sort="0000.702703">70.3%</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="095">95</td>
 			        <td class="text-left" data-sort="Hines Nyheim">
 				        					        <a href="/nfl/player/nyheim-hines" title="Nyheim Hines">Nyheim Hines</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/indianapolis-colts">Indianapolis Colts</a></td>
         			 <td class="text-left">RB</td>
+        			 <td class="text-right" data-sort="0000.702703">70.3%</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="095">95</td>
+			        <td class="text-left" data-sort="Jefferson Justin">
+				        					        <a href="/nfl/player/justin-jefferson" title="Justin Jefferson">Justin Jefferson</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/minnesota-vikings">Minnesota Vikings</a></td>
+        			 <td class="text-left">WR</td>
         			 <td class="text-right" data-sort="0000.702703">70.3%</td>
 			</tr>
 							        <tr>
@@ -3303,7 +3303,7 @@
 		var om_track_page_type = 'player_stat';
 		var om_track_user_type = 'visitor';
 		var om_http_referer = '';
-		var om_csrf_token = "11c88944dc5bb175cc094335c29cafe6d7a787e8f03e3299a9d546665c0326f4";
+		var om_csrf_token = "63e618e6a10eb8ba0597797a90b3acd9a37f854f9bbb9bf2fa1c59c4fe01a590";
 	</script>
 	<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,13994,'rra9f0aquvvs7lnpzbk3');</script>
 

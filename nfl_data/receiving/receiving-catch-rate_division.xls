@@ -1509,7 +1509,7 @@
 					<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 				</div>
 			<input type="hidden" name="team_id" value="" class="team-id-val">
-			<input type="hidden" name="formtime" value="1651699950" class="formtime-val">
+			<input type="hidden" name="formtime" value="1651702335" class="formtime-val">
 			<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 				
 				<div class="msg msg-success space-bottom hidden"></div>
@@ -1783,7 +1783,7 @@
 								<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 							</div>
 							<input type="hidden" name="team_id" value="" class="team-id-val">
-							<input type="hidden" name="formtime" value="1651699950" class="formtime-val">
+							<input type="hidden" name="formtime" value="1651702335" class="formtime-val">
 							<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 						</div> <!-- desktop-bar-text-wrapper -->
 					</div> <!-- desktop-bar-wrapper -->
@@ -2097,19 +2097,19 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="001">1</td>
-			        <td class="text-left" data-sort="Benjamin Eno">
-				        					        <a href="/nfl/player/eno-benjamin" title="Eno Benjamin">Eno Benjamin</a>
+			        <td class="text-left" data-sort="Williams Jamaal">
+				        					        <a href="/nfl/player/jamaal-williams" title="Jamaal Williams">Jamaal Williams</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/arizona-cardinals">Arizona Cardinals</a></td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/detroit-lions">Detroit Lions</a></td>
         			 <td class="text-left">RB</td>
         			 <td class="text-right" data-sort="0001">100.0%</td>
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="001">1</td>
-			        <td class="text-left" data-sort="Williams Jamaal">
-				        					        <a href="/nfl/player/jamaal-williams" title="Jamaal Williams">Jamaal Williams</a>
+			        <td class="text-left" data-sort="Benjamin Eno">
+				        					        <a href="/nfl/player/eno-benjamin" title="Eno Benjamin">Eno Benjamin</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/detroit-lions">Detroit Lions</a></td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/arizona-cardinals">Arizona Cardinals</a></td>
         			 <td class="text-left">RB</td>
         			 <td class="text-right" data-sort="0001">100.0%</td>
 			</tr>
@@ -2565,20 +2565,20 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="052">52</td>
-			        <td class="text-left" data-sort="Evans Chris">
-				        					        <a href="/nfl/player/chris-evans-8" title="Chris Evans">Chris Evans</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/cincinnati-bengals">Cincinnati Bengals</a></td>
-        			 <td class="text-left">RB</td>
-        			 <td class="text-right" data-sort="0000.8">80.0%</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="052">52</td>
 			        <td class="text-left" data-sort="Amendola Danny">
 				        					        <a href="/nfl/player/danny-amendola" title="Danny Amendola">Danny Amendola</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/houston-texans">Houston Texans</a></td>
         			 <td class="text-left">WR</td>
+        			 <td class="text-right" data-sort="0000.8">80.0%</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="052">52</td>
+			        <td class="text-left" data-sort="Evans Chris">
+				        					        <a href="/nfl/player/chris-evans-8" title="Chris Evans">Chris Evans</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/cincinnati-bengals">Cincinnati Bengals</a></td>
+        			 <td class="text-left">RB</td>
         			 <td class="text-right" data-sort="0000.8">80.0%</td>
 			</tr>
 							        <tr>
@@ -3303,7 +3303,7 @@
 		var om_track_page_type = 'player_stat';
 		var om_track_user_type = 'visitor';
 		var om_http_referer = '';
-		var om_csrf_token = "552e90dd9ee8e2bbe9778113cf760278bebcbed3035d74497ccc299a7e10d8f6";
+		var om_csrf_token = "768221ca7007a5964f553b13d3445d6dffdc494a4d054d0efa6fdad63883d954";
 	</script>
 	<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,13994,'rra9f0aquvvs7lnpzbk3');</script>
 

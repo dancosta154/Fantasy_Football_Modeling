@@ -1509,7 +1509,7 @@
 					<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 				</div>
 			<input type="hidden" name="team_id" value="" class="team-id-val">
-			<input type="hidden" name="formtime" value="1651699941" class="formtime-val">
+			<input type="hidden" name="formtime" value="1651702326" class="formtime-val">
 			<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 				
 				<div class="msg msg-success space-bottom hidden"></div>
@@ -1783,7 +1783,7 @@
 								<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 							</div>
 							<input type="hidden" name="team_id" value="" class="team-id-val">
-							<input type="hidden" name="formtime" value="1651699941" class="formtime-val">
+							<input type="hidden" name="formtime" value="1651702326" class="formtime-val">
 							<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 						</div> <!-- desktop-bar-text-wrapper -->
 					</div> <!-- desktop-bar-wrapper -->
@@ -2682,19 +2682,19 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="070">70</td>
-			        <td class="text-left" data-sort="Thielen Adam">
-				        					        <a href="/nfl/player/adam-thielen" title="Adam Thielen">Adam Thielen</a>
+			        <td class="text-left" data-sort="Woods Robert">
+				        					        <a href="/nfl/player/robert-woods" title="Robert Woods">Robert Woods</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/minnesota-vikings">Minnesota Vikings</a></td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
         			 <td class="text-left">WR</td>
         			 <td class="text-right" data-sort="0012">12.0</td>
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="070">70</td>
-			        <td class="text-left" data-sort="Woods Robert">
-				        					        <a href="/nfl/player/robert-woods" title="Robert Woods">Robert Woods</a>
+			        <td class="text-left" data-sort="Thielen Adam">
+				        					        <a href="/nfl/player/adam-thielen" title="Adam Thielen">Adam Thielen</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/minnesota-vikings">Minnesota Vikings</a></td>
         			 <td class="text-left">WR</td>
         			 <td class="text-right" data-sort="0012">12.0</td>
 			</tr>
@@ -3287,7 +3287,7 @@
 		var om_track_page_type = 'player_stat';
 		var om_track_user_type = 'visitor';
 		var om_http_referer = '';
-		var om_csrf_token = "a7cd0223ae92c7b74f10170c8b99cc160bae32ab3be0cdbe198e62d81b0c220a";
+		var om_csrf_token = "a532f43b76d22d1527ccda8fac8064f40f9afdedbb15b6c0166e380ab8d1e09a";
 	</script>
 	<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,13994,'rra9f0aquvvs7lnpzbk3');</script>
 

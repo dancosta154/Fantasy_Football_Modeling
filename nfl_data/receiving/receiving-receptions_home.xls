@@ -1509,7 +1509,7 @@
 					<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 				</div>
 			<input type="hidden" name="team_id" value="" class="team-id-val">
-			<input type="hidden" name="formtime" value="1651699937" class="formtime-val">
+			<input type="hidden" name="formtime" value="1651702322" class="formtime-val">
 			<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 				
 				<div class="msg msg-success space-bottom hidden"></div>
@@ -1783,7 +1783,7 @@
 								<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 							</div>
 							<input type="hidden" name="team_id" value="" class="team-id-val">
-							<input type="hidden" name="formtime" value="1651699937" class="formtime-val">
+							<input type="hidden" name="formtime" value="1651702322" class="formtime-val">
 							<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 						</div> <!-- desktop-bar-text-wrapper -->
 					</div> <!-- desktop-bar-wrapper -->
@@ -2709,19 +2709,19 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="073">73</td>
-			        <td class="text-left" data-sort="Moore Rondale">
-				        					        <a href="/nfl/player/rondale-moore" title="Rondale Moore">Rondale Moore</a>
+			        <td class="text-left" data-sort="Bourne Kendrick">
+				        					        <a href="/nfl/player/kendrick-bourne" title="Kendrick Bourne">Kendrick Bourne</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/arizona-cardinals">Arizona Cardinals</a></td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/new-england-patriots">New England Patriots</a></td>
         			 <td class="text-left">WR</td>
         			 <td class="text-right" data-sort="0003.66667">3.67</td>
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="073">73</td>
-			        <td class="text-left" data-sort="Bourne Kendrick">
-				        					        <a href="/nfl/player/kendrick-bourne" title="Kendrick Bourne">Kendrick Bourne</a>
+			        <td class="text-left" data-sort="Moore Rondale">
+				        					        <a href="/nfl/player/rondale-moore" title="Rondale Moore">Rondale Moore</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/new-england-patriots">New England Patriots</a></td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/arizona-cardinals">Arizona Cardinals</a></td>
         			 <td class="text-left">WR</td>
         			 <td class="text-right" data-sort="0003.66667">3.67</td>
 			</tr>
@@ -3287,7 +3287,7 @@
 		var om_track_page_type = 'player_stat';
 		var om_track_user_type = 'visitor';
 		var om_http_referer = '';
-		var om_csrf_token = "aa738a869ffab9022994120bd86c29b2be496ecf372f250522c080ff641e60e2";
+		var om_csrf_token = "c6b44d6f54b809aa23c0d20fc16f5bfe120097a0d774a4f3c3727276e92fee0f";
 	</script>
 	<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,13994,'rra9f0aquvvs7lnpzbk3');</script>
 
