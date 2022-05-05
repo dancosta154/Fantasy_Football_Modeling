@@ -1,0 +1,27 @@
+Player,Game,FPTS  Fantasy Points,CMP  Pass Completions,ATT  Pass Attempts,YDS  Passing Yards,TD  Touchdown Passes,INT  Interceptions Thrown,ATT  Rushing Attempts,YDS  Rushing Yards,TD  Rushing Touchdowns,Week,Pos
+Josh Allen,BUF 47 - NE 17,48,21,25,308,5,0,6,66,0,19,QB
+Patrick Mahomes,KC 42 - PIT 21,46,30,39,404,5,1,3,29,0,19,QB
+Matthew Stafford,LAR 34 - ARI 11,28,13,17,202,2,0,6,22,1,19,QB
+Dak Prescott,SF 23 - DAL 17,22,23,43,254,1,1,4,27,1,19,QB
+Tom Brady,TB 31 - PHI 15,22,29,37,271,2,0,0,0,0,19,QB
+Joe Burrow,CIN 26 - LV 19,21,24,34,244,2,0,2,-2,0,19,QB
+Ben Roethlisberger,KC 42 - PIT 21,20,29,44,215,2,0,2,-1,0,19,QB
+Mac Jones,BUF 47 - NE 17,18,24,38,232,2,2,2,18,0,19,QB
+Jalen Hurts,TB 31 - PHI 15,17,23,43,258,1,2,8,39,0,19,QB
+Derek Carr,CIN 26 - LV 19,16,29,54,310,1,1,1,20,0,19,QB
+Jimmy Garoppolo,SF 23 - DAL 17,4,16,25,172,0,1,1,1,0,19,QB
+Kyler Murray,LAR 34 - ARI 11,3,19,34,137,0,2,2,6,0,19,QB
+Mitchell Trubisky,BUF 47 - NE 17,0,0,0,0,0,0,3,-2,0,19,QB
+Josh Allen,KC 42 - BUF 36,45,27,37,329,4,0,11,68,0,20,QB
+Patrick Mahomes,KC 42 - BUF 36,45,33,44,378,3,0,7,69,1,20,QB
+Matthew Stafford,LAR 30 - TB 27,32,28,38,366,2,0,4,6,1,20,QB
+Tom Brady,LAR 30 - TB 27,15,30,54,329,1,1,1,0,0,20,QB
+Joe Burrow,CIN 19 - TEN 16,11,28,37,348,0,1,2,5,0,20,QB
+Aaron Rodgers,SF 13 - GB 10,9,20,29,225,0,0,0,0,0,20,QB
+Ryan Tannehill,CIN 19 - TEN 16,9,15,24,220,1,3,3,12,0,20,QB
+Jimmy Garoppolo,SF 13 - GB 10,3,11,19,131,0,1,0,0,0,20,QB
+Joe Burrow,CIN 27 - KC 24,24,23,38,250,2,1,5,25,0,21,QB
+Matthew Stafford,LAR 20 - SF 17,23,31,45,337,2,1,5,8,0,21,QB
+Jimmy Garoppolo,LAR 20 - SF 17,19,16,30,232,2,1,1,4,0,21,QB
+Matthew Stafford,LAR 23 - CIN 20,25,26,40,283,3,2,3,6,0,23,QB
+Joe Burrow,LAR 23 - CIN 20,16,22,33,263,1,0,2,3,0,23,QB

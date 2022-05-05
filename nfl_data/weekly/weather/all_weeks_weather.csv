@@ -1,0 +1,241 @@
+Away,Home,Forecast,Extended Forecast,Wind,Week,Wind_Speed_MPH,Wind_Direction,Temp,Weather_Desc
+Cowboys,Buccaneers,80f Humid and Partly Cloudy,Humid and Partly Cloudy. Rain until evening.,6m WSW,1,6,WSW,80,Humid and Partly Cloudy
+Eagles,Falcons,DOME,Clear. Clear throughout the day.,0,1,0,0,0,0
+Steelers,Bills,72f Mostly Cloudy,Mostly Cloudy. Rain overnight.,12m WSW,1,12,WSW,72,Mostly Cloudy
+Vikings,Bengals,82f Clear,Clear. Clear throughout the day.,11m SW,1,11,SW,82,Clear
+49ers,Lions,DOME,Mostly Cloudy. Mostly cloudy throughout the day.,0,1,0,0,0,0
+Cardinals,Titans,82f Clear,Clear. Clear throughout the day.,6m SSW,1,6,SSW,82,Clear
+Seahawks,Colts,DOME,Clear. Clear throughout the day.,0,1,0,0,0,0
+Chargers,Washington,82f Clear,Clear. Clear throughout the day.,8m SW,1,8,SW,82,Clear
+Jets,Panthers,82f Clear,Clear. Clear throughout the day.,4m WSW,1,4,WSW,82,Clear
+Jaguars,Texans,87f Partly Cloudy,Partly Cloudy. Rain starting in the afternoon.,8m E,1,8,E,87,Partly Cloudy
+Browns,Chiefs,88f Clear,Clear. Clear throughout the day.,11m SSW,1,11,SSW,88,Clear
+Dolphins,Patriots,78f Partly Cloudy,Partly Cloudy. Clear throughout the day.,11m SW,1,11,SW,78,Partly Cloudy
+Packers,Saints,84f Partly Cloudy,Partly Cloudy. Humid and partly cloudy throughout the day.,6m ENE,1,6,ENE,84,Partly Cloudy
+Broncos,Giants,82f Clear,Clear. Clear throughout the day.,12m WSW,1,12,WSW,82,Clear
+Bears,Rams,DOME,Clear. Clear throughout the day.,0,1,0,0,0,0
+Ravens,Raiders,DOME,Clear. Clear throughout the day.,0,1,0,0,0,0
+Giants,Washington,72f Overcast,Overcast. Rain in the afternoon and evening.,4m NE,2,4,NE,72,Overcast
+Bengals,Bears,80f Clear,Clear. Clear throughout the day.,5m SE,2,5,SE,80,Clear
+Texans,Browns,75f Clear,Clear. Clear throughout the day.,8m NNE,2,8,NNE,75,Clear
+Rams,Colts,DOME,Mostly Cloudy. Rain overnight.,0,2,0,0,0,0
+Bills,Dolphins,88f Humid and Partly Cloudy,Humid and Partly Cloudy. Rain in the afternoon and evening.,6m E,2,6,E,88,Humid and Partly Cloudy
+Patriots,Jets,75f Clear,Clear. Clear throughout the day.,8m N,2,8,N,75,Clear
+49ers,Eagles,76f Clear,Clear. Clear throughout the day.,7m N,2,7,N,76,Clear
+Raiders,Steelers,79f Clear,Clear. Clear throughout the day.,2m ESE,2,2,ESE,79,Clear
+Saints,Panthers,85f Mostly Cloudy,Mostly Cloudy. Mostly cloudy throughout the day.,6m ESE,2,6,ESE,85,Mostly Cloudy
+Broncos,Jaguars,80f Humid and Overcast,Humid and Overcast. Rain and humid throughout the day.,9m E,2,9,E,80,Humid and Overcast
+Vikings,Cardinals,DOME,Clear. Clear throughout the day.,0,2,0,0,0,0
+Falcons,Buccaneers,86f Humid and Overcast,Humid and Overcast. Rain and humid throughout the day.,4m NW,2,4,NW,86,Humid and Overcast
+Cowboys,Chargers,DOME,Clear. Clear throughout the day.,0,2,0,0,0,0
+Titans,Seahawks,62f Mostly Cloudy,Mostly Cloudy. Rain until evening.,8m S,2,8,S,62,Mostly Cloudy
+Chiefs,Ravens,72f Clear,Clear. Clear throughout the day.,4m ENE,2,4,ENE,72,Clear
+Lions,Packers,72f Mostly Cloudy,Mostly Cloudy. Rain overnight.,13m SSE,2,13,SSE,72,Mostly Cloudy
+Panthers,Texans,77f Clear,Clear. Clear throughout the day.,6m ESE,3,6,ESE,77,Clear
+Washington,Bills,61f Clear,Clear. Clear throughout the day.,15m W,3,15,W,61,Clear
+Bears,Browns,71f Clear,Clear. Clear throughout the day.,14m WSW,3,14,WSW,71,Clear
+Ravens,Lions,DOME,Partly Cloudy. Clear throughout the day.,0,3,0,0,0,0
+Colts,Titans,72f Clear,Clear. Clear throughout the day.,3m SSW,3,3,SSW,72,Clear
+Chargers,Chiefs,79f Clear,Clear. Windy overnight.,17m SSW,3,17,SSW,79,Clear
+Saints,Patriots,72f Clear,Clear. Rain in the morning.,9m WNW,3,9,WNW,72,Clear
+Falcons,Giants,70f Clear,Clear. Clear throughout the day.,12m WNW,3,12,WNW,70,Clear
+Bengals,Steelers,69f Clear,Clear. Clear throughout the day.,8m SSW,3,8,SSW,69,Clear
+Cardinals,Jaguars,82f Clear,Clear. Clear throughout the day.,7m ENE,3,7,ENE,82,Clear
+Jets,Broncos,87f Foggy,Foggy. Foggy until evening.,6m ENE,3,6,ENE,87,Foggy
+Dolphins,Raiders,DOME,Clear. Clear throughout the day.,0,3,0,0,0,0
+Buccaneers,Rams,DOME,Mostly Cloudy. Mostly cloudy throughout the day.,0,3,0,0,0,0
+Seahawks,Vikings,DOME,Mostly Cloudy. Partly cloudy throughout the day.,0,3,0,0,0,0
+Packers,49ers,66f Clear,Clear. Partly cloudy throughout the day.,7m NW,3,7,NW,66,Clear
+Eagles,Cowboys,84f Clear,Clear. Partly cloudy throughout the day.,6m SE,3,6,SE,84,Clear
+Jaguars,Bengals,69f Mostly Cloudy,Mostly Cloudy. Partly cloudy throughout the day.,4m ENE,4,4,ENE,69,Mostly Cloudy
+Washington,Falcons,DOME,Overcast. Rain in the morning and overnight.,0,4,0,0,0,0
+Texans,Bills,63f Rain,Rain. Rain throughout the day.,8m SW,4,8,SW,63,Rain
+Lions,Bears,71f Mostly Cloudy,Mostly Cloudy. Rain throughout the day.,4m W,4,4,W,71,Mostly Cloudy
+Panthers,Cowboys,80f Clear,Clear. Clear throughout the day.,7m NNW,4,7,NNW,80,Clear
+Colts,Dolphins,85f Mostly Cloudy,Mostly Cloudy. Humid and partly cloudy throughout the day.,12m E,4,12,E,85,Mostly Cloudy
+Browns,Vikings,DOME,Partly Cloudy. Partly cloudy throughout the day.,0,4,0,0,0,0
+Giants,Saints,DOME,Humid and Mostly Cloudy. Rain in the afternoon.,0,4,0,0,0,0
+Titans,Jets,77f Clear,Clear. Light rain overnight.,6m WSW,4,6,WSW,77,Clear
+Chiefs,Eagles,76f Partly Cloudy,Partly Cloudy. Possible drizzle overnight.,4m W,4,4,W,76,Partly Cloudy
+Cardinals,Rams,DOME,Clear. Clear throughout the day.,0,4,0,0,0,0
+Seahawks,49ers,87f Clear,Clear. Clear throughout the day.,5m NW,4,5,NW,87,Clear
+Ravens,Broncos,76f Foggy,Foggy. Foggy until evening.,3m ENE,4,3,ENE,76,Foggy
+Steelers,Packers,67f Overcast,Overcast. Rain until evening.,4m ENE,4,4,ENE,67,Overcast
+Buccaneers,Patriots,60f Overcast,Overcast. Rain in the evening and overnight.,4m ENE,4,4,ENE,60,Overcast
+Raiders,Chargers,DOME,Light Rain. Possible light rain in the afternoon and evening.,0,4,0,0,0,0
+Rams,Seahawks,55f Clear,Clear. Partly cloudy throughout the day.,5m NNW,5,5,NNW,55,Clear
+Jets,Falcons,63f Mostly Cloudy,Mostly Cloudy. Mostly cloudy throughout the day.,8m N,5,8,N,63,Mostly Cloudy
+Packers,Bengals,78f Partly Cloudy,Partly Cloudy. Partly cloudy throughout the day.,9m S,5,9,S,78,Partly Cloudy
+Lions,Vikings,DOME,Partly Cloudy. Partly cloudy throughout the day.,0,5,0,0,0,0
+Broncos,Steelers,73f Clear,Clear. Clear throughout the day.,2m SE,5,2,SE,73,Clear
+Dolphins,Buccaneers,84f Clear,Clear. Clear throughout the day.,5m N,5,5,N,84,Clear
+Saints,Washington,70f Overcast,Overcast. Possible drizzle in the morning.,9m NE,5,9,NE,70,Overcast
+Eagles,Panthers,74f Partly Cloudy,Partly Cloudy. Clear throughout the day.,9m NNE,5,9,NNE,74,Partly Cloudy
+Titans,Jaguars,78f Mostly Cloudy,Mostly Cloudy. Partly cloudy throughout the day.,6m NE,5,6,NE,78,Mostly Cloudy
+Patriots,Texans,86f Humid and Partly Cloudy,Humid and Partly Cloudy. Humid and mostly cloudy throughout the day.,15m SSE,5,15,SSE,86,Humid and Partly Cloudy
+Browns,Chargers,DOME,Clear. Clear throughout the day.,0,5,0,0,0,0
+Bears,Raiders,DOME,Clear. Clear throughout the day.,0,5,0,0,0,0
+Giants,Cowboys,88f Partly Cloudy,Partly Cloudy. Rain in the evening and overnight.,16m S,5,16,S,88,Partly Cloudy
+49ers,Cardinals,DOME,Clear. Clear throughout the day.,0,5,0,0,0,0
+Bills,Chiefs,69f Mostly Cloudy,Mostly Cloudy. Heavy rain in the evening and overnight.,7m NNW,5,7,NNW,69,Mostly Cloudy
+Colts,Ravens,67f Mostly Cloudy,Mostly Cloudy. Mostly cloudy throughout the day.,4m NE,5,4,NE,67,Mostly Cloudy
+Buccaneers,Eagles,70f Partly Cloudy,Partly Cloudy. Partly cloudy throughout the day.,3m W,6,3,W,70,Partly Cloudy
+Dolphins,Jaguars,61f Mostly Cloudy,Mostly Cloudy. Overcast throughout the day.,10m SSW,6,10,SSW,61,Mostly Cloudy
+Packers,Bears,60f Clear,Clear. Clear throughout the day.,9m W,6,9,W,60,Clear
+Bengals,Lions,DOME,Clear. Clear throughout the day.,0,6,0,0,0,0
+Texans,Colts,DOME,Clear. Clear throughout the day.,0,6,0,0,0,0
+Rams,Giants,62f Partly Cloudy,Partly Cloudy. Partly cloudy throughout the day.,10m WNW,6,10,WNW,62,Partly Cloudy
+Chiefs,Washington,61f Clear,Clear. Clear throughout the day.,13m WNW,6,13,WNW,61,Clear
+Vikings,Panthers,63f Clear,Clear. Clear throughout the day.,7m NW,6,7,NW,63,Clear
+Chargers,Ravens,62f Clear,Clear. Clear throughout the day.,13m WNW,6,13,WNW,62,Clear
+Cardinals,Browns,59f Mostly Cloudy,Mostly Cloudy. Mostly cloudy throughout the day.,14m WNW,6,14,WNW,59,Mostly Cloudy
+Raiders,Broncos,72f Foggy,Foggy. Foggy until evening.,5m WNW,6,5,WNW,72,Foggy
+Cowboys,Patriots,61f Clear,Clear. Rain in the morning.,8m WNW,6,8,WNW,61,Clear
+Seahawks,Steelers,51f Clear,Clear. Partly cloudy throughout the day.,3m WSW,6,3,WSW,51,Clear
+Bills,Titans,61f Clear,Clear. Clear throughout the day.,2m ENE,6,2,ENE,61,Clear
+Broncos,Browns,57f Mostly Cloudy,Mostly Cloudy. Rain throughout the day.,16m W,7,16,W,57,Mostly Cloudy
+Washington,Packers,49f Partly Cloudy,Partly Cloudy. Mostly cloudy throughout the day.,9m NE,7,9,NE,49,Partly Cloudy
+Chiefs,Titans,74f Partly Cloudy,Partly Cloudy. Windy overnight.,10m SSW,7,10,SSW,74,Partly Cloudy
+Falcons,Dolphins,84f Humid and Mostly Cloudy,Humid and Mostly Cloudy. Possible light rain in the morning.,8m SE,7,8,SE,84,Humid and Mostly Cloudy
+Jets,Patriots,55f Clear,Clear. Possible light rain overnight.,5m WSW,7,5,WSW,55,Clear
+Panthers,Giants,58f Drizzle,Drizzle. Possible drizzle overnight.,5m SSW,7,5,SSW,58,Drizzle
+Bengals,Ravens,61f Mostly Cloudy,Mostly Cloudy. Partly cloudy throughout the day.,6m SSE,7,6,SSE,61,Mostly Cloudy
+Eagles,Raiders,DOME,Mostly Cloudy. Mostly cloudy throughout the day.,0,7,0,0,0,0
+Lions,Rams,DOME,Mostly Cloudy. Partly cloudy throughout the day.,0,7,0,0,0,0
+Texans,Cardinals,DOME,Clear. Clear throughout the day.,0,7,0,0,0,0
+Bears,Buccaneers,83f Humid and Overcast,Humid and Overcast. Rain in the evening and overnight.,6m SSE,7,6,SSE,83,Humid and Overcast
+Colts,49ers,62f Light Rain,Light Rain. Heavy rain throughout the day.,16m S,7,16,S,62,Light Rain
+Saints,Seahawks,53f Light Rain,Light Rain. Light rain throughout the day.,14m S,7,14,S,53,Light Rain
+Packers,Cardinals,DOME,Clear. Clear throughout the day.,0,8,0,0,0,0
+Panthers,Falcons,DOME,Partly Cloudy. Partly cloudy throughout the day.,0,8,0,0,0,0
+Dolphins,Bills,46f Overcast,"Overcast. Possible light rain until afternoon, starting again overnight.",11m WSW,8,11,WSW,46,Overcast
+49ers,Bears,53f Partly Cloudy,Partly Cloudy. Partly cloudy throughout the day.,14m NW,8,14,NW,53,Partly Cloudy
+Steelers,Browns,57f Mostly Cloudy,Mostly Cloudy. Mostly cloudy throughout the day.,15m W,8,15,W,57,Mostly Cloudy
+Eagles,Lions,DOME,Clear. Partly cloudy throughout the day.,0,8,0,0,0,0
+Titans,Colts,DOME,Clear. Partly cloudy throughout the day.,0,8,0,0,0,0
+Bengals,Jets,62f Mostly Cloudy,Mostly Cloudy. Light rain in the morning.,11m W,8,11,W,62,Mostly Cloudy
+Rams,Texans,74f Clear,Clear. Clear throughout the day.,5m ESE,8,5,ESE,74,Clear
+Patriots,Chargers,DOME,Mostly Cloudy. Mostly cloudy throughout the day.,0,8,0,0,0,0
+Jaguars,Seahawks,55f Clear,Clear. Clear throughout the day.,4m N,8,4,N,55,Clear
+Washington,Broncos,42f Foggy,Foggy. Foggy until evening.,4m W,8,4,W,42,Foggy
+Buccaneers,Saints,DOME,Clear. Clear throughout the day.,0,8,0,0,0,0
+Cowboys,Vikings,DOME,Partly Cloudy. Partly cloudy throughout the day.,0,8,0,0,0,0
+Giants,Chiefs,40f Overcast,Overcast. Possible light rain in the afternoon.,3m NNE,8,3,NNE,40,Overcast
+Jets,Colts,DOME,Clear. Clear throughout the day.,0,9,0,0,0,0
+Browns,Bengals,54f Clear,Clear. Clear throughout the day.,2m SW,9,2,SW,54,Clear
+Broncos,Cowboys,64f Clear,Clear. Clear throughout the day.,8m S,9,8,S,64,Clear
+Texans,Dolphins,69f Clear,Clear. Clear throughout the day.,13m NW,9,13,NW,69,Clear
+Falcons,Saints,DOME,Clear. Clear throughout the day.,0,9,0,0,0,0
+Raiders,Giants,53f Clear,Clear. Partly cloudy throughout the day.,3m N,9,3,N,53,Clear
+Bills,Jaguars,58f Mostly Cloudy,Mostly Cloudy. Light rain in the morning.,6m NNW,9,6,NNW,58,Mostly Cloudy
+Vikings,Ravens,53f Partly Cloudy,Partly Cloudy. Partly cloudy throughout the day.,6m NNE,9,6,NNE,53,Partly Cloudy
+Patriots,Panthers,60f Clear,Clear. Partly cloudy throughout the day.,11m N,9,11,N,60,Clear
+Chargers,Eagles,54f Mostly Cloudy,Mostly Cloudy. Mostly cloudy throughout the day.,4m N,9,4,N,54,Mostly Cloudy
+Packers,Chiefs,68f Clear,Clear. Clear throughout the day.,15m S,9,15,S,68,Clear
+Cardinals,49ers,61f Clear,Clear. Clear throughout the day.,6m NW,9,6,NW,61,Clear
+Titans,Rams,DOME,Partly Cloudy. Partly cloudy throughout the day.,0,9,0,0,0,0
+Bears,Steelers,58f Clear,Clear. Clear throughout the day.,5m SSW,9,5,SSW,58,Clear
+Ravens,Dolphins,76f Humid and Mostly Cloudy,Humid and Mostly Cloudy. Humid and mostly cloudy throughout the day.,6m SE,10,6,SE,76,Humid and Mostly Cloudy
+Falcons,Cowboys,63f Clear,Clear. Clear throughout the day.,3m N,10,3,N,63,Clear
+Saints,Titans,52f Partly Cloudy,Partly Cloudy. Partly cloudy throughout the day.,12m SW,10,12,SW,52,Partly Cloudy
+Jaguars,Colts,DOME,Overcast. Rain in the morning and afternoon.,0,10,0,0,0,0
+Browns,Patriots,48f Mostly Cloudy,Mostly Cloudy. Light rain overnight.,7m WSW,10,7,WSW,48,Mostly Cloudy
+Bills,Jets,46f Partly Cloudy,Partly Cloudy. Possible light rain in the evening and overnight.,6m SW,10,6,SW,46,Partly Cloudy
+Lions,Steelers,38f Overcast,Overcast. Rain starting in the afternoon.,2m S,10,2,S,38,Overcast
+Buccaneers,Washington,45f Mostly Cloudy,Mostly Cloudy. Mostly cloudy throughout the day.,7m SSW,10,7,SSW,45,Mostly Cloudy
+Panthers,Cardinals,DOME,Clear. Clear throughout the day.,0,10,0,0,0,0
+Vikings,Chargers,DOME,Clear. Clear throughout the day.,0,10,0,0,0,0
+Eagles,Broncos,64f Foggy,Foggy. Foggy in the morning and afternoon.,8m W,10,8,W,64,Foggy
+Seahawks,Packers,37f Mostly Cloudy,Mostly Cloudy. Snow (1–2 in.) in the morning.,12m NNW,10,12,NNW,37,Mostly Cloudy
+Chiefs,Raiders,DOME,Clear. Clear throughout the day.,0,10,0,0,0,0
+Rams,49ers,62f Overcast,Overcast. Mostly cloudy throughout the day.,2m NW,10,2,NW,62,Overcast
+Patriots,Falcons,DOME,Mostly Cloudy. Partly cloudy throughout the day.,0,11,0,0,0,0
+Colts,Bills,45f Overcast,Overcast. Light rain starting in the afternoon.,11m S,11,11,S,45,Overcast
+Ravens,Bears,46f Mostly Cloudy,Mostly Cloudy. Mostly cloudy throughout the day.,10m WSW,11,10,WSW,46,Mostly Cloudy
+Lions,Browns,44f Light Rain,Light Rain. Rain throughout the day.,8m S,11,8,S,44,Light Rain
+Texans,Titans,56f Overcast,Overcast. Rain throughout the day.,10m SSW,11,10,SSW,56,Overcast
+Packers,Vikings,DOME,Partly Cloudy. Partly cloudy throughout the day.,0,11,0,0,0,0
+Dolphins,Jets,52f Clear,Clear. Possible light rain overnight.,7m SW,11,7,SW,52,Clear
+Saints,Eagles,50f Partly Cloudy,Partly Cloudy. Light rain overnight.,4m SSW,11,4,SSW,50,Partly Cloudy
+Washington,Panthers,54f Mostly Cloudy,Mostly Cloudy. Possible light rain overnight.,2m SSW,11,2,SSW,54,Mostly Cloudy
+49ers,Jaguars,65f Mostly Cloudy,Mostly Cloudy. Mostly cloudy throughout the day.,13m NE,11,13,NE,65,Mostly Cloudy
+Bengals,Raiders,DOME,Clear. Clear throughout the day.,0,11,0,0,0,0
+Cowboys,Chiefs,56f Clear,Clear. Clear throughout the day.,13m NNW,11,13,NNW,56,Clear
+Cardinals,Seahawks,46f Partly Cloudy,Partly Cloudy. Mostly cloudy throughout the day.,1m SE,11,1,SE,46,Partly Cloudy
+Steelers,Chargers,DOME,Clear. Clear throughout the day.,0,11,0,0,0,0
+Giants,Buccaneers,67f Mostly Cloudy,Mostly Cloudy. Light rain in the morning.,6m NW,11,6,NW,67,Mostly Cloudy
+Bears,Lions,DOME,Drizzle. Light rain until evening.,0,12,0,0,0,0
+Raiders,Cowboys,58f Clear,Clear. Clear throughout the day.,14m N,12,14,N,58,Clear
+Bills,Saints,DOME,Drizzle. Possible light rain in the evening and overnight.,0,12,0,0,0,0
+Steelers,Bengals,42f Clear,Clear. Partly cloudy throughout the day.,8m W,12,8,W,42,Clear
+Buccaneers,Colts,DOME,Clear. Clear throughout the day.,0,12,0,0,0,0
+Panthers,Dolphins,75f Partly Cloudy,Partly Cloudy. Partly cloudy throughout the day.,3m SSW,12,3,SSW,75,Partly Cloudy
+Titans,Patriots,37f Partly Cloudy,Partly Cloudy. Foggy overnight.,6m WSW,12,6,WSW,37,Partly Cloudy
+Eagles,Giants,37f Overcast,Overcast. Mostly cloudy throughout the day.,3m ENE,12,3,ENE,37,Overcast
+Falcons,Jaguars,60f Mostly Cloudy,Mostly Cloudy. Mostly cloudy throughout the day.,4m W,12,4,W,60,Mostly Cloudy
+Jets,Texans,56f Overcast,Overcast. Possible light rain in the morning.,7m NNW,12,7,NNW,56,Overcast
+Chargers,Broncos,64f Foggy,Foggy. Foggy in the morning and afternoon.,4m NNW,12,4,NNW,64,Foggy
+Rams,Packers,34f Partly Cloudy,Partly Cloudy. Clear throughout the day.,13m NW,12,13,NW,34,Partly Cloudy
+Vikings,49ers,66f Clear,Clear. Clear throughout the day.,4m NNW,12,4,NNW,66,Clear
+Browns,Ravens,44f Mostly Cloudy,Mostly Cloudy. Clear throughout the day.,4m N,12,4,N,44,Mostly Cloudy
+Seahawks,Washington,37f Clear,Clear. Partly cloudy throughout the day.,4m WNW,12,4,WNW,37,Clear
+Cowboys,Saints,DOME,Clear. Clear throughout the day.,0,13,0,0,0,0
+Buccaneers,Falcons,DOME,Drizzle. Mostly cloudy throughout the day.,0,13,0,0,0,0
+Cardinals,Bears,35f Rain,Rain. Rain until evening.,16m SSE,13,16,SSE,35,Rain
+Chargers,Bengals,46f Mostly Cloudy,Mostly Cloudy. Rain in the evening and overnight.,7m SSE,13,7,SSE,46,Mostly Cloudy
+Vikings,Lions,DOME,Overcast. Rain starting in the afternoon.,0,13,0,0,0,0
+Broncos,Chiefs,56f Overcast,Overcast. Mostly cloudy throughout the day.,13m SW,13,13,SW,56,Overcast
+Giants,Dolphins,80f Partly Cloudy,Partly Cloudy. Humid and partly cloudy throughout the day.,8m ESE,13,8,ESE,80,Partly Cloudy
+Eagles,Jets,45f Partly Cloudy,Partly Cloudy. Clear throughout the day.,1m WNW,13,1,WNW,45,Partly Cloudy
+Colts,Texans,75f Partly Cloudy,Partly Cloudy. Humid and mostly cloudy throughout the day.,10m S,13,10,S,75,Partly Cloudy
+Washington,Raiders,DOME,Clear. Clear throughout the day.,0,13,0,0,0,0
+Jaguars,Rams,DOME,Clear. Partly cloudy throughout the day.,0,13,0,0,0,0
+Ravens,Steelers,50f Overcast,Overcast. Mostly cloudy throughout the day.,4m ENE,13,4,ENE,50,Overcast
+49ers,Seahawks,39f Mostly Cloudy,Mostly Cloudy. Possible light rain overnight.,2m NNE,13,2,NNE,39,Mostly Cloudy
+Patriots,Bills,30f Light Snow and Windy,Light Snow and Windy. Rain in the morning and afternoon.,22m W,13,22,W,30,Light Snow and Windy
+Steelers,Vikings,DOME,Mostly Cloudy. Mostly cloudy throughout the day.,0,14,0,0,0,0
+49ers,Bengals,43f Clear,Clear. Clear throughout the day.,7m SW,14,7,SW,43,Clear
+Ravens,Browns,45f Clear,Clear. Clear throughout the day.,14m SW,14,14,SW,45,Clear
+Jaguars,Titans,42f Clear,Clear. Clear throughout the day.,3m ESE,14,3,ESE,42,Clear
+Raiders,Chiefs,46f Clear,Clear. Clear throughout the day.,16m SSW,14,16,SSW,46,Clear
+Saints,Jets,46f Clear,Clear. Clear throughout the day.,11m WNW,14,11,WNW,46,Clear
+Cowboys,Washington,45f Clear,Clear. Clear throughout the day.,10m WNW,14,10,WNW,45,Clear
+Falcons,Panthers,48f Clear,Clear. Clear throughout the day.,8m NNE,14,8,NNE,48,Clear
+Seahawks,Texans,50f Clear,Clear. Clear throughout the day.,5m ENE,14,5,ENE,50,Clear
+Lions,Broncos,60f Foggy,Foggy. Foggy in the morning and afternoon.,6m NNW,14,6,NNW,60,Foggy
+Giants,Chargers,DOME,Clear. Clear throughout the day.,0,14,0,0,0,0
+Bills,Buccaneers,81f Partly Cloudy,Partly Cloudy. Mostly cloudy throughout the day.,6m NW,14,6,NW,81,Partly Cloudy
+Bears,Packers,32f Mostly Cloudy,Mostly Cloudy. Clear throughout the day.,10m SSW,14,10,SSW,32,Mostly Cloudy
+Rams,Cardinals,DOME,Mostly Cloudy. Partly cloudy throughout the day.,0,14,0,0,0,0
+Chiefs,Chargers,DOME,Overcast. Possible drizzle in the afternoon and evening.,0,15,0,0,0,0
+Patriots,Colts,DOME,Overcast. Rain in the morning and afternoon.,0,15,0,0,0,0
+Panthers,Bills,24f Overcast,Overcast. Overcast throughout the day.,10m NNW,15,10,NNW,24,Overcast
+Jets,Dolphins,81f Humid and Partly Cloudy,Humid and Partly Cloudy. Rain in the morning and afternoon.,9m SSW,15,9,SSW,81,Humid and Partly Cloudy
+Cardinals,Lions,DOME,Partly Cloudy. Partly cloudy throughout the day.,0,15,0,0,0,0
+Cowboys,Giants,38f Mostly Cloudy,Mostly Cloudy. Mostly cloudy throughout the day.,12m NNW,15,12,NNW,38,Mostly Cloudy
+Titans,Steelers,33f Mostly Cloudy,Mostly Cloudy. Mostly cloudy throughout the day.,2m NW,15,2,NW,33,Mostly Cloudy
+Texans,Jaguars,76f Mostly Cloudy,Mostly Cloudy. Rain in the afternoon and evening.,4m SW,15,4,SW,76,Mostly Cloudy
+Packers,Ravens,42f Overcast,Overcast. Mostly cloudy throughout the day.,14m N,15,14,N,42,Overcast
+Bengals,Broncos,60f Foggy,Foggy. Foggy in the morning and afternoon.,3m ESE,15,3,ESE,60,Foggy
+Falcons,49ers,46f Partly Cloudy,Partly Cloudy. Partly cloudy throughout the day.,3m SSW,15,3,SSW,46,Partly Cloudy
+Saints,Buccaneers,73f Mostly Cloudy,Mostly Cloudy. Humid and partly cloudy throughout the day.,4m W,15,4,W,73,Mostly Cloudy
+Raiders,Browns,42f Clear,Clear. Clear throughout the day.,10m SSW,15,10,SSW,42,Clear
+Vikings,Bears,36f Mostly Cloudy,Mostly Cloudy. Partly cloudy throughout the day.,9m W,15,9,W,36,Mostly Cloudy
+Washington,Eagles,40f Overcast,Overcast. Light rain overnight.,4m ESE,15,4,ESE,40,Overcast
+Seahawks,Rams,DOME,Partly Cloudy. Partly cloudy throughout the day.,0,15,0,0,0,0
+49ers,Titans,49f Clear,Clear. Clear throughout the day.,8m S,16,8,S,49,Clear
+Browns,Packers,34f Partly Cloudy,Partly Cloudy. Partly cloudy throughout the day.,7m NNW,16,7,NNW,34,Partly Cloudy
+Colts,Cardinals,DOME,Overcast. Mostly cloudy throughout the day.,0,16,0,0,0,0
+Lions,Falcons,DOME,Partly Cloudy. Partly cloudy throughout the day.,0,16,0,0,0,0
+Ravens,Bengals,48f Partly Cloudy,Partly Cloudy. Possible light rain overnight.,1m NE,16,1,NE,48,Partly Cloudy
+Rams,Vikings,DOME,Mostly Cloudy. Snow (2–5 in.) overnight.,0,16,0,0,0,0
+Bills,Patriots,38f Mostly Cloudy,Mostly Cloudy. Rain in the morning.,9m NW,16,9,NW,38,Mostly Cloudy
+Jaguars,Jets,47f Clear,Clear. Clear throughout the day.,10m NW,16,10,NW,47,Clear
+Giants,Eagles,51f Clear,Clear. Clear throughout the day.,7m WNW,16,7,WNW,51,Clear
+Buccaneers,Panthers,69f Clear,Clear. Clear throughout the day.,3m WNW,16,3,WNW,69,Clear
+Chargers,Texans,73f Mostly Cloudy,Mostly Cloudy. Mostly cloudy throughout the day.,11m S,16,11,S,73,Mostly Cloudy
+Bears,Seahawks,25f Overcast,Overcast. Snow (3–6 in.) in the morning.,11m NNW,16,11,NNW,25,Overcast
+Steelers,Chiefs,55f Overcast,Overcast. Mostly cloudy throughout the day.,16m SE,16,16,SE,55,Overcast
+Broncos,Raiders,DOME,Clear. Clear throughout the day.,0,16,0,0,0,0
+Washington,Cowboys,73f Partly Cloudy,Partly Cloudy. Mostly cloudy throughout the day.,13m S,16,13,S,73,Partly Cloudy
+Dolphins,Saints,DOME,Clear. Overcast throughout the day.,0,16,0,0,0,0
