@@ -793,23 +793,21 @@
 				<li><a href="/mlb/schedules/" >Daily Schedule</a></li>
 				<li><a href="/mlb/schedules/season/" >Season Schedule</a></li>
                                 
-                                                                                          <li><a href="/mlb/matchup/diamondbacks-marlins-2022-05-04" >Arizona @ Miami</a></li>
-                                                              <li><a href="/mlb/matchup/pirates-tigers-2022-05-04" >Pittsburgh @ Detroit</a></li>
-                                                              <li><a href="/mlb/matchup/padres-guardians-2022-05-04" >San Diego @ Cleveland</a></li>
-                                                              <li><a href="/mlb/matchup/braves-mets-2022-05-04" >Atlanta @ NY Mets</a></li>
-                                                              <li><a href="/mlb/matchup/cardinals-royals-2022-05-04" >St. Louis @ Kansas City</a></li>
-                                                              <li><a href="/mlb/matchup/mariners-astros-2022-05-04" >Seattle @ Houston</a></li>
-                                                              <li><a href="/mlb/matchup/rays-athletics-2022-05-04" >Tampa Bay @ Oakland</a></li>
-                                                              <li><a href="/mlb/matchup/pirates-tigers-2022-05-04-2" >Pittsburgh @ Detroit</a></li>
-                                                              <li><a href="/mlb/matchup/padres-guardians-2022-05-04-2" >San Diego @ Cleveland</a></li>
-                                                              <li><a href="/mlb/matchup/rangers-phillies-2022-05-04" >Texas @ Philadelphia</a></li>
-                                                              <li><a href="/mlb/matchup/twins-orioles-2022-05-04" >Minnesota @ Baltimore</a></li>
-                                                              <li><a href="/mlb/matchup/yankees-blue-jays-2022-05-04" >NY Yankees @ Toronto</a></li>
-                                                              <li><a href="/mlb/matchup/angels-red-sox-2022-05-04" >LA Angels @ Boston</a></li>
-                                                              <li><a href="/mlb/matchup/white-sox-cubs-2022-05-04" >Chi Sox @ Chi Cubs</a></li>
-                                                              <li><a href="/mlb/matchup/reds-brewers-2022-05-04" >Cincinnati @ Milwaukee</a></li>
-                                                              <li><a href="/mlb/matchup/nationals-rockies-2022-05-04" >Washington @ Colorado</a></li>
-                                                              <li><a href="/mlb/matchup/giants-dodgers-2022-05-04" >SF Giants @ LA Dodgers</a></li>
+                                                                                          <li><a href="/mlb/matchup/dodgers-cubs-2022-05-06" >LA Dodgers @ Chi Cubs</a></li>
+                                                              <li><a href="/mlb/matchup/pirates-reds-2022-05-06" >Pittsburgh @ Cincinnati</a></li>
+                                                              <li><a href="/mlb/matchup/rangers-yankees-2022-05-06" >Texas @ NY Yankees</a></li>
+                                                              <li><a href="/mlb/matchup/mets-phillies-2022-05-06" >NY Mets @ Philadelphia</a></li>
+                                                              <li><a href="/mlb/matchup/royals-orioles-2022-05-06" >Kansas City @ Baltimore</a></li>
+                                                              <li><a href="/mlb/matchup/white-sox-red-sox-2022-05-06" >Chi Sox @ Boston</a></li>
+                                                              <li><a href="/mlb/matchup/blue-jays-guardians-2022-05-06" >Toronto @ Cleveland</a></li>
+                                                              <li><a href="/mlb/matchup/brewers-braves-2022-05-06" >Milwaukee @ Atlanta</a></li>
+                                                              <li><a href="/mlb/matchup/tigers-astros-2022-05-06" >Detroit @ Houston</a></li>
+                                                              <li><a href="/mlb/matchup/athletics-twins-2022-05-06" >Oakland @ Minnesota</a></li>
+                                                              <li><a href="/mlb/matchup/nationals-angels-2022-05-06" >Washington @ LA Angels</a></li>
+                                                              <li><a href="/mlb/matchup/rockies-diamondbacks-2022-05-06" >Colorado @ Arizona</a></li>
+                                                              <li><a href="/mlb/matchup/rays-mariners-2022-05-06" >Tampa Bay @ Seattle</a></li>
+                                                              <li><a href="/mlb/matchup/marlins-padres-2022-05-06" >Miami @ San Diego</a></li>
+                                                              <li><a href="/mlb/matchup/cardinals-giants-2022-05-06" >St. Louis @ SF Giants</a></li>
                                                           							</ul>
 		</li>
         <li><a href="#" class="expand-controller ">Rankings <svg class="icon"><use xlink:href="#icon-arrow-right2"></use></svg></a>
@@ -896,8 +894,8 @@
 				<li><a href="/nba/schedules/" >Daily Schedule</a></li>
 				<li><a href="/nba/schedules/season/" >Season Schedule</a></li>
                                 
-                                                                                          <li><a href="/nba/matchup/mavericks-suns-2022-05-04" >Dallas @ Phoenix</a></li>
-                                                              <li><a href="/nba/matchup/76ers-heat-2022-05-04" >Philadelphia @ Miami</a></li>
+                                                                                          <li><a href="/nba/matchup/suns-mavericks-2022-05-06" >Phoenix @ Dallas</a></li>
+                                                              <li><a href="/nba/matchup/heat-76ers-2022-05-06" >Miami @ Philadelphia</a></li>
                                                           			</ul>
 		</li>
         <li><a href="#" class="expand-controller ">Rankings <svg class="icon"><use xlink:href="#icon-arrow-right2"></use></svg></a>
@@ -1509,7 +1507,7 @@
 					<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 				</div>
 			<input type="hidden" name="team_id" value="" class="team-id-val">
-			<input type="hidden" name="formtime" value="1651702955" class="formtime-val">
+			<input type="hidden" name="formtime" value="1651836121" class="formtime-val">
 			<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 				
 				<div class="msg msg-success space-bottom hidden"></div>
@@ -1783,7 +1781,7 @@
 								<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 							</div>
 							<input type="hidden" name="team_id" value="" class="team-id-val">
-							<input type="hidden" name="formtime" value="1651702955" class="formtime-val">
+							<input type="hidden" name="formtime" value="1651836121" class="formtime-val">
 							<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 						</div> <!-- desktop-bar-text-wrapper -->
 					</div> <!-- desktop-bar-wrapper -->
@@ -2142,51 +2140,6 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Hyde Micah">
-				        					        <a href="/nfl/player/micah-hyde" title="Micah Hyde">Micah Hyde</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/buffalo-bills">Buffalo Bills</a></td>
-        			 <td class="text-left">S</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Pinion Bradley">
-				        					        <a href="/nfl/player/bradley-pinion" title="Bradley Pinion">Bradley Pinion</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/tampa-bay-buccaneers">Tampa Bay Buccaneers</a></td>
-        			 <td class="text-left">P</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Al-Shaair Azeez">
-				        					        <a href="/nfl/player/azeez-al-shaair" title="Azeez Al-Shaair">Azeez Al-Shaair</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/san-francisco-49ers">San Francisco 49ers</a></td>
-        			 <td class="text-left">LB</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Skowronek Ben">
-				        					        <a href="/nfl/player/ben-skowronek" title="Ben Skowronek">Ben Skowronek</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
-        			 <td class="text-left">WR</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Lance Trey">
-				        					        <a href="/nfl/player/trey-lance" title="Trey Lance">Trey Lance</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/san-francisco-49ers">San Francisco 49ers</a></td>
-        			 <td class="text-left">QB</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
 			        <td class="text-left" data-sort="Williams K'Waun">
 				        					        <a href="/nfl/player/kwaun-williams" title="K'Waun Williams">K'Waun Williams</a>
                 			        			 </td>
@@ -2205,6 +2158,15 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Skowronek Ben">
+				        					        <a href="/nfl/player/ben-skowronek" title="Ben Skowronek">Ben Skowronek</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
+        			 <td class="text-left">WR</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
 			        <td class="text-left" data-sort="Thomas Mike">
 				        					        <a href="/nfl/player/michael-thomas-8" title="Mike Thomas">Mike Thomas</a>
                 			        			 </td>
@@ -2214,11 +2176,11 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Davis Gabriel">
-				        					        <a href="/nfl/player/gabriel-davis" title="Gabriel Davis">Gabriel Davis</a>
+			        <td class="text-left" data-sort="Lance Trey">
+				        					        <a href="/nfl/player/trey-lance" title="Trey Lance">Trey Lance</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/buffalo-bills">Buffalo Bills</a></td>
-        			 <td class="text-left">WR</td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/san-francisco-49ers">San Francisco 49ers</a></td>
+        			 <td class="text-left">QB</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 							        <tr>
@@ -2241,11 +2203,38 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Davis Gabriel">
+				        					        <a href="/nfl/player/gabriel-davis" title="Gabriel Davis">Gabriel Davis</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/buffalo-bills">Buffalo Bills</a></td>
+        			 <td class="text-left">WR</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
 			        <td class="text-left" data-sort="Miller Scotty">
 				        					        <a href="/nfl/player/scott-miller-5" title="Scotty Miller">Scotty Miller</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/tampa-bay-buccaneers">Tampa Bay Buccaneers</a></td>
         			 <td class="text-left">WR</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Hyde Micah">
+				        					        <a href="/nfl/player/micah-hyde" title="Micah Hyde">Micah Hyde</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/buffalo-bills">Buffalo Bills</a></td>
+        			 <td class="text-left">S</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Pinion Bradley">
+				        					        <a href="/nfl/player/bradley-pinion" title="Bradley Pinion">Bradley Pinion</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/tampa-bay-buccaneers">Tampa Bay Buccaneers</a></td>
+        			 <td class="text-left">P</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 							        <tr>
@@ -2259,56 +2248,11 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Wirtel Steven">
-				        					        <a href="/nfl/player/steve-wirtel" title="Steven Wirtel">Steven Wirtel</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/green-bay-packers">Green Bay Packers</a></td>
-        			 <td class="text-left">LS</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Hufanga Talanoa">
-				        					        <a href="/nfl/player/talanoa-hufanga" title="Talanoa Hufanga">Talanoa Hufanga</a>
+			        <td class="text-left" data-sort="Al-Shaair Azeez">
+				        					        <a href="/nfl/player/azeez-al-shaair" title="Azeez Al-Shaair">Azeez Al-Shaair</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/san-francisco-49ers">San Francisco 49ers</a></td>
-        			 <td class="text-left">S</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Lewan Taylor">
-				        					        <a href="/nfl/player/taylor-lewan" title="Taylor Lewan">Taylor Lewan</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/tennessee-titans">Tennessee Titans</a></td>
-        			 <td class="text-left">T</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Juszczyk Kyle">
-				        					        <a href="/nfl/player/kyle-juszczyk-2" title="Kyle Juszczyk">Kyle Juszczyk</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/san-francisco-49ers">San Francisco 49ers</a></td>
-        			 <td class="text-left">FB</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Reeder Troy">
-				        					        <a href="/nfl/player/troy-reeder" title="Troy Reeder">Troy Reeder</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
         			 <td class="text-left">LB</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Singletary Devin">
-				        					        <a href="/nfl/player/devin-singletary" title="Devin Singletary">Devin Singletary</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/buffalo-bills">Buffalo Bills</a></td>
-        			 <td class="text-left">RB</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 							        <tr>
@@ -2322,20 +2266,11 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Morgan Jr. Stanley">
-				        					        <a href="/nfl/player/stanley-morgan-jr" title="Stanley Morgan Jr.">Stanley Morgan Jr.</a>
+			        <td class="text-left" data-sort="Singletary Devin">
+				        					        <a href="/nfl/player/devin-singletary" title="Devin Singletary">Devin Singletary</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/cincinnati-bengals">Cincinnati Bengals</a></td>
-        			 <td class="text-left">WR</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Stokes Eric">
-				        					        <a href="/nfl/player/eric-stokes" title="Eric Stokes">Eric Stokes</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/green-bay-packers">Green Bay Packers</a></td>
-        			 <td class="text-left">CB</td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/buffalo-bills">Buffalo Bills</a></td>
+        			 <td class="text-left">RB</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 							        <tr>
@@ -2358,6 +2293,15 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Morgan Jr. Stanley">
+				        					        <a href="/nfl/player/stanley-morgan-jr" title="Stanley Morgan Jr.">Stanley Morgan Jr.</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/cincinnati-bengals">Cincinnati Bengals</a></td>
+        			 <td class="text-left">WR</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
 			        <td class="text-left" data-sort="Sweeney Tommy">
 				        					        <a href="/nfl/player/tommy-sweeney" title="Tommy Sweeney">Tommy Sweeney</a>
                 			        			 </td>
@@ -2367,29 +2311,65 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Hekker Johnny">
-				        					        <a href="/nfl/player/johnny-hekker" title="Johnny Hekker">Johnny Hekker</a>
+			        <td class="text-left" data-sort="Stokes Eric">
+				        					        <a href="/nfl/player/eric-stokes" title="Eric Stokes">Eric Stokes</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
-        			 <td class="text-left">P</td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/green-bay-packers">Green Bay Packers</a></td>
+        			 <td class="text-left">CB</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Powell Brandon">
-				        					        <a href="/nfl/player/brandon-powell-3" title="Brandon Powell">Brandon Powell</a>
+			        <td class="text-left" data-sort="Lewan Taylor">
+				        					        <a href="/nfl/player/taylor-lewan" title="Taylor Lewan">Taylor Lewan</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
-        			 <td class="text-left">WR</td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/tennessee-titans">Tennessee Titans</a></td>
+        			 <td class="text-left">T</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Bates Ryan">
-				        					        <a href="/nfl/player/ryan-bates" title="Ryan Bates">Ryan Bates</a>
+			        <td class="text-left" data-sort="Juszczyk Kyle">
+				        					        <a href="/nfl/player/kyle-juszczyk-2" title="Kyle Juszczyk">Kyle Juszczyk</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/buffalo-bills">Buffalo Bills</a></td>
-        			 <td class="text-left">OL</td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/san-francisco-49ers">San Francisco 49ers</a></td>
+        			 <td class="text-left">FB</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Wirtel Steven">
+				        					        <a href="/nfl/player/steve-wirtel" title="Steven Wirtel">Steven Wirtel</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/green-bay-packers">Green Bay Packers</a></td>
+        			 <td class="text-left">LS</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Reeder Troy">
+				        					        <a href="/nfl/player/troy-reeder" title="Troy Reeder">Troy Reeder</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
+        			 <td class="text-left">LB</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Hufanga Talanoa">
+				        					        <a href="/nfl/player/talanoa-hufanga" title="Talanoa Hufanga">Talanoa Hufanga</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/san-francisco-49ers">San Francisco 49ers</a></td>
+        			 <td class="text-left">S</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Howard O.J.">
+				        					        <a href="/nfl/player/oj-howard" title="O.J. Howard">O.J. Howard</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/tampa-bay-buccaneers">Tampa Bay Buccaneers</a></td>
+        			 <td class="text-left">TE</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 							        <tr>
@@ -2412,38 +2392,11 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Dennard Darqueze">
-				        					        <a href="/nfl/player/darqueze-dennard" title="Darqueze Dennard">Darqueze Dennard</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/san-francisco-49ers">San Francisco 49ers</a></td>
-        			 <td class="text-left">DB</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Howard O.J.">
-				        					        <a href="/nfl/player/oj-howard" title="O.J. Howard">O.J. Howard</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/tampa-bay-buccaneers">Tampa Bay Buccaneers</a></td>
-        			 <td class="text-left">TE</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
 			        <td class="text-left" data-sort="Knox Dawson">
 				        					        <a href="/nfl/player/dawson-knox" title="Dawson Knox">Dawson Knox</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/buffalo-bills">Buffalo Bills</a></td>
         			 <td class="text-left">TE</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Funk Jake">
-				        					        <a href="/nfl/player/jake-funk" title="Jake Funk">Jake Funk</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
-        			 <td class="text-left">RB</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 							        <tr>
@@ -2475,11 +2428,29 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Funk Jake">
+				        					        <a href="/nfl/player/jake-funk" title="Jake Funk">Jake Funk</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
+        			 <td class="text-left">RB</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
 			        <td class="text-left" data-sort="Saunders Khalen">
 				        					        <a href="/nfl/player/khalen-saunders" title="Khalen Saunders">Khalen Saunders</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/kansas-city-chiefs">Kansas City Chiefs</a></td>
         			 <td class="text-left">DT</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Hekker Johnny">
+				        					        <a href="/nfl/player/johnny-hekker" title="Johnny Hekker">Johnny Hekker</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
+        			 <td class="text-left">P</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 							        <tr>
@@ -2493,6 +2464,15 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Powell Brandon">
+				        					        <a href="/nfl/player/brandon-powell-3" title="Brandon Powell">Brandon Powell</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
+        			 <td class="text-left">WR</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
 			        <td class="text-left" data-sort="Brown A.J.">
 				        					        <a href="/nfl/player/aj-brown-2" title="A.J. Brown">A.J. Brown</a>
                 			        			 </td>
@@ -2502,38 +2482,20 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Armstead Arik">
-				        					        <a href="/nfl/player/arik-armstead" title="Arik Armstead">Arik Armstead</a>
+			        <td class="text-left" data-sort="Bates Ryan">
+				        					        <a href="/nfl/player/ryan-bates" title="Ryan Bates">Ryan Bates</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/buffalo-bills">Buffalo Bills</a></td>
+        			 <td class="text-left">OL</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Dennard Darqueze">
+				        					        <a href="/nfl/player/darqueze-dennard" title="Darqueze Dennard">Darqueze Dennard</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/san-francisco-49ers">San Francisco 49ers</a></td>
-        			 <td class="text-left">DL</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Hollins Justin">
-				        					        <a href="/nfl/player/justin-hollins" title="Justin Hollins">Justin Hollins</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
-        			 <td class="text-left">LB</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Wishnowsky Mitch">
-				        					        <a href="/nfl/player/mitch-wishnowsky" title="Mitch Wishnowsky">Mitch Wishnowsky</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/san-francisco-49ers">San Francisco 49ers</a></td>
-        			 <td class="text-left">P</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Wharton Tershawn">
-				        					        <a href="/nfl/player/tershawn-wharton" title="Tershawn Wharton">Tershawn Wharton</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/kansas-city-chiefs">Kansas City Chiefs</a></td>
-        			 <td class="text-left">DT</td>
+        			 <td class="text-left">DB</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 							        <tr>
@@ -2547,6 +2509,15 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Wishnowsky Mitch">
+				        					        <a href="/nfl/player/mitch-wishnowsky" title="Mitch Wishnowsky">Mitch Wishnowsky</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/san-francisco-49ers">San Francisco 49ers</a></td>
+        			 <td class="text-left">P</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
 			        <td class="text-left" data-sort="Moseley Emmanuel">
 				        					        <a href="/nfl/player/emmanuel-moseley" title="Emmanuel Moseley">Emmanuel Moseley</a>
                 			        			 </td>
@@ -2556,11 +2527,11 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Dafney Dominique">
-				        					        <a href="/nfl/player/dominique-dafney" title="Dominique Dafney">Dominique Dafney</a>
+			        <td class="text-left" data-sort="Wharton Tershawn">
+				        					        <a href="/nfl/player/tershawn-wharton" title="Tershawn Wharton">Tershawn Wharton</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/green-bay-packers">Green Bay Packers</a></td>
-        			 <td class="text-left">TE</td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/kansas-city-chiefs">Kansas City Chiefs</a></td>
+        			 <td class="text-left">DT</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 							        <tr>
@@ -2592,11 +2563,29 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Dafney Dominique">
+				        					        <a href="/nfl/player/dominique-dafney" title="Dominique Dafney">Dominique Dafney</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/green-bay-packers">Green Bay Packers</a></td>
+        			 <td class="text-left">TE</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
 			        <td class="text-left" data-sort="Greenlaw Dre">
 				        					        <a href="/nfl/player/dre-greenlaw" title="Dre Greenlaw">Dre Greenlaw</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/san-francisco-49ers">San Francisco 49ers</a></td>
         			 <td class="text-left">LB</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Armstead Arik">
+				        					        <a href="/nfl/player/arik-armstead" title="Arik Armstead">Arik Armstead</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/san-francisco-49ers">San Francisco 49ers</a></td>
+        			 <td class="text-left">DL</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 							        <tr>
@@ -2610,47 +2599,20 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Hollins Justin">
+				        					        <a href="/nfl/player/justin-hollins" title="Justin Hollins">Justin Hollins</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
+        			 <td class="text-left">LB</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
 			        <td class="text-left" data-sort="Lenoir Deommodore">
 				        					        <a href="/nfl/player/deommodore-lenoir" title="Deommodore Lenoir">Deommodore Lenoir</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/san-francisco-49ers">San Francisco 49ers</a></td>
         			 <td class="text-left">DB</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Gay Matt">
-				        					        <a href="/nfl/player/matt-gay" title="Matt Gay">Matt Gay</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
-        			 <td class="text-left">K</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Lowry Dean">
-				        					        <a href="/nfl/player/dean-lowry" title="Dean Lowry">Dean Lowry</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/green-bay-packers">Green Bay Packers</a></td>
-        			 <td class="text-left">DL</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Bates III Jessie">
-				        					        <a href="/nfl/player/jessie-bates" title="Jessie Bates III">Jessie Bates III</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/cincinnati-bengals">Cincinnati Bengals</a></td>
-        			 <td class="text-left">S</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Henderson Jr. Darrell">
-				        					        <a href="/nfl/player/darrell-henderson-2" title="Darrell Henderson Jr.">Darrell Henderson Jr.</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
-        			 <td class="text-left">RB</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 							        <tr>
@@ -2673,20 +2635,20 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Henderson Jr. Darrell">
+				        					        <a href="/nfl/player/darrell-henderson-2" title="Darrell Henderson Jr.">Darrell Henderson Jr.</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
+        			 <td class="text-left">RB</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
 			        <td class="text-left" data-sort="Howard Travin">
 				        					        <a href="/nfl/player/travin-howard" title="Travin Howard">Travin Howard</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
         			 <td class="text-left">LB</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Davis Shawn">
-				        					        <a href="/nfl/player/shawn-davis-4" title="Shawn Davis">Shawn Davis</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/green-bay-packers">Green Bay Packers</a></td>
-        			 <td class="text-left">DB</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 							        <tr>
@@ -2700,11 +2662,29 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Davis Shawn">
+				        					        <a href="/nfl/player/shawn-davis-4" title="Shawn Davis">Shawn Davis</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/green-bay-packers">Green Bay Packers</a></td>
+        			 <td class="text-left">DB</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
 			        <td class="text-left" data-sort="Savage Darnell">
 				        					        <a href="/nfl/player/darnell-savage-jr" title="Darnell Savage">Darnell Savage</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/green-bay-packers">Green Bay Packers</a></td>
         			 <td class="text-left">S</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Lowry Dean">
+				        					        <a href="/nfl/player/dean-lowry" title="Dean Lowry">Dean Lowry</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/green-bay-packers">Green Bay Packers</a></td>
+        			 <td class="text-left">DL</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 							        <tr>
@@ -2718,47 +2698,20 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Wallace Levi">
-				        					        <a href="/nfl/player/levi-wallace" title="Levi Wallace">Levi Wallace</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/buffalo-bills">Buffalo Bills</a></td>
-        			 <td class="text-left">CB</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Evans Bobby">
-				        					        <a href="/nfl/player/bobby-evans" title="Bobby Evans">Bobby Evans</a>
+			        <td class="text-left" data-sort="Gay Matt">
+				        					        <a href="/nfl/player/matt-gay" title="Matt Gay">Matt Gay</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
-        			 <td class="text-left">OL</td>
+        			 <td class="text-left">K</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Hamlin Damar">
-				        					        <a href="/nfl/player/damar-hamlin" title="Damar Hamlin">Damar Hamlin</a>
+			        <td class="text-left" data-sort="Bates III Jessie">
+				        					        <a href="/nfl/player/jessie-bates" title="Jessie Bates III">Jessie Bates III</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/buffalo-bills">Buffalo Bills</a></td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/cincinnati-bengals">Cincinnati Bengals</a></td>
         			 <td class="text-left">S</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Tomlinson Laken">
-				        					        <a href="/nfl/player/laken-tomlinson" title="Laken Tomlinson">Laken Tomlinson</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/san-francisco-49ers">San Francisco 49ers</a></td>
-        			 <td class="text-left">OL</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Rogers Chester">
-				        					        <a href="/nfl/player/chester-rogers" title="Chester Rogers">Chester Rogers</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/tennessee-titans">Tennessee Titans</a></td>
-        			 <td class="text-left">WR</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 							        <tr>
@@ -2808,24 +2761,6 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Hanson Jake">
-				        					        <a href="/nfl/player/jake-hanson-2" title="Jake Hanson">Jake Hanson</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/green-bay-packers">Green Bay Packers</a></td>
-        			 <td class="text-left">C</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Adeniji Hakeem">
-				        					        <a href="/nfl/player/hakeem-adeniji" title="Hakeem Adeniji">Hakeem Adeniji</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/cincinnati-bengals">Cincinnati Bengals</a></td>
-        			 <td class="text-left">G</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
 			        <td class="text-left" data-sort="Cobb Randall">
 				        					        <a href="/nfl/player/randall-cobb" title="Randall Cobb">Randall Cobb</a>
                 			        			 </td>
@@ -2844,17 +2779,35 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Bullock Randy">
-				        					        <a href="/nfl/player/randy-bullock" title="Randy Bullock">Randy Bullock</a>
+			        <td class="text-left" data-sort="Hanson Jake">
+				        					        <a href="/nfl/player/jake-hanson-2" title="Jake Hanson">Jake Hanson</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/tennessee-titans">Tennessee Titans</a></td>
-        			 <td class="text-left">K</td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/green-bay-packers">Green Bay Packers</a></td>
+        			 <td class="text-left">C</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Corbett Austin">
-				        					        <a href="/nfl/player/austin-corbett" title="Austin Corbett">Austin Corbett</a>
+			        <td class="text-left" data-sort="Wallace Levi">
+				        					        <a href="/nfl/player/levi-wallace" title="Levi Wallace">Levi Wallace</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/buffalo-bills">Buffalo Bills</a></td>
+        			 <td class="text-left">CB</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Adeniji Hakeem">
+				        					        <a href="/nfl/player/hakeem-adeniji" title="Hakeem Adeniji">Hakeem Adeniji</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/cincinnati-bengals">Cincinnati Bengals</a></td>
+        			 <td class="text-left">G</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Evans Bobby">
+				        					        <a href="/nfl/player/bobby-evans" title="Bobby Evans">Bobby Evans</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
         			 <td class="text-left">OL</td>
@@ -2862,29 +2815,29 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Whitehead Jordan">
-				        					        <a href="/nfl/player/jordan-whitehead" title="Jordan Whitehead">Jordan Whitehead</a>
+			        <td class="text-left" data-sort="Tomlinson Laken">
+				        					        <a href="/nfl/player/laken-tomlinson" title="Laken Tomlinson">Laken Tomlinson</a>
                 			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/tampa-bay-buccaneers">Tampa Bay Buccaneers</a></td>
-        			 <td class="text-left">S</td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/san-francisco-49ers">San Francisco 49ers</a></td>
+        			 <td class="text-left">OL</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Evans Chris">
-				        					        <a href="/nfl/player/chris-evans-8" title="Chris Evans">Chris Evans</a>
-                			        			 </td>
-        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/cincinnati-bengals">Cincinnati Bengals</a></td>
-        			 <td class="text-left">RB</td>
-        			 <td class="text-right" data-sort="0000">0</td>
-			</tr>
-							        <tr>
-			        <td class="rank text-center" data-sort="010">10</td>
-			        <td class="text-left" data-sort="Roberson Derick">
-				        					        <a href="/nfl/player/derick-roberson-2" title="Derick Roberson">Derick Roberson</a>
+			        <td class="text-left" data-sort="Rogers Chester">
+				        					        <a href="/nfl/player/chester-rogers" title="Chester Rogers">Chester Rogers</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/tennessee-titans">Tennessee Titans</a></td>
-        			 <td class="text-left">LB</td>
+        			 <td class="text-left">WR</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Hamlin Damar">
+				        					        <a href="/nfl/player/damar-hamlin" title="Damar Hamlin">Damar Hamlin</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/buffalo-bills">Buffalo Bills</a></td>
+        			 <td class="text-left">S</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 							        <tr>
@@ -2907,11 +2860,29 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Evans Chris">
+				        					        <a href="/nfl/player/chris-evans-8" title="Chris Evans">Chris Evans</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/cincinnati-bengals">Cincinnati Bengals</a></td>
+        			 <td class="text-left">RB</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
 			        <td class="text-left" data-sort="Vea Vita">
 				        					        <a href="/nfl/player/vita-vea" title="Vita Vea">Vita Vea</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/tampa-bay-buccaneers">Tampa Bay Buccaneers</a></td>
         			 <td class="text-left">DL</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Roberson Derick">
+				        					        <a href="/nfl/player/derick-roberson-2" title="Derick Roberson">Derick Roberson</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/tennessee-titans">Tennessee Titans</a></td>
+        			 <td class="text-left">LB</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 							        <tr>
@@ -2952,11 +2923,38 @@
 			</tr>
 							        <tr>
 			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Bullock Randy">
+				        					        <a href="/nfl/player/randy-bullock" title="Randy Bullock">Randy Bullock</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/tennessee-titans">Tennessee Titans</a></td>
+        			 <td class="text-left">K</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
 			        <td class="text-left" data-sort="Hopkins Brycen">
 				        					        <a href="/nfl/player/brycen-hopkins" title="Brycen Hopkins">Brycen Hopkins</a>
                 			        			 </td>
         			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
         			 <td class="text-left">TE</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Corbett Austin">
+				        					        <a href="/nfl/player/austin-corbett" title="Austin Corbett">Austin Corbett</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">Los Angeles Rams</a></td>
+        			 <td class="text-left">OL</td>
+        			 <td class="text-right" data-sort="0000">0</td>
+			</tr>
+							        <tr>
+			        <td class="rank text-center" data-sort="010">10</td>
+			        <td class="text-left" data-sort="Humphrey Creed">
+				        					        <a href="/nfl/player/creed-humphrey" title="Creed Humphrey">Creed Humphrey</a>
+                			        			 </td>
+        			 <td class="text-left"><a href="https://www.teamrankings.com/nfl/team/kansas-city-chiefs">Kansas City Chiefs</a></td>
+        			 <td class="text-left">OL</td>
         			 <td class="text-right" data-sort="0000">0</td>
 			</tr>
 		        </tbody>
@@ -3311,7 +3309,7 @@
 		var om_track_page_type = 'player_stat';
 		var om_track_user_type = 'visitor';
 		var om_http_referer = '';
-		var om_csrf_token = "f15ef153b129cc8d948761356d0e9bf7a8ae2d58d3f32e6cc03e880eb84b2148";
+		var om_csrf_token = "086d30500a91abb2f870f35d3c1bd330d3215dba6b93012b869624164dcc681f";
 	</script>
 	<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,13994,'rra9f0aquvvs7lnpzbk3');</script>
 
