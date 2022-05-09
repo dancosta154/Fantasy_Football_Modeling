@@ -404,19 +404,6 @@
                             
                                                         
                             <li class="nav-dropdown-item ">
-                                                                <span class="icon-sport icon-moon-arena-horseracing"></span>
-
-                                                                                                            
-                                    <a href="https://www.americasbestracing.net/" target="_blank" rel="nofollow" class=" external-link">Kentucky Derby </a>
-    
-                                                            </li>
-                                                                                                                                            
-                                                                                                                                            
-                                                            </ul>
-                                <ul class="nav-dropdown-col">
-                            
-                                                        
-                            <li class="nav-dropdown-item ">
                                                                 <span class="icon-sport icon-moon-arena-soccer"></span>
 
                                                                                                             
@@ -425,6 +412,8 @@
                                                             </li>
                                                                                                                                             
                                                                                                                                             
+                                                            </ul>
+                                <ul class="nav-dropdown-col">
                             
                                                         
                             <li class="nav-dropdown-item ">
@@ -502,8 +491,6 @@
                                                             </li>
                                                                                                                                             
                                                                                                                                             
-                                                            </ul>
-                                <ul class="nav-dropdown-col">
                             
                                                         
                             <li class="nav-dropdown-item ">
@@ -515,6 +502,8 @@
                                                             </li>
                                                                                                                                             
                                                                                                                                             
+                                                            </ul>
+                                <ul class="nav-dropdown-col">
                             
                                                         
                             <li class="nav-dropdown-item ">
@@ -577,6 +566,17 @@
 
                                                                                                             
             <a href="/olympics/" class="">Olympics</a>
+    
+                                                            </li>
+                                                                                                                                            
+                                                                                                                                            
+                            
+                                                        
+                            <li class="nav-dropdown-item ">
+                                                                <span class="icon-sport icon-moon-arena-horseracing"></span>
+
+                                                                                                            
+                                    <a href="https://www.americasbestracing.net/" target="_blank" rel="nofollow" class=" external-link">Horse Racing </a>
     
                                                             </li>
                                                                                                                                             
@@ -1495,7 +1495,7 @@
                                                                         <div class="nav-dropdown-top-side">
                                         <p class="nav-dropdown-top-title">
                                                                                     
-            <a href="/podcasts/fantasy-football-today-podcast/" class="">Updated TE Rankings</a>
+            <a href="/podcasts/fantasy-football-today-podcast/" class="">Rookie Superlatives and Debates</a>
     
                                         </p>
                                     </div>
