@@ -1,0 +1,830 @@
+
+<!DOCTYPE html>
+<html>
+<head id="ctl00_Head1"><title>
+	2022 Detroit Lions Depth Chart | Ourlads.com
+</title><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta content="width=device-width, initial-scale=1,maximum-scale=1.0, user-scalable=no" name="viewport" /><meta id="ctl00_mDescr" content="The most respected source for NFL Draft info among NFL Fans, Media, and Scouts, plus accurate, up to date NFL Depth Charts, Practice Squads and Rosters." name="description" /><meta id="ctl00_mKeyw" content="2022 nfl draft coverage, 2022 nfl draft services, 2022 nfl draft, 2022 nfl mock draft, nfl draft, ourlads, nfl draft guide, nfl depth charts, football, nfl football, nfl expert pick, nfl scouting, nfl free agents" name="keywords" /><meta name="google-site-verification" content="W7zAB8_qHrZ-WFtKlVWt08ay9rTt-BckVoIP9-awE-0" /><link rel="icon" href="../../favicon.ico" type="image/x-icon" /><link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" /><meta name="author" />
+	 <!--  Start Header Code for OurLads.com Third Set -->
+    <script src='https://tagan.adlightning.com/math-aids/op.js'></script>
+    <script src='https://qd.admetricspro.com/js/ourlads/third-layout.js'></script>
+    <script src='//www.googletagservices.com/tag/js/gpt.js'></script>
+    <script src='https://qd.admetricspro.com/js/ourlads/cmp.js'></script>
+    <script src='https://qd.admetricspro.com/js/ourlads/uspcmp.js'></script>
+    <script src='https://qd.admetricspro.com/js/ourlads/prebid.js'></script>
+    <script src='https://qd.admetricspro.com/js/ourlads/engine.js'></script>
+	<script>
+	!function(n){if(!window.cnx){window.cnx={},window.cnx.cmd=[];var t=n.createElement('iframe');t.display='none',t.onload=function(){var n=t.contentWindow.document,c=n.createElement('script');c.src='//cd.connatix.com/connatix.player.js',c.setAttribute('async','1'),c.setAttribute('type','text/javascript'),n.body.appendChild(c)},n.head.appendChild(t)}}(document);
+	</script>
+    <!--  End Header Code for OurLads.com -->
+    <!-- BEGIN GLOBAL MANDATORY STYLES -->
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&amp;subset=all" rel="stylesheet" type="text/css" /><link href="//fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500,500italic,700,700italic,900,900italic|Roboto+Condensed:400,300,300italic,400italic,700,700italic|Roboto+Slab:400,700,300" rel="stylesheet" type="text/css" />
+    <link href="/assets/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/global/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/global/plugins/uniform/css/uniform.default.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css" rel="stylesheet" type="text/css" />
+    <!-- END GLOBAL MANDATORY STYLES -->
+    <!-- BEGIN THEME GLOBAL STYLES -->
+    <link href="/assets/global/css/components.min.css" rel="stylesheet" id="style_components" type="text/css" />
+    <link href="/assets/global/css/plugins.min.css" rel="stylesheet" type="text/css" />
+    <!-- END THEME GLOBAL STYLES -->
+    <!-- BEGIN THEME LAYOUT STYLES -->
+    <link href="/assets/layouts/layout3/css/layout.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/layouts/layout3/css/themes/default.min.css" rel="stylesheet" type="text/css" id="style_color" />
+    <link href="/assets/layouts/layout3/css/custom.css" rel="stylesheet" type="text/css" />
+    <!-- END THEME LAYOUT STYLES -->
+    <script src="/assets/global/plugins/jquery.min.js" type="text/javascript"></script>
+    <script>
+        // GA
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-9130172-1");
+        pageTracker._trackPageview();
+        } catch (err) { }
+
+        // Comscore
+        var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "6035223" });
+        (function () {
+            var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+            s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+            el.parentNode.insertBefore(s, el);
+        })();
+
+        // Quantcast
+        var _qevents = _qevents || [];
+
+        (function () {
+            var elem = document.createElement('script');
+            elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+            elem.async = true;
+            elem.type = "text/javascript";
+            var scpt = document.getElementsByTagName('script')[0];
+            scpt.parentNode.insertBefore(elem, scpt);
+        })();
+
+        _qevents.push({
+            qacct: "p-edsbuMXjJ1JwR"
+        });
+
+    </script>
+    <style>
+        .page-header .page-header-menu .hor-menu .navbar-nav>li>a 
+        {
+        	padding: 16px 16px 15px !important;
+        }
+    </style>
+    
+    <script src="https://www.ourlads.com/nfldepthchartsnew/scripts/jumpmenu.js" type="text/javascript"></script>
+    <link href="/assets/global/plugins/bootstrap-select/css/bootstrap-select.min.css" rel="stylesheet" />
+    <link href="/assets/layouts/layout3/css/nfldepth.css" rel="stylesheet" />
+    <meta content="The most accurate, up to date NFL Depth Charts and Rosters on the net for reality football, fantasy owners and fans." name="description" />
+    <meta id="ctl00_head_mDesc" content="2022 nfl depth charts, depth charts, nfl depth charts, fantasy football, fantasy depth charts, fantasy football depth charts, nfl rosters, 2022 nfl rosters" name="keywords"></meta>
+    <style type="text/css">
+        body { overflow-x: hidden;}
+    </style>
+</head>
+<body class="page-container-bg-solid page-boxed page-header-top-fixed">
+    <form name="aspnetForm" method="post" action="/nfldepthcharts/depthchart/DET" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="
+__VIEWSTATE" value="" />
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWugEC/q2g6QICp/jtwgEC2eH/mwICiYX1iwgCvO+1VQKTxNOiCgL23fG/DALNso+VBgKgiK3iCwKH4cr/DQKa9ujUBwLxz4aiCQKyrNO+BgKJhfGLCAK877FVApPEz6IKAvbd7b8MAs2yi5UGAqCIqeILAofhxv8NApr25NQHArKsz74GAomF7YsIArzvrVUCk8TLogoC9t3pvwwCzbKHlQYCoIil4gsCh+HC/w0Cmvbg1AcC8c/+oQkCsqzLvgYCiYXpiwgCvO+pVQKTxMeiCgL23eW/DALNsoOVBgKgiKHiCwKH4b7/DQKa9tzUBwLxz/qhCQKyrMe+BgKJheWLCAK876VVApPEw6IKAvbd4b8MAs2y/5QGAqCIneILAofhuv8NApr22NQHAvHP9qEJArKsw74GAomF4YsIArzvoVUCk8S/ogoC9t3dvwwCzbL7lAYCoIiZ4gsCh+G2/w0C8c/yoQkCtaynvgYCiIXFiwgCv++FVQKSxKOiCgLp3cG/DALMst+UBgKjiP3hCwKG4Zr/DQKd9rjUBwLwz9ahCQK1rKO+BgKIhcGLCAK/74FVApLEn6IKAundvb8MAsyy25QGAqOI+eELAobhlv8NAp32tNQHAvDP0qEJArWs374GAoiF/YsIAr/vvVUCksTbogoC6d35vwwCzLKXlQYCo4i14gsChuHS/w0Cnfbw1AcC8M+OogkCtazbvgYCiIX5iwgCv++5VQKSxNeiCgLp3fW/DALMspOVBgKG4c7/DQKd9uzUBwLwz4qiCQK1rNe+BgKIhfWLCAK/77VVApLE06IKAund8b8MAsyyj5UGAqOIreILAobhyv8NAp326NQHAvDPhqIJArWs074GAoiF8YsIAr/vsVUCksTPogoC6d3tvwwCzLKLlQYCo4ip4gsChuHG/w0Cnfbk1AcC8M+CogkCtazPvgYCiIXtiwgCv++tVQKSxMuiCgLp3em/DALMsoeVBgKjiKXiCwKG4cL/DQKd9uDUBwLwz/6hCQK1rMu+BgKIhemLCAK/76lVApLEx6IKAund5b8MAsyyg5UGAqOIoeILAobhvv8NAp323NQHAvDP+qEJArWsx74GAoiF5YsIAr/vpVUCksTDogoC6d3hvwwCzLL/lAYCo4id4gsChuG6/w0CnfbY1AcC8M/2oQkCtazDvgYCiIXhiwgCv++hVQKSxL+iCgLp3d2/DALMsvuUBgKjiJniCwKG4bb/DQLVjp32DgLVjpn2DgLVjpX2DgLUjvn1DgLUjvX1DgLUjrH2DgLUjq32DgLUjqn2DgLUjqX2DgLUjqH2DgLUjp32DgLUjpn2DgLUjpX2DgLXjvn1DgLXjvX1DgLXjrH2DgLXjq32DgLXjqn2DgLXjqX2DgLXjqH2DgLXjp32DgLXjpn2DgLXjpX2DgLWjvn1DgLWjvX1DgLWjrH2DgLWjq32DgLWjqn2DgLWjqX2DuaIS0cz3lv4LEBrnA2lQeU3V832" />
+        <div class="page-container">
+           <div class="row text-center" style="padding-bottom:10px; padding-top:10px; background:#eff3f8">
+                <!-- /192633929/ourlads-728x90-ATF -->
+                <div id='div-gpt-ad-1589768427002-0'>
+                  <script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1589768427002-0'); });
+                  </script>
+                </div>
+            </div>
+        </div>
+        <!-- BEGIN HEADER -->
+        <div class="page-header">
+            <!-- BEGIN HEADER TOP -->
+            <div class="page-header-top">
+                <div id="top-header" class="container">
+                    <!-- BEGIN LOGO -->
+                    <div class="page-logo">
+                        <a href="https://www.ourlads.com/"><img src="/images/top-logo-main.png" alt="logo" class="logo-default" /></a>
+                        <a href="https://www.ourlads.com/"><img src="/images/top-logo-blue.gif" alt="logo" class="logo-blue" /></a>
+                        <a href="https://www.ourlads.com/"><img src="/images/logo-mobile-blue.gif" alt="logo" class="logo-mobile" /></a>
+                    </div>
+                    <!-- END LOGO -->
+                    <div id="top-info-wrapper">
+                        <div id="top-social-c">
+                            <div id="top-social" class="pull-right">
+                                <ul>
+                                    <li><a href="index.html"><img src="/images/top-facebook.png" alt="ourlads on facebook" class="img-social"></a></li>
+                                    <li><a href="index.html"><img src="/images/top-twitter.png" alt="ourlads on twitter" class="img-social"></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div id="top-title-c">
+                            <div id="top-title">
+                               Ourlads NFL Scouting Services
+                            </div>
+                        </div>
+                        <div id="top-countdown-c">
+                            <div id="top-countdown"><script language="javascript" src="/scripts/draftcountdown.js" type="text/javascript"></script></div>
+                        </div>
+                    </div>
+                    <!-- BEGIN RESPONSIVE MENU TOGGLER -->
+                    <a href="javascript:;" class="menu-toggler"></a>
+                    <!-- END RESPONSIVE MENU TOGGLER -->
+                </div>
+            </div>
+            <!-- END HEADER TOP -->
+            <!-- BEGIN HEADER MENU -->
+            <div class="page-header-menu">
+                <div id="header-menu-container" class="container">
+                    <!-- BEGIN MEGA MENU -->
+                    <!-- DOC: Apply "hor-menu-light" class after the "hor-menu" class below to have a horizontal menu with white background -->
+                    <!-- DOC: Remove data-hover="dropdown" and data-close-others="true" attributes below to disable the dropdown opening on mouse hover -->
+                    <div class="hor-menu hor-menu-light">
+                        <ul class="nav navbar-nav">
+                            <li class="menu-dropdown classic-menu-dropdown ">
+						        <a data-hover="megamenu-dropdown" data-close-others="true" data-toggle="dropdown" href="javascript:;">
+						        SUBSCRIBE <i class="fa fa-angle-down"></i>
+						        </a>
+						         <ul class="dropdown-menu pull-left">
+							        <li>
+								        <a href="https://secure.ourlads.com/secure/print/subscribe.aspx">New Orders</a>
+								    </li>
+								     <li>
+								        <a href="https://secure.ourlads.com/secure/print/backorders.aspx">Backorders</a>
+								    </li>
+								</ul>
+					        </li>
+                            <li>
+						        <a href="https://www.ourlads.com/nfldepthcharts/">NFL DEPTH CHARTS</a>
+					        </li>
+                            <li>
+						        <a href="https://www.ourlads.com/ncaa-football-depth-charts/">NCAA DEPTH CHARTS</a>
+					        </li>
+                            <li class="menu-dropdown classic-menu-dropdown ">
+						        <a data-hover="megamenu-dropdown" data-close-others="true" data-toggle="dropdown" href="javascript:;">
+						        NFL DRAFT <i class="fa fa-angle-down"></i>
+						        </a>
+						        <ul class="dropdown-menu pull-left">
+							        <li>
+								        <a href="/nfl-draft/">2022 NFL Draft Hub</a>
+								    </li>
+								    <li>
+								        <a href="/scouting-reports/players.aspx">Player Scouting Reports</a>
+								    </li>
+                                    <li>
+								        <a href="/nfldrafts/">Recent NFL Drafts</a>
+								    </li>
+                                    <li>
+								        <a href="/nfl-combine-ratings/2022/">NFL Combine</a>
+								    </li>
+                                    <li>
+								        <a href="/nfldraftvalue/">NFL Draft Value Chart</a>
+								    </li>
+                                    <li>
+								        <a href="/nfl-draft-position-averages/">NFL Draft Averages</a>
+								    </li>
+									<li>
+								        <a href="https://www.ourlads.com/story/default/Quarterback-Ball-Velocity-at-NFL-Combine-2008-2017/10243/dh/">QB Ball Velocity</a>
+								    </li>
+						        </ul>
+					        </li>
+					        <li class="menu-dropdown classic-menu-dropdown ">
+						        <a data-hover="megamenu-dropdown" data-close-others="true" data-toggle="dropdown" href="javascript:;">
+						        FANTASY <i class="fa fa-angle-down"></i>
+						        </a>
+						         <ul class="dropdown-menu pull-left">
+							        <li>
+								        <a href="/fantasy/news">News</a>
+								    </li>
+								    <li>
+								        <a href="/fantasy/rankings">Rankings</a>
+								    </li>
+								    <li>
+								        <a href="/fantasy/injury-predictor">Injury Predictor</a>
+								    </li>
+								</ul>
+					        </li>
+					        <li>
+						        <a href="https://www.ourlads.com/ourlads-football-network/">OFN</a>
+					        </li>
+							<li>
+						        <a href="http://www.cfbstats.com/" target="_blank">CFB STATS</a>
+					        </li>
+                            <li class="menu-dropdown classic-menu-dropdown ">
+						        <a data-hover="megamenu-dropdown" data-close-others="true" data-toggle="dropdown" href="javascript:;">
+						        ABOUT <i class="fa fa-angle-down"></i>
+						        </a>
+						        <ul class="dropdown-menu pull-left" style="background:white !important">
+							        <li>
+								        <a href="/about/">About Us</a>
+								    </li>
+                                    <li>
+								        <a href="/sellingpoints/">Selling Points</a>
+								    </li>
+                                    <li>
+								        <a href="/publications/">Publications</a>
+								    </li>
+                                    <li>
+								        <a href="/shonka/">Dan Shonka's Bio</a>
+								    </li>
+                                    <li>
+								        <a href="/radio/">Radio Schedule</a>
+								    </li>
+                                    <li>
+								        <a href="/contact/">Media Interviews</a>
+								    </li>
+                                    <li>
+								        <a href="/contact/">Contact Us</a>
+								    </li>
+                                    <li>
+								        <a href="/testimonials/">Testimonials</a>
+								    </li>
+						        </ul>
+					        </li>
+					        <li class="menu-dropdown classic-menu-dropdown ">
+						        <a data-hover="megamenu-dropdown" data-close-others="true" data-toggle="dropdown" href="javascript:;">
+						        MORE... <i class="fa fa-angle-down"></i>
+						        </a>
+						        <ul class="dropdown-menu pull-left">
+							        <li>
+								        <a href="http://twitter.com/Ourlads_Shonka" target="_blank">Twitter</a>
+								    </li>
+                                    <li>
+								        <a href="http://www.facebook.com/pages/Ourlads-NFL-Scouting-Services-LLC/167307846622948" target="_blank">Facebook</a>
+								    </li>
+                                    <li>
+								        <a href="/scouthof/">Scouts' Hall of Fame</a>
+								    </li>
+                                    <li>
+								        <a href="https://www.ourlads.com/proscoutconfidential/">Pro Scout Confidential</a>
+								    </li>
+								    <li style="display:none;">
+								        <a href="http://www.bigonsports.com/odds-comparison/nfl/" target="_blank">NFL Football Odds</a>
+								    </li>
+								     <li style="display:none;">
+								        <a href="http://www.bigonsports.com/odds-comparison/cfb/" target="_blank">NCAA Football Odds</a>
+								    </li>
+                                    <li>
+								        <a href="/links/">Lads Links</a>
+								    </li>
+						        </ul>
+					        </li>
+					        <li id="li-nfl-odds" style="display:none;">
+						        <a href="http://www.bigonsports.com/odds-comparison/nfl/" target="_blank">LIVE ODDS</a>
+					        </li>
+                            <li id="li-ncaa-odds" style="display:none;">
+						        <a href="http://www.bigonsports.com/odds-comparison/cfb/" target="_blank">LIVE ODDS</a>
+					        </li>
+                        </ul>
+                    </div>
+                    <!-- END MEGA MENU -->
+                </div>
+            </div>
+            <!-- END HEADER MENU -->
+        </div>
+        <!-- END HEADER -->
+        <!-- BEGIN CONTAINER -->
+        <div class="page-container">
+            <!-- BEGIN CONTENT -->
+            
+    <input name="ctl00$phContent$hteam" type="text" value="DET" id="ctl00_phContent_hteam" class="hteam" style="display:none" />
+    <div class="page-content-wrapper">
+        <div class="page-head dc">
+            <div id="top-ad" class="container text-center">
+               
+<div style="padding: 10px 10px 10px 10px;">
+    <!-- /192633929/ourlads-728x90-ATF2 -->
+    <div id='div-gpt-ad-1589768505156-0'>
+      <script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1589768505156-0'); });
+      </script>
+    </div>
+</div>
+            </div>
+        </div>
+        <!-- BEGIN CONTENT BODY -->
+        <!-- BEGIN PAGE HEAD-->
+        <div class="page-head dc">
+            <div id="ctl00_phContent_hContainer" class="container h-DET">
+                <!-- BEGIN PAGE TITLE -->
+                <div class="page-title dc-team-hdr">
+                    <div class="pull-left pt-logo-wrap">
+                        <img id="ctl00_phContent_imgTeamLogo" class="pt-logo" src="https://www.ourlads.com/images/logo_DET.gif" border="0" />
+                    </div>
+                    <div class="pull-left">
+                        <div class="pt-team">
+                            <h2><span id="ctl00_phContent_TeamCity" class="pt-team-city">Detroit</span> <span id="ctl00_phContent_TeamName" class="pt-team-name">Lions</span></h2>
+                        </div>
+                    </div> 
+                </div>
+                <!-- END PAGE TITLE -->
+                        
+                <!-- BEGIN PAGE TOOLBAR -->
+                <div class="page-toolbar">
+                    <!-- BEGIN THEME PANEL -->
+                    <div class="btn-group btn-theme-panel dc-menu-btn">
+                        <a href="javascript:;" class="btn-dc-menu" data-toggle="dropdown">
+                            TEAMS <i class="fa fa-angle-down"></i>
+                        </a>
+                        <div id="dc-ddmenu" class="dropdown-menu theme-panel pull-right dropdown-custom hold-on-click">
+                            
+<div class="clearfix">
+    <div id="dc-ddmenu-teams-lf">
+        <div class="row">
+            <div class="col-md-3 col-sm-3">
+                <h3 class="dc-menu-div-title">AFC EAST</h3>
+                <ul class="ul-nfl-dc-teams">
+                    <li class="BUF"><a href="/nfldepthcharts/depthchart/BUF">Buffalo <span class="tn">Bills</span></a></li>
+                    <li class="MIA"><a href="/nfldepthcharts/depthchart/MIA">Miami <span class="tn">Dolphins</span></a></li>
+                    <li class="NE"><a href="/nfldepthcharts/depthchart/NE">New England <span class="tn">Patriots</span></a></li>
+                    <li class="NYJ"><a href="/nfldepthcharts/depthchart/NYJ">New York Jets</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 col-sm-3">
+	            <h3 class="dc-menu-div-title">AFC NORTH</h3>
+                <ul class="ul-nfl-dc-teams">
+                    <li class="BAL"><a href="/nfldepthcharts/depthchart/BAL">Baltimore <span class="tn">Ravens</span></a></li>
+                    <li class="CIN"><a href="/nfldepthcharts/depthchart/CIN">Cincinnati <span class="tn">Bengals</span></a></li>
+                    <li class="CLE"><a href="/nfldepthcharts/depthchart/CLE">Cleveland <span class="tn">Browns</span></a></li>
+                    <li class="PIT"><a href="/nfldepthcharts/depthchart/PIT">Pittsburgh <span class="tn">Steelers</span></a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 col-sm-3">
+	            <h3 class="dc-menu-div-title">AFC SOUTH</h3>
+                <ul class="ul-nfl-dc-teams">
+                    <li class="HOU"><a href="/nfldepthcharts/depthchart/HOU">Houston <span class="tn">Texans</span></a></li>
+                    <li class="IND"><a href="/nfldepthcharts/depthchart/IND">Indianapolis <span class="tn">Colts</span></a></li>
+                    <li class="JAX"><a href="/nfldepthcharts/depthchart/JAX">Jacksonville <span class="tn">Jaguars</span></a></li>
+                    <li class="TEN"><a href="/nfldepthcharts/depthchart/TEN">Tennessee <span class="tn">Titans</span></a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 col-sm-3">
+	            <h3 class="dc-menu-div-title">AFC WEST</h3>
+                <ul class="ul-nfl-dc-teams">
+                    <li class="DEN"><a href="/nfldepthcharts/depthchart/DEN">Denver <span class="tn">Broncos</span></a></li>
+                    <li class="KC"><a href="/nfldepthcharts/depthchart/KC">Kansas City <span class="tn">Chiefs</span></a></li>
+					<li class="LV"><a href="/nfldepthcharts/depthchart/LV">Las Vegas <span class="tn">Raiders</span></a></li>
+					<li class="SD"><a href="/nfldepthcharts/depthchart/SD">Los Angeles <span class="tn">Chargers</span></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div id="dc-ddmenu-teams-rt">
+        <div class="row">
+            <div class="col-md-3 col-sm-3">
+                <h3 class="dc-menu-div-title">NFC EAST</h3>
+                <ul class="ul-nfl-dc-teams">
+                    <li class="DAL"><a href="/nfldepthcharts/depthchart/DAL">Dallas <span class="tn">Cowboys</span></a></li>
+                    <li class="NYG"><a href="/nfldepthcharts/depthchart/NYG">New York Giants</a></li>
+                    <li class="PHI"><a href="/nfldepthcharts/depthchart/PHI">Philadelphia <span class="tn">Eagles</span></a></li>
+                    <li class="WAS"><a href="/nfldepthcharts/depthchart/WAS">Washington <span class="tn">Commanders</span></a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 col-sm-3">
+	            <h3 class="dc-menu-div-title">NFC NORTH</h3>
+                <ul class="ul-nfl-dc-teams">
+                    <li class="CHI"><a href="/nfldepthcharts/depthchart/CHI">Chicago <span class="tn">Bears</span></a></li>
+                    <li class="DET"><a href="/nfldepthcharts/depthchart/DET">Detroit <span class="tn">Lions</span></a></li>
+                    <li class="GB"><a href="/nfldepthcharts/depthchart/GB">Green Bay <span class="tn">Packers</span></a></li>
+                    <li class="MIN"><a href="/nfldepthcharts/depthchart/MIN">Minnesota <span class="tn">Vikings</span></a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 col-sm-3">
+	            <h3 class="dc-menu-div-title">NFC SOUTH</h3>
+                <ul class="ul-nfl-dc-teams">
+                    <li class="ATL"><a href="/nfldepthcharts/depthchart/ATL">Atlanta <span class="tn">Falcons</span></a></li>
+                    <li class="CAR"><a href="/nfldepthcharts/depthchart/CAR">Carolina <span class="tn">Panthers</span></a></li>
+                    <li class="NO"><a href="/nfldepthcharts/depthchart/NO">New Orleans <span class="tn">Saints</span></a></li>
+                    <li class="TB"><a href="/nfldepthcharts/depthchart/TB">Tampa Bay <span class="tn">Buccaneers</span></a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 col-sm-3">
+	            <h3 class="dc-menu-div-title">NFC WEST</h3>
+                <ul class="ul-nfl-dc-teams">
+                    <li class="ARZ"><a href="/nfldepthcharts/depthchart/ARZ">Arizona <span class="tn">Cardinals</span></a></li>
+                    <li class="SF"><a href="/nfldepthcharts/depthchart/SF">San Francisco <span class="tn">49ers</span></a></li>
+                    <li class="SEA"><a href="/nfldepthcharts/depthchart/SEA">Seattle <span class="tn">Seahawks</span></a></li>
+                    <li class="LAR"><a href="/nfldepthcharts/depthchart/RAM">Los Angeles <span class="tn">Rams</span></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+                        </div>
+                    </div>
+                    <!-- END THEME PANEL -->
+                </div>
+                <!-- END PAGE TOOLBAR -->
+            </div>
+        </div>
+        <!-- END PAGE HEAD-->
+
+        <div class="dc-sub-nav">
+            <div id="ctl00_phContent_dc_sub_nav_c" class="container snDET dc-sub-nav-c">
+                <ul id="ctl00_phContent_dcsn_main" class="dcsn-main DET">
+                    <li class="dcsn_li first"><a id="ctl00_phContent_hRos" class="dcsn_a DET" href="../roster/DET">Roster</a></li>
+                    <li class="dcsn_li"><a id="ctl00_phContent_hPF" class="dcsn_a DET" href="../pfdepthchart/DET" target="_blank">Printer-Friendly Chart</a></li>
+                    <li class="dcsn_li"><a id="ctl00_phContent_hKey" class="dcsn_a DET" href="https://www.ourlads.com/nfldepthcharts/key.aspx">Key</a></li>
+                    <li class="dcsn_li"><a id="ctl00_phContent_hPS" class="dcsn_a DET" href="https://www.ourlads.com/nfldepthcharts/playersearch.aspx">Player Search</a></li>
+                    <li class="dcsn_li"><a id="ctl00_phContent_hDCA" class="dcsn_a DET" href="https://www.ourlads.com/nfldepthcharts/depthcharts.aspx">Depth Charts All Teams</a></li>
+                    <li class="dcsn_li"><a id="ctl00_phContent_hDCP" class="dcsn_a DET" href="../depthchartpos/QB">Depth Charts By Pos</a></li>
+                    <li class="dcsn_li last"><a id="ctl00_phContent_hMM" class="dcsn_a DET" href="https://www.ourlads.com/nfldepthcharts/default.aspx">Main Menu</a></li>
+                </ul> 
+                <div id="dcsn-mobile" class="pull-right">
+                    <ul>
+                        <li class="dcsn_li">
+                            <div id="dcsn-mobile-menu" class="btn-group">
+                                <a id="ctl00_phContent_hChartMenu" class="dcsn_a fw-600 DET" data-toggle="dropdown" href="../#">DEPTH CHART MENU <i class="fa fa-angle-down"></i></a>
+                                <ul id="ctl00_phContent_ulsn_mobile" class="dropdown-menu pull-right DET">
+							        <li><a id="ctl00_phContent_hRosMenu" href="../roster/DET">Roster</a></li>
+							        <li><a id="ctl00_phContent_hPFMenu" href="../pfdepthchart/DET" target="_blank">Printer-Friendly Chart</a></li>
+                                    <li><a href="/nfldepthcharts/key.aspx">Key</a></li>
+                                    <li><a href="/nfldepthcharts/playersearch.aspx">Player Search</a></li>
+                                    <li><a href="/nfldepthcharts/depthcharts.aspx">Depth Charts All Teams</a></li>
+                                    <li><a href="/nfldepthcharts/depthchartpos/QB">Depth Charts By Pos</a></li>
+                                    <li><a href="https://www.ourlads.com/nfldepthcharts/">Main Menu</a></li>
+						        </ul>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- BEGIN PAGE CONTENT BODY -->
+        <div class="page-content no-pad-top no-pad-bot">
+            <div class="container">
+                <!-- BEGIN PAGE CONTENT INNER -->
+                <div id="page-content-wrapper" class="page-content-inner">
+                    <div class="row pad-top-20 pad-bot-10">
+                        <div class="blog-page dc-content-hdr">
+                            <h1 id="ctl00_phContent_TeamTitle" class="DET">Detroit Lions Depth Chart</h1>
+                            <div class="dc-coaches">
+                                <ul>
+                                    <li id="ctl00_phContent_liHC">HC: Dan Campbell</li>
+                                    <li id="ctl00_phContent_liOC">OC: Ben Johnson</li>
+                                    <li id="ctl00_phContent_liDC">DC: Aaron Glenn</li>
+                                    <li id="ctl00_phContent_liST">ST: Dave Fipp</li>
+                                </ul>
+                            </div>
+                            <div id="ctl00_phContent_DateUpd" class="dc-upd">Updated: 05/10/2022 1:36PM ET</div>
+                            
+                        </div>
+                        <div class="dc-select">
+                            <div class="btn-group">
+                                <select name="ctl00$phContent$ddlArchive" id="ctl00_phContent_ddlArchive" class="bs-select form-control" data-width="180px" onchange="jumparchive(this)">
+	<option value="">-- Archive Dates --</option>
+	<option value="258">05/01/2022</option>
+	<option value="257">04/28/2022</option>
+	<option value="256">04/01/2022</option>
+	<option value="255">03/01/2022</option>
+	<option value="254">02/01/2022</option>
+	<option value="253">01/01/2022</option>
+	<option value="252">12/01/2021</option>
+	<option value="251">11/01/2021</option>
+	<option value="250">10/01/2021</option>
+	<option value="249">09/01/2021</option>
+	<option value="248">08/01/2021</option>
+	<option value="247">07/01/2021</option>
+	<option value="246">06/01/2021</option>
+	<option value="245">05/02/2021</option>
+	<option value="244">04/01/2021</option>
+	<option value="243">03/02/2021</option>
+	<option value="242">02/02/2021</option>
+	<option value="241">01/01/2021</option>
+	<option value="239">12/02/2020</option>
+	<option value="238">11/01/2020</option>
+	<option value="237">10/02/2020</option>
+	<option value="236">09/01/2020</option>
+	<option value="235">08/02/2020</option>
+	<option value="234">07/01/2020</option>
+	<option value="233">06/01/2020</option>
+	<option value="232">05/01/2020</option>
+	<option value="231">04/01/2020</option>
+	<option value="230">03/01/2020</option>
+	<option value="229">02/01/2020</option>
+	<option value="228">01/01/2020</option>
+	<option value="227">12/01/2019</option>
+	<option value="226">11/01/2019</option>
+	<option value="225">10/01/2019</option>
+	<option value="224">09/02/2019</option>
+	<option value="223">08/01/2019</option>
+	<option value="222">07/01/2019</option>
+	<option value="221">06/01/2019</option>
+	<option value="220">05/01/2019</option>
+	<option value="219">04/01/2019</option>
+	<option value="218">03/01/2019</option>
+	<option value="217">02/01/2019</option>
+	<option value="216">01/01/2019</option>
+	<option value="215">12/01/2018</option>
+	<option value="214">11/01/2018</option>
+	<option value="213">10/01/2018</option>
+	<option value="212">09/01/2018</option>
+	<option value="211">08/01/2018</option>
+	<option value="210">07/01/2018</option>
+	<option value="209">06/01/2018</option>
+	<option value="208">05/01/2018</option>
+	<option value="207">04/01/2018</option>
+	<option value="206">03/01/2018</option>
+	<option value="205">02/01/2018</option>
+	<option value="204">01/01/2018</option>
+	<option value="203">12/01/2017</option>
+	<option value="202">11/01/2017</option>
+	<option value="200">10/01/2017</option>
+	<option value="199">09/01/2017</option>
+	<option value="198">08/01/2017</option>
+	<option value="197">07/01/2017</option>
+	<option value="196">06/01/2017</option>
+	<option value="195">05/01/2017</option>
+	<option value="194">04/01/2017</option>
+	<option value="193">03/01/2017</option>
+	<option value="192">02/01/2017</option>
+	<option value="191">01/01/2017</option>
+	<option value="190">12/01/2016</option>
+	<option value="189">11/01/2016</option>
+	<option value="188">10/01/2016</option>
+	<option value="187">09/01/2016</option>
+	<option value="186">08/01/2016</option>
+	<option value="185">07/01/2016</option>
+	<option value="184">06/01/2016</option>
+	<option value="183">05/02/2016</option>
+	<option value="182">04/01/2016</option>
+	<option value="181">03/01/2016</option>
+	<option value="180">02/01/2016</option>
+	<option value="179">01/01/2016</option>
+	<option value="178">12/01/2015</option>
+	<option value="177">11/01/2015</option>
+	<option value="176">10/01/2015</option>
+	<option value="175">09/01/2015</option>
+	<option value="174">08/01/2015</option>
+	<option value="173">07/02/2015</option>
+	<option value="172">06/01/2015</option>
+	<option value="171">05/01/2015</option>
+	<option value="170">04/01/2015</option>
+	<option value="169">03/01/2015</option>
+	<option value="168">02/01/2015</option>
+	<option value="167">01/01/2015</option>
+	<option value="166">12/01/2014</option>
+	<option value="165">11/01/2014</option>
+	<option value="164">10/01/2014</option>
+	<option value="162">09/01/2014</option>
+	<option value="161">08/01/2014</option>
+	<option value="160">07/01/2014</option>
+	<option value="159">06/01/2014</option>
+	<option value="158">05/01/2014</option>
+	<option value="157">04/01/2014</option>
+	<option value="156">03/01/2014</option>
+	<option value="155">02/01/2014</option>
+	<option value="154">01/01/2014</option>
+	<option value="153">12/01/2013</option>
+	<option value="152">11/01/2013</option>
+	<option value="151">10/01/2013</option>
+	<option value="150">09/05/2013</option>
+	<option value="149">09/01/2013</option>
+	<option value="148">08/01/2013</option>
+	<option value="147">07/27/2013</option>
+	<option value="146">07/01/2013</option>
+	<option value="145">06/05/2013</option>
+	<option value="144">06/01/2013</option>
+	<option value="143">05/01/2013</option>
+	<option value="142">04/01/2013</option>
+	<option value="141">03/01/2013</option>
+	<option value="140">02/01/2013</option>
+	<option value="139">01/01/2013</option>
+	<option value="138">12/02/2012</option>
+	<option value="137">11/01/2012</option>
+	<option value="136">10/01/2012</option>
+	<option value="135">09/01/2012</option>
+	<option value="134">08/01/2012</option>
+	<option value="133">07/01/2012</option>
+	<option value="132">06/01/2012</option>
+	<option value="131">05/03/2012</option>
+	<option value="130">04/01/2012</option>
+	<option value="129">03/01/2012</option>
+	<option value="128">02/01/2012</option>
+	<option value="127">01/01/2012</option>
+	<option value="126">12/01/2011</option>
+	<option value="125">11/01/2011</option>
+	<option value="124">10/01/2011</option>
+	<option value="123">09/04/2011</option>
+	<option value="122">08/01/2011</option>
+	<option value="121">07/01/2011</option>
+	<option value="120">06/01/2011</option>
+	<option value="119">05/01/2011</option>
+	<option value="118">04/01/2011</option>
+	<option value="117">03/01/2011</option>
+	<option value="116">02/01/2011</option>
+	<option value="115">01/01/2011</option>
+	<option value="114">12/01/2010</option>
+	<option value="113">11/01/2010</option>
+	<option value="112">10/01/2010</option>
+	<option value="111">09/05/2010</option>
+	<option value="110">08/01/2010</option>
+	<option value="109">07/01/2010</option>
+	<option value="108">06/01/2010</option>
+	<option value="107">05/01/2010</option>
+	<option value="106">04/01/2010</option>
+	<option value="105">03/01/2010</option>
+	<option value="104">02/01/2010</option>
+	<option value="103">01/03/2010</option>
+	<option value="102">12/01/2009</option>
+	<option value="42">11/01/2009</option>
+	<option value="41">10/01/2009</option>
+	<option value="40">09/06/2009</option>
+	<option value="39">08/08/2009</option>
+	<option value="38">07/01/2009</option>
+	<option value="37">06/01/2009</option>
+	<option value="36">05/01/2009</option>
+	<option value="35">04/01/2009</option>
+	<option value="34">03/03/2009</option>
+	<option value="33">02/02/2009</option>
+	<option value="32">01/01/2009</option>
+	<option value="31">12/01/2008</option>
+	<option value="30">11/01/2008</option>
+	<option value="29">08/31/2008</option>
+	<option value="28">08/02/2008</option>
+	<option value="27">07/01/2008</option>
+	<option value="26">06/01/2008</option>
+	<option value="25">05/01/2008</option>
+	<option value="24">04/01/2008</option>
+	<option value="23">03/02/2008</option>
+	<option value="22">02/05/2008</option>
+	<option value="21">01/01/2008</option>
+	<option value="20">12/01/2007</option>
+	<option value="19">11/03/2007</option>
+	<option value="18">10/01/2007</option>
+	<option value="17">09/02/2007</option>
+	<option value="16">08/01/2007</option>
+	<option value="15">07/01/2007</option>
+	<option value="14">06/01/2007</option>
+
+</select>
+                                
+                            </div>
+							
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div id="imp_banner" class="col-md-12 text-center" style="padding-bottom:10px;">
+                            <!-- /192633929/ourlads-728x90-BTF2 -->
+                            <div id='div-gpt-ad-1591987585500-0'>
+                              <script>
+                                  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1591987585500-0'); });
+                              </script>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row" id="dc-wrapper">
+                        <div class="col-md-12 blog-page">
+                            <div id="ctl00_phContent_DepWrapper" class="table-responsive dc-dt dt-DET">
+                                <table class="table table-bordered">
+                                    <thead>
+                                        <tr>
+                                            <th>Pos</th>
+                                            <th>No.</th>
+                                            <th>Player 1</th>
+                                            <th>No</th>
+                                            <th>Player 2</th>
+                                            <th>No</th>
+                                            <th>Player 3</th>
+                                            <th>No</th>
+                                            <th>Player 4</th>
+                                            <th>No</th>
+                                            <th>Player 5</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="ctl00_phContent_dcTBody"><tr class='row-dc-pos'><td colspan='11' class='dt-sh sh-DET'>Offense</td></tr><tr class='row-dc-pos-mobile'><td class='dt-sh sh-DET'>OFF</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td></tr><tr class='row-dc-wht'><td class='row-dc-wht'>LWR</td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/46511/' class=''>Chark, DJ U/Jax</a></td><td>87</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/40407/' class=''>Cephus, Quintez 20/5</a></td><td>17</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/44535/' class=''>Benson, Trinity T/Den</a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/47251/' class='lc_green'>Sutton, Corey CF22</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-grey'><td class='row-dc-grey'>RWR</td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/46837/' class='lc_green'>Williams, Jameson 22/1</a></td><td>8</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/45756/' class=''>Reynolds, Josh W/Ten</a></td><td>83</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/45495/' class=''>McKinley, Javon CF21</a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/47255/' class='lc_green'>Johnson, Josh CF22</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-wht'><td class='row-dc-wht'>SWR</td><td>14</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/43430/' class=''>St. Brown, Amon-Ra 21/4</a></td><td>11</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/43198/' class=''>Raymond, Kalif U/Ten</a></td><td>85</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/45766/' class=''>Kennedy, Tom CF19</a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/47248/' class='lc_green'>Pimpleton, Kalil CF22</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-grey'><td class='row-dc-grey'>LT</td><td>68</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/27266/' class=''>Decker, Taylor 16/1</a></td><td>67</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/38640/' class=''>Nelson, Matt CF19</a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/47249/' class='lc_green'>Eze, Obinna CF22</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-wht'><td class='row-dc-wht'>LG</td><td>73</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/40316/' class=''>Jackson, Jonah 20/3</a></td><td>71</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/40362/' class=''>Stenberg, Logan 20/4</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-grey'><td class='row-dc-grey'>C</td><td>77</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/33733/' class=''>Ragnow, Frank 18/1</a></td><td>63</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/42581/' class=''>Brown, Evan SF20</a></td><td>74</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/45451/' class=''>McCollum, Ryan P/Hou</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-wht'><td class='row-dc-wht'>RG</td><td>72</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/40009/' class=''>Vaitai, Halapoulivaati U/Phi</a></td><td>78</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/45712/' class=''>Kraemer, Tommy CF21</a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/47252/' class='lc_green'>Jarvis, Kevin CF22</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-grey'><td class='row-dc-grey'>RT</td><td>58</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/43324/' class=''>Sewell, Penei 21/1</a></td><td>70</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/45835/' class=''>Skipper, Dan SF21</a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/47253/' class='lc_green'>Obeid, Zein CF22</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-wht'><td class='row-dc-wht'>TE</td><td>88</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/36979/' class=''>Hockenson, T.J. 19/1</a></td><td>89</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/44751/' class=''>Wright, Brock CF21</a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/47005/' class='lc_green'>Mitchell, James 22/5</a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/46591/' class=''>Griffin, Garrett U/NO</a></td><td>84</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/45040/' class=''>Zylstra, Shane SF21</a></td></tr><tr class='row-dc-grey'><td class='row-dc-grey'>TE</td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/47257/' class='lc_green'>Givan, Nolan CF22</a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/47256/' class='lc_green'>Deese Jr., Derrick CF22</a></td></tr><tr class='row-dc-wht'><td class='row-dc-wht'>QB</td><td>16</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/42922/' class=''>Goff, Jared T/LAR</a></td><td>12</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/43117/' class=''>Boyle, Tim R/GB</a></td><td>10</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/41525/' class=''>Blough, David T/Cle</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-grey'><td class='row-dc-grey'>RB</td><td>32</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/40275/' class=''>Swift, D'Andre 20/2</a></td><td>30</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/43037/' class=''>Williams, Jamaal U/GB</a></td><td>46</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/44748/' class=''>Reynolds, Craig SF21</a></td><td>28</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/43575/' class=''>Jefferson, Jermar 21/7</a></td><td>35</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/42845/' class=''>Igwebuike, Godwin SF21</a></td></tr><tr class='row-dc-wht'><td class='row-dc-wht'>RB</td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/47250/' class='lc_green'>Bell, Greg CF22</a></td></tr><tr class='row-dc-grey'><td class='row-dc-grey'>FB</td><td>45</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/38853/' class=''>Cabinda, Jason SF19</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-pos'><td colspan='11' class='dt-sh sh-DET'>Defense</td></tr><tr class='row-dc-pos-mobile'><td class='dt-sh sh-DET'>DEF</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td></tr><tr class='row-dc-wht'><td class='row-dc-wht'>DE</td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/46824/' class='lc_green'>Hutchinson, Aidan 22/1</a></td><td>95</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/35594/' class=''>Okwara, Romeo W/NYG</a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/46873/' class='lc_green'>Paschal, Josh 22/2</a></td><td>2</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/37089/' class=''>Bryant, Austin 19/4</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-grey'><td class='row-dc-grey'>NT</td><td>54</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/43390/' class=''>McNeill, Alim 21/3</a></td><td>98</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/40438/' class=''>Penisini, John 20/6</a></td><td>96</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/40476/' class=''>Cornell, Jashon 20/7</a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/47254/' class='lc_green'>Taylor, Demetrius CF22</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-wht'><td class='row-dc-wht'>DT</td><td>91</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/43078/' class=''>BROCKERS, MICHAEL T/LAR</a></td><td>75</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/43359/' class=''>Onwuzurike, Levi 21/2</a></td><td>76</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/44742/' class=''>Hector, Bruce W/Ten</a></td><td>94</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/45654/' class=''>Banks, Eric W/LAC</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-grey'><td class='row-dc-grey'>DE</td><td>53</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/43111/' class=''>Harris, Charles U/Atl</a></td><td>99</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/40308/' class=''>Okwara, Julian 20/3</a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/47045/' class='lc_green'>Houston, James 22/6</a></td><td>52</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/45036/' class=''>Lemonier, Jessie SF21</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-wht'><td class='row-dc-wht'>LB</td><td>34</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/43176/' class=''>Anzalone, Alex U/NO</a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/46699/' class=''>Davis, Jarrad U/NYJ</a></td><td>51</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/45361/' class=''>Woods, Josh SF21</a></td><td>50</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/42930/' class=''>Hamilton, Shaun Dion W/Was</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-grey'><td class='row-dc-grey'>LB</td><td>55</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/43431/' class=''>Barnes, Derrick 21/4</a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/47016/' class='lc_green'>Rodriguez, Malcolm 22/6</a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/46661/' class=''>Board, Chris U/Bal</a></td><td>57</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/41531/' class=''>Pittman, Anthony CF19</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-wht'><td class='row-dc-wht'>LCB</td><td>24</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/37118/' class=''>Oruwariye, Amani 19/5</a></td><td>26</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/43419/' class=''>Melifonwu, Ifeatu 21/3</a></td><td>40</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/45497/' class=''>Gilbert, Mark P/Pit</a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/47258/' class='lc_green'>Boswell, Cedric CF22</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-grey'><td class='row-dc-grey'>SS</td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/46793/' class=''>Elliott, DeShon U/Bal</a></td><td>25</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/37053/' class=''>Harris, Will 19/3</a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/46425/' class=''>Hughes, JuJu W/LAR</a></td><td>15</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/45980/' class=''>Breeze, Brady W/Ten</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-wht'><td class='row-dc-wht'>FS</td><td>21</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/33796/' class=''>Walker III, Tracy 18/3</a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/46924/' class='lc_green'>Joseph, Kerby 22/3</a></td><td>38</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/37616/' class=''>Moore, C.J. CF19</a></td><td>42</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/44740/' class=''>Elliott, Jalen CF20</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-grey'><td class='row-dc-grey'>RCB</td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/46660/' class=''>Hughes, Mike U/KC</a></td><td>39</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/43717/' class=''>Jacobs, Jerry CF21</a></td><td>27</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/41532/' class=''>Price, Bobby CF20</a></td><td>19</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/46233/' class=''>Smith, Saivion W/SF</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-wht'><td class='row-dc-wht'>NB</td><td>23</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/40243/' class=''>Okudah, Jeff 20/1</a></td><td>41</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/43707/' class=''>Parker, AJ CF21</a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/47066/' class='lc_green'>Lucas, Chase 22/7</a></td><td>00</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/47259/' class='lc_green'>Kohou, Kader CF22</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-pos'><td colspan='11' class='dt-sh sh-DET'>Special Teams</td></tr><tr class='row-dc-pos-mobile'><td class='dt-sh sh-DET'>ST</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td><td Class='dt-sh'>&nbsp;</td></tr><tr class='row-dc-wht'><td class='row-dc-wht'>PT</td><td>3</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/39671/' class=''>Fox, Jack CF19</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/18026/' class=''></a></td></tr><tr class='row-dc-grey'><td class='row-dc-grey'>PK</td><td>6</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/45799/' class=''>Patterson, Riley P/NE</a></td><td>5</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/46411/' class=''>Rosas, Aldrick SF21</a></td><td>4</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/44548/' class=''>Seibert, Austin W/Cin</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-wht'><td class='row-dc-wht'>LS</td><td>47</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/43799/' class=''>Daly, Scott SF21</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-grey'><td class='row-dc-grey'>H</td><td>3</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/39671/' class=''>Fox, Jack CF19</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/18026/' class=''></a></td></tr><tr class='row-dc-wht'><td class='row-dc-wht'>KO</td><td>6</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/45799/' class=''>Patterson, Riley P/NE</a></td><td>5</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/46411/' class=''>Rosas, Aldrick SF21</a></td><td>4</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/44548/' class=''>Seibert, Austin W/Cin</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/18026/' class=''></a></td></tr><tr class='row-dc-grey'><td class='row-dc-grey'>PR</td><td>11</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/43198/' class=''>Raymond, Kalif U/Ten</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr><tr class='row-dc-wht'><td class='row-dc-wht'>KR</td><td>35</td><td><a href='https://www.ourlads.com/nfldepthcharts/player/42845/' class=''>Igwebuike, Godwin SF21</a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td><td></td><td><a href='https://www.ourlads.com/nfldepthcharts/player/0/' class=''></a></td></tr></tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row" >
+                        <div id="ctl00_phContent_dcanalysis" class="col-md-8 col-xs-12" style="max-height:999999px;display:block;">
+                            <h4 id="ctl00_phContent_AnalysisTitle" style="font-weight:600; margin-top:0px !important;" class="DET">Analysis</h4>
+                            <p>
+ What Ourlads&#39; Scouting Services said about&nbsp;<span class="Bold">PENEI SEWELL</span>&nbsp;before he made the Detroit Lions&#39; Depth Chart:&nbsp;Oregon, 6047 331 5.10. Junior entry from Malaeimi, American Samoa. Two-year starter that opted out of the 2020 season. Earned Honorable Mention all-conference honors as a true freshman in 2018 before being named Co-Pac 12 Offensive Player of the Year in 2019. He delivered on his highly touted high school recruit profile, ending his playing career at Oregon as the winner of the Outland and Morris Trophy (the Morris Award is voted on by defensive line opponents). Has elite potential that stems from his combination of size, athleticism, and techniques. A consistent weapon in the trenches that has an extremely high win rate both as a run and pass blocker. He is a comfortable mover. Has outstanding hand strength, and always looks under full control no matter the situation. Because he opted out of the 2020 season he will enter the league with just 20 college games under his belt. Needs to develop more power and trust in his lower half and become less dependent on simply being more talented than his opponent. Was a man among boys in college, but his subtle and hard to notice weaknesses will need to be cleaned up if he wants to carry that success into the NFL. Checks all the boxes when looking at the physical requirements of a left tackle. Tall and thick with easy ability to carry a lot of weight on a nicely developed frame. He is long enough and shows the easy-foot speed to keep things moving and active. Plus body control and balance. Excels with his initial contact, constantly hitting his point with his hands. Will get a strong initial punch and maintains his positioning. Adjusts well against both power and speed. Shows the mental awareness and physical ability to alter his approach against complex blitzing and stunt schemes up front. Smart player that doesn&rsquo;t get overwhelmed. Team player who will always look for extra work downfield. Chases the action and looks for bodies to pick off. Pad level and knee bend are inconsistent. Needs to engage from the hips down more consistently rather than just lean on defenders as a run blocker. Does not always maintain a tree-trunk type anchor in pass protection. Gives up too much ground against power. Needs to keep that pocket wider on his side. Will have a tendency to play soft for stretches. First round. (A-33 1/4, H-10 3/8, BP-30, 10-1.79).<span style="display: none">Ohio State, 6011 205 4.46. Junior entry, two-year starter, Grand Prairie, TX. First-team All-Big 10 in 2019. Was outstanding as a sub package player before becoming a full-time starter in 2019. Physical corner with length. Has experience in a variety of coverage and technique. Plays press, off, and hard corner. Effective with a two and off hand jam along with press and react. Strong in press and bail. Mirrors cuts extremely well from different looks. Quick in transition with sudden foot movements changing directions. Recovers and closes with a burst. Solid ball skills getting his inside hand on balls at the catch point. Can undercut a route in the throwing lane to high point the ball. Stays in phase on vertical and extended route breaks. Has eye discipline to focus on the receiver and find the ball in phase. Solid zone defender with quick lateral shuffle in deep outside coverage. Maintains close cushion and has the ability to see multiple routes and react to the quarterback delivery. Can sink under an intermediate route as a hard corner and quickly break on the flat. Explosive plant and drive. Physical in run support. Can take on a stalk block and shed working to the ball. Runs through tackles with gather and finish. Occasionally will give up leverage versus a shifty receiver. Could be more fluid in pedal and reactions in off coverage. At time relies too much on recovery speed versus route breaks. Occasionally goes low on tackles and is vulnerable to a miss or yards after contact. Has the size, speed, and athletic ability of an elite corner. Any deficiency in his game can be cleaned up by an NFL coach. He still has upside and will be selected in the first round. 2019 stats: 35 T, 1 TFL, 9 PBU, 2 FF, 3 INT. OSR:4/29. First round. (A-32 5/8, H-8 1/2, VJ-41, SS-DNP).<span style="display: none">&nbsp;</span>Ohio State, 6011 205 4.46. Junior entry, two-year starter, Grand Prairie, TX. First-team All-Big 10 in 2019. Was outstanding as a sub package player before becoming a full-time starter in 2019. Physical corner with length. Has experience in a variety of coverage and technique. Plays press, off, and hard corner. Effective with a two and off hand jam along with press and react. Strong in press and bail. Mirrors cuts extremely well from different looks. Quick in transition with sudden foot movements changing directions. Recovers and closes with a burst. Solid ball skills getting his inside hand on balls at the catch point. Can undercut a route in the throwing lane to high point the ball. Stays in phase on vertical and extended route breaks. Has eye discipline to focus on the receiver and find the ball in phase. Solid zone defender with quick lateral shuffle in deep outside coverage. Maintains close cushion and has the ability to see multiple routes and react to the quarterback delivery. Can sink under an intermediate route as a hard corner and quickly break on the flat. Explosive plant and drive. Physical in run support. Can take on a stalk block and shed working to the ball. Runs through tackles with gather and finish. Occasionally will give up leverage versus a shifty receiver. Could be more fluid in pedal and reactions in off coverage. At time relies too much on recovery speed versus route breaks. Occasionally goes low on tackles and is vulnerable to a miss or yards after contact. Has the size, speed, and athletic ability of an elite corner. Any deficiency in his game can be cleaned up by an NFL coach. He still has upside and will be selected in the first round. 2019 stats: 35 T, 1 TFL, 9 PBU, 2 FF, 3 INT. OSR:4/29. First round. (A-32 5/8, H-8 1/2, VJ-41, SS-DNP).<span style="display: none">&nbsp;</span>Ohio State, 6011 205 4.46. Junior entry, two-year starter, Grand Prairie, TX. First-team All-Big 10 in 2019. Was outstanding as a sub package player before becoming a full-time starter in 2019. Physical corner with length. Has experience in a variety of coverage and technique. Plays press, off, and hard corner. Effective with a two and off hand jam along with press and react. Strong in press and bail. Mirrors cuts extremely well from different looks. Quick in transition with sudden foot movements changing directions. Recovers and closes with a burst. Solid ball skills getting his inside hand on balls at the catch point. Can undercut a route in the throwing lane to high point the ball. Stays in phase on vertical and extended route breaks. Has eye discipline to focus on the receiver and find the ball in phase. Solid zone defender with quick lateral shuffle in deep outside coverage. Maintains close cushion and has the ability to see multiple routes and react to the quarterback delivery. Can sink under an intermediate route as a hard corner and quickly break on the flat. Explosive plant and drive. Physical in run support. Can take on a stalk block and shed working to the ball. Runs through tackles with gather and finish. Occasionally will give up leverage versus a shifty receiver. Could be more fluid in pedal and reactions in off coverage. At time relies too much on recovery speed versus route breaks. Occasionally goes low on tackles and is vulnerable to a miss or yards after contact. Has the size, speed, and athletic ability of an elite corner. Any deficiency in his game can be cleaned up by an NFL coach. He still has upside and will be selected in the first round. 2019 stats: 35 T, 1 TFL, 9 PBU, 2 FF, 3 INT. OSR:4/29. First round. (A-32 5/8, H-8 1/2, VJ-41, SS-DNP).Ohio State, 6011 205 4.46. Junior entry, two-year starter, Grand Prairie, TX. First-team All-Big 10 in 2019. Was outstanding as a sub package player before becoming a full-time starter in 2019. Physical corner with length. Has experience in a variety of coverage and technique. Plays press, off, and hard corner. Effective with a two and off hand jam along with press and react. Strong in press and bail. Mirrors cuts extremely well from different looks. Quick in transition with sudden foot movements changing directions. Recovers and closes with a burst. Solid ball skills getting his inside hand on balls at the catch point. Can undercut a route in the throwing lane to high point the ball. Stays in phase on vertical and extended route breaks. Has eye discipline to focus on the receiver and find the ball in phase. Solid zone defender with quick lateral shuffle in deep outside coverage. Maintains close cushion and has the ability to see multiple routes and react to the quarterback delivery. Can sink under an intermediate route as a hard corner and quickly break on the flat. Explosive plant and drive. Physical in run support. Can take on a stalk block and shed working to the ball. Runs through tackles with gather and finish. Occasionally will give up leverage versus a shifty receiver. Could be more fluid in pedal and reactions in off coverage. At time relies too much on recovery speed versus route breaks. Occasionally goes low on tackles and is vulnerable to a miss or yards after contact. Has the size, speed, and athletic ability of an elite corner. Any deficiency in his game can be cleaned up by an NFL coach. He still has upside and will be selected in the first round. 2019 stats: 35 T, 1 TFL, 9 PBU, 2 FF, 3 INT. OSR:4/29. First round. (A-32 5/8, H-8 1/2, VJ-41, SS-DNP).Ohio State, 6011 205 4.46. Junior entry, two-year starter, Grand Prairie, TX. First-team All-Big 10 in 2019. Was outstanding as a sub package player before becoming a full-time starter in 2019. Physical corner with length. Has experience in a variety of coverage and technique. Plays press, off, and hard corner. Effective with a two and off hand jam along with press and react. Strong in press and bail. Mirrors cuts extremely well from different looks. Quick in transition with sudden foot movements changing directions. Recovers and closes with a burst. Solid ball skills getting his inside hand on balls at the catch point. Can undercut a route in the throwing lane to high point the ball. Stays in phase on vertical and extended route breaks. Has eye discipline to focus on the receiver and find the ball in phase. Solid zone defender with quick lateral shuffle in deep outside coverage. Maintains close cushion and has the ability to see multiple routes and react to the quarterback delivery. Can sink under an intermediate route as a hard corner and quickly break on the flat. Explosive plant and drive. Physical in run support. Can take on a stalk block and shed working to the ball. Runs through tackles with gather and finish. Occasionally will give up leverage versus a shifty receiver. Could be more fluid in pedal and reactions in off coverage. At time relies too much on recovery speed versus route breaks. Occasionally goes low on tackles and is vulnerable to a miss or yards after contact. Has the size, speed, and athletic ability of an elite corner. Any deficiency in his game can be cleaned up by an NFL coach. He still has upside and will be selected in the first round. 2019 stats: 35 T, 1 TFL, 9 PBU, 2 FF, 3 INT. OSR:4/29. First round. (A-32 5/8, H-8 1/2, VJ-41, SS-DNP).Ohio State, 6011 205 4.46. Junior entry, two-year starter, Grand Prairie, TX. First-team All-Big 10 in 2019. Was outstanding as a sub package player before becoming a full-time starter in 2019. Physical corner with length. Has experience in a variety of coverage and technique. Plays press, off, and hard corner. Effective with a two and off hand jam along with press and react. Strong in press and bail. Mirrors cuts extremely well from different looks. Quick in transition with sudden foot movements changing directions. Recovers and closes with a burst. Solid ball skills getting his inside hand on balls at the catch point. Can undercut a route in the throwing lane to high point the ball. Stays in phase on vertical and extended route breaks. Has eye discipline to focus on the receiver and find the ball in phase. Solid zone defender with quick lateral shuffle in deep outside coverage. Maintains close cushion and has the ability to see multiple routes and react to the quarterback delivery. Can sink under an intermediate route as a hard corner and quickly break on the flat. Explosive plant and drive. Physical in run support. Can take on a stalk block and shed working to the ball. Runs through tackles with gather and finish. Occasionally will give up leverage versus a shifty receiver. Could be more fluid in pedal and reactions in off coverage. At time relies too much on recovery speed versus route breaks. Occasionally goes low on tackles and is vulnerable to a miss or yards after contact. Has the size, speed, and athletic ability of an elite corner. Any deficiency in his game can be cleaned up by an NFL coach. He still has upside and will be selected in the first round. 2019 stats: 35 T, 1 TFL, 9 PBU, 2 FF, 3 INT. OSR:4/29. First round. (A-32 5/8, H-8 1/2, VJ-41, SS-DNP).Ohio State, 6011 205 4.46. Junior entry, two-year starter, Grand Prairie, TX. First-team All-Big 10 in 2019. Was outstanding as a sub package player before becoming a full-time starter in 2019. Physical corner with length. Has experience in a variety of coverage and technique. Plays press, off, and hard corner. Effective with a two and off hand jam along with press and react. Strong in press and bail. Mirrors cuts extremely well from different looks. Quick in transition with sudden foot movements changing directions. Recovers and closes with a burst. Solid ball skills getting his inside hand on balls at the catch point. Can undercut a route in the throwing lane to high point the ball. Stays in phase on vertical and extended route breaks. Has eye discipline to focus on the receiver and find the ball in phase. Solid zone defender with quick lateral shuffle in deep outside coverage. Maintains close cushion and has the ability to see multiple routes and react to the quarterback delivery. Can sink under an intermediate route as a hard corner and quickly break on the flat. Explosive plant and drive. Physical in run support. Can take on a stalk block and shed working to the ball. Runs through tackles with gather and finish. Occasionally will give up leverage versus a shifty receiver. Could be more fluid in pedal and reactions in off coverage. At time relies too much on recovery speed versus route breaks. Occasionally goes low on tackles and is vulnerable to a miss or yards after contact. Has the size, speed, and athletic ability of an elite corner. Any deficiency in his game can be cleaned up by an NFL coach. He still has upside and will be selected in the first round. 2019 stats: 35 T, 1 TFL, 9 PBU, 2 FF, 3 INT. OSR:4/29. First round. (A-32 5/8, H-8 1/2, VJ-41, SS-DNP).Ohio State, 6011 205 4.46. Junior entry, two-year starter, Grand Prairie, TX. First-team All-Big 10 in 2019. Was outstanding as a sub package player before becoming a full-time starter in 2019. Physical corner with length. Has experience in a variety of coverage and technique. Plays press, off, and hard corner. Effective with a two and off hand jam along with press and react. Strong in press and bail. Mirrors cuts extremely well from different looks. Quick in transition with sudden foot movements changing directions. Recovers and closes with a burst. Solid ball skills getting his inside hand on balls at the catch point. Can undercut a route in the throwing lane to high point the ball. Stays in phase on vertical and extended route breaks. Has eye discipline to focus on the receiver and find the ball in phase. Solid zone defender with quick lateral shuffle in deep outside coverage. Maintains close cushion and has the ability to see multiple routes and react to the quarterback delivery. Can sink under an intermediate route as a hard corner and quickly break on the flat. Explosive plant and drive. Physical in run support. Can take on a stalk block and shed working to the ball. Runs through tackles with gather and finish. Occasionally will give up leverage versus a shifty receiver. Could be more fluid in pedal and reactions in off coverage. At time relies too much on recovery speed versus route breaks. Occasionally goes low on tackles and is vulnerable to a miss or yards after contact. Has the size, speed, and athletic ability of an elite corner. Any deficiency in his game can be cleaned up by an NFL coach. He still has upside and will be selected in the first round. 2019 stats: 35 T, 1 TFL, 9 PBU, 2 FF, 3 INT. OSR:4/29. First round. (A-32 5/8, H-8 1/2, VJ-41, SS-DNP).Ohio State, 6011 205 4.46. Junior entry, two-year starter, Grand Prairie, TX. First-team All-Big 10 in 2019. Was outstanding as a sub package player before becoming a full-time starter in 2019. Physical corner with length. Has experience in a variety of coverage and technique. Plays press, off, and hard corner. Effective with a two and off hand jam along with press and react. Strong in press and bail. Mirrors cuts extremely well from different looks. Quick in transition with sudden foot movements changing directions. Recovers and closes with a burst. Solid ball skills getting his inside hand on balls at the catch point. Can undercut a route in the throwing lane to high point the ball. Stays in phase on vertical and extended route breaks. Has eye discipline to focus on the receiver and find the ball in phase. Solid zone defender with quick lateral shuffle in deep outside coverage. Maintains close cushion and has the ability to see multiple routes and react to the quarterback delivery. Can sink under an intermediate route as a hard corner and quickly break on the flat. Explosive plant and drive. Physical in run support. Can take on a stalk block and shed working to the ball. Runs through tackles with gather and finish. Occasionally will give up leverage versus a shifty receiver. Could be more fluid in pedal and reactions in off coverage. At time relies too much on recovery speed versus route breaks. Occasionally goes low on tackles and is vulnerable to a miss or yards after contact. Has the size, speed, and athletic ability of an elite corner. Any deficiency in his game can be cleaned up by an NFL coach. He still has upside and will be selected in the first round. 2019 stats: 35 T, 1 TFL, 9 PBU, 2 FF, 3 INT. OSR:4/29. First round. (A-32 5/8, H-8 1/2, VJ-41, SS-DNP).&nbsp;</span></p>
+
+                        </div>
+                        <div class="col-md-4 col-xs-12 text-center">
+                           <!-- /192633929/ourlads-300x250-BTF -->
+                            <div id='div-gpt-ad-1589768780034-0'>
+                              <script>
+                                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1589768780034-0'); });
+                              </script>
+                            </div>
+                        </div>
+                    </div>
+                    
+					<div class="row">
+						<div class="col-md-6 text-center col-2-marg-adj" id="ifa">
+							<!-- AdMetricsPro Video-Body Tag -->
+							<script id="254b17763caa48eeafd8a10614f5d015">
+							  cnx.cmd.push(function() {
+								cnx({
+								  playerId: "5e923790-7f98-4f0f-9691-5b36a5f8c864"
+								}).render("254b17763caa48eeafd8a10614f5d015");
+							  });
+							</script>
+							<!-- AdMetricsPro Video-Body Tag -->
+						</div>
+						<div class="col-md-6 text-center col-2-marg-adj">
+						    <!-- /192633929/ourlads-300x250-BTF2 -->
+                            <div id='div-gpt-ad-1589768826667-0'>
+                              <script>
+                                  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1589768826667-0'); });
+                              </script>
+                            </div>
+						</div>
+					</div>
+					<div class="row pad-top-20"></div>
+                </div>
+                <!-- END PAGE CONTENT INNER -->
+            </div>
+        </div>
+        <!-- END PAGE CONTENT BODY -->
+        <!-- END CONTENT BODY -->
+        <!-- END PAGE CONTENT BODY -->
+        <div class="row text-center" style="padding-bottom:10px; padding-top:10px; background:#eff3f8">
+            <!-- /192633929/ourlads-728x90-BTF -->
+            <div id='div-gpt-ad-1589768548653-0'>
+              <script>
+                  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1589768548653-0'); });
+              </script>
+            </div>
+        </div>
+    </div>
+
+            <!-- END CONTENT -->
+        </div>
+        <!-- END CONTAINER -->
+        <!-- BEGIN FOOTER -->
+        <div class="page-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-4 footer-block">
+                        <address> 
+                            Box 235 Hiawatha, IA 52233<br />
+                            1-800-PRO-DRAFT (1-800-776-3723)
+                        </address>
+                    </div>
+                    <div class="col-sm-2 footer-block">
+                        <ul class="social-icons">
+                            <li>
+                                <a href="http://www.facebook.com/pages/Ourlads-NFL-Scouting-Services-LLC/167307846622948" target="_blank" data-original-title="facebook" class="facebook"></a>
+                            </li>
+                            <li>
+                                <a href="http://twitter.com/Ourlads_Shonka" data-original-title="twitter" target="_blank" class="twitter"></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6 footer-block">
+                        <ul class="f-links">
+                            <li><a href="/tc/">Terms</a>&nbsp;&nbsp;|&nbsp;&nbsp<a href="/privacy/">Privacy Policy</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div id="discl" class="container"> 
+                2022 &copy; Ourlads Scouting Services LLC.<br />
+                The NFL Draft and NFL Draft Logo are copyright of the National Football League and in no way are owned by Ourlads Scouting Services LLC. This page is intended to provide links to Ourlads' Draft coverage and is in no way affiliated with the Official NFL Draft site. For the official site please visit nfl.com.
+            </div>
+            <div style="padding-top:20px;" class="text-center">
+                <div>Part of USA Today Sports Digital Properties.</div>
+            </div>
+        </div>
+
+        
+        <!-- END INNER FOOTER -->
+        <!-- END FOOTER -->
+        <!--[if lt IE 9]>
+        <script src="../assets/global/plugins/respond.min.js"></script>
+        <script src="../assets/global/plugins/excanvas.min.js"></script> 
+        <![endif]-->
+        <!-- BEGIN CORE PLUGINS -->
+        
+        <script src="/assets/global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="/assets/global/plugins/js.cookie.min.js" type="text/javascript"></script>
+        <script src="/assets/global/plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js" type="text/javascript"></script>
+        <script src="/assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="text/javascript"></script>
+        <script src="/assets/global/plugins/jquery.blockui.min.js" type="text/javascript"></script>
+        <script src="/assets/global/plugins/uniform/jquery.uniform.min.js" type="text/javascript"></script>
+        <script src="/assets/global/plugins/bootstrap-switch/js/bootstrap-switch.min.js" type="text/javascript"></script>
+        <!-- END CORE PLUGINS -->
+
+        <!-- BEGIN THEME GLOBAL SCRIPTS -->
+        <script src="/assets/global/scripts/app.min.js" type="text/javascript"></script>
+        <!-- END THEME GLOBAL SCRIPTS -->
+
+        <!-- BEGIN THEME LAYOUT SCRIPTS -->
+        <script src="/assets/layouts/layout3/scripts/layout.min.js" type="text/javascript"></script>
+        <!-- END THEME LAYOUT SCRIPTS -->
+        <script type="text/javascript" src="/assets/global/plugins/bootstrap-select/js/bootstrap-select.min.js"></script>
+        <script type="text/javascript" src="/assets/pages/scripts/components-bootstrap-select.min.js"></script>
+    </form>
+</body>
+</html>
