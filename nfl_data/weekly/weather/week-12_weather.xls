@@ -17,7 +17,7 @@
     <meta name="description" content="Every weather report, on the hour, for every NFL football game every week." />
     <meta name="keywords" content="NFL, Weather, Fantasy Football, NFL Weather, Weather Forecast, Forecast, NFL Stadium Conditions" />
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="z2gahFN2wK7fUdJXirqlb+yxY3fYXhQu6o0ksidZkxk=" name="csrf-token" />
+<meta content="0zbkQlOZOTI0QJ+RzYqUkoiqQEMWvk9n93+A2hJxgh8=" name="csrf-token" />
     <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
@@ -51,9 +51,9 @@
       	    <a href="https://play.google.com/store/apps/details?id=com.nflweather.nflweatherandroid.nflweather.uwnmobile"><img alt="Android32" border="0" src="/assets/android32.png" /></a>
       	    <a href="https://itunes.apple.com/app/nflweather/id584742623"><img alt="Ios32" border="0" src="/assets/ios32.png" /></a>
             <-->
-            <a href="/email_this_page?link=&#x27;http://www.nflweather.com:443/en/week/2021/week-12&#x27;"><img alt="Email32" border="0" src="/assets/email32.png" /></a>
-              <a href="/en/week/2021/week-12"><img alt="En" border="0" src="/assets/en.png" /></a>
-              <a href="/es/week/2021/week-12"><img alt="Es" border="0" src="/assets/es.png" /></a>
+            <a href="/email_this_page?link=&#x27;http://www.nflweather.com:443/en/week/2022/week-12&#x27;"><img alt="Email32" border="0" src="/assets/email32.png" /></a>
+              <a href="/en/week/2022/week-12"><img alt="En" border="0" src="/assets/en.png" /></a>
+              <a href="/es/week/2022/week-12"><img alt="Es" border="0" src="/assets/es.png" /></a>
             <div class="row-fluid spacer">
             </div>
 		        <div class="addthis_toolbox addthis_32x32_style addthis_default_style">
@@ -108,8 +108,8 @@
           <div class="span10">
             <div class="row-fluid visible-phone">
               <div class="sec-links centered">
-                  <a href="/en/week/2021/week-12">English</a> |
-                  <a href="/es/week/2021/week-12">Spanish</a>
+                  <a href="/en/week/2022/week-12">English</a> |
+                  <a href="/es/week/2022/week-12">Spanish</a>
                 <div id="logoutp">Signed in as <b><span id="usernamep"></span></b> |
                   <a href="/en/users/sign_out">Sign out</a> |
                   <a href="/en/users/edit">Update Profile</a> |
@@ -132,7 +132,7 @@
     <div class="page-header">
       <h1>
         NFLWeather<span style="font-size: 10px;vertical-align: text-top;line-height:20px;"><sup>TM</sup></span> Forecast Week 12 &nbsp;&nbsp;
-        <small>Updated 11/29 @ 10:00 PM EST</small>
+        <small></small>
       </h1>
     </div>
   </div>
@@ -147,7 +147,7 @@
 <div class="row-fluid hidden-phone">
   <div class="span2">
     <ul class="pager">
-        <li class="previous"><a href="/en/week/2021/week-11" class="btn btn-primary">&larr;</a></li>
+        <li class="previous"><a href="/en/week/2022/week-11" class="btn btn-primary">&larr;</a></li>
     </ul>
   </div>
   <div class="span8 text-center">
@@ -155,85 +155,73 @@
       <p>
         
         
-            &nbsp;<a href="/en/week/2021/pre-season-week-1/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en.p1">P1</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/pre-season-week-1/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en.p1">P1</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/pre-season-week-2/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en.p2">P2</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/pre-season-week-2/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en.p2">P2</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/pre-season-week-3/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en.p3">P3</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/pre-season-week-3/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en.p3">P3</span></a>&nbsp;
         </p><p>
         
-            &nbsp;<a href="/en/week/2021/week-1/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._1"> 1</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-1/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._1"> 1</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-2/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._2"> 2</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-2/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._2"> 2</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-3/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._3"> 3</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-3/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._3"> 3</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-4/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._4"> 4</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-4/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._4"> 4</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-5/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._5"> 5</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-5/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._5"> 5</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-6/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._6"> 6</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-6/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._6"> 6</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-7/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._7"> 7</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-7/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._7"> 7</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-8/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._8"> 8</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-8/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._8"> 8</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-9/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._9"> 9</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-9/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._9"> 9</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-10/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._10"> 10</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-10/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._10"> 10</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-11/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._11"> 11</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-11/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._11"> 11</span></a>&nbsp;
         
         
              &nbsp;<span class="btn btn-mini disabled btn-primary"><span class="translation_missing" title="translation missing: en._12"> 12</span></span>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-13/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._13"> 13</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-13/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._13"> 13</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-14/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._14"> 14</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-14/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._14"> 14</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-15/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._15"> 15</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-15/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._15"> 15</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-16/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._16"> 16</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-16/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._16"> 16</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-17/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._17"> 17</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-17/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._17"> 17</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-18/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._18"> 18</span></a>&nbsp;
-        
-        
-            &nbsp;<a href="/en/week/2021/wildcard-weekend/" class="btn btn-mini btn-primary">Wildcard</a>&nbsp;
-        
-        
-            &nbsp;<a href="/en/week/2021/divisional-playoffs/" class="btn btn-mini btn-primary">Div Playoffs</a>&nbsp;
-        
-        
-            &nbsp;<a href="/en/week/2021/ conf-championships/" class="btn btn-mini btn-primary">Conf Championships</a>&nbsp;
-        
-        
-            &nbsp;<a href="/en/week/2021/superbowl/" class="btn btn-mini btn-primary">Superbowl</a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-18/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._18"> 18</span></a>&nbsp;
     </p>
     </div>
   </div>
   <div class="span2">
     <ul class="pager">
-        <li class="next" style="vertical-align: middle;"><a href="/en/week/2021/week-13" class="btn btn-primary">&rarr;</a></li>
+        <li class="next" style="vertical-align: middle;"><a href="/en/week/2022/week-13" class="btn btn-primary">&rarr;</a></li>
     </ul>
   </div>
 </div>
@@ -241,8 +229,8 @@
 <div class="row-fluid hidden-desktop hidden-tablet">
   <div class="span12">
     <ul class="pager">
-        <li class="previous"><a href="/en/week/2021/week-11" class="btn">&larr;</a></li>
-        <li class="next" style="vertical-align: middle;"><a href="/en/week/2021/week-13" class="btn">&rarr;</a></li>
+        <li class="previous"><a href="/en/week/2022/week-11" class="btn">&larr;</a></li>
+        <li class="next" style="vertical-align: middle;"><a href="/en/week/2022/week-13" class="btn">&rarr;</a></li>
     </ul>
   </div>
 </div>
@@ -268,70 +256,70 @@
             <tr>
               <td class="team-img">&nbsp;</td>
               <td class="team-name text-center">
-                <a href="/en/team/Bears">Bears</a>
+                <a href="/en/team/Bills">Bills</a>
               </td>
-              <td class="team-img"><a href="/en/team/Bears" style="text-decoration: none; color: #454545;"><img alt="Chicago_ntc120" src="/system/teams/logos/000/000/026/list/Chicago_NTC120.png?1377267838" /></a></td>
+              <td class="team-img"><a href="/en/team/Bills" style="text-decoration: none; color: #454545;"><img alt="Buffalo_red_ntc120" src="/system/teams/logos/000/000/003/list/Buffalo_red_NTC120.png?1377268334" /></a></td>
               <td class="team-vs">@</td>
               <td class="team-img"><a href="/en/team/Lions" style="text-decoration: none; color: #454545;"><img alt="Detroit_6n_120" src="/system/teams/logos/000/000/023/list/Detroit_6N_120.png?1377267905" /></a></td>
               <td class="team-name  text-center">
                 <a href="/en/team/Lions">Lions</a>
               </td>
               <td class="text-center">
-		              <b>Final</b>: 16 - 14
+	  	            11/24 01:30 PM
 	            </td>
-              <td class="text-center">FOX</td>
+              <td class="text-center">CBS</td>
               <td class="text-center">
                 <img alt="Dome" src="/assets/weather/small/dome.png" />
               </td>
               <td class="text-center">
                    DOME 
               </td>
-              <td>Drizzle. Light rain until evening.</td>
-              <td class="text-center" >7m WSW</td>
+              <td></td>
+              <td class="text-center" ></td>
               <td class="details text-center">
-                <a href="/en/game/2021/week-12/bears-at-lions" class="btn btn-success move-rigth">Details</a>
+                <a href="/en/game/2022/week-12/bills-at-lions" class="btn btn-success move-rigth">Details</a>
               </td>
             </tr>
             <tr>
               <td class="team-img">&nbsp;</td>
               <td class="team-name text-center">
-                <a href="/en/team/Raiders">Raiders</a>
+                <a href="/en/team/Giants">Giants</a>
               </td>
-              <td class="team-img"><a href="/en/team/Raiders" style="text-decoration: none; color: #454545;"><img alt="Lv_b_wstripe_n_120" src="/system/teams/logos/000/000/019/list/LV_B_Wstripe_N_120.png?1599930229" /></a></td>
+              <td class="team-img"><a href="/en/team/Giants" style="text-decoration: none; color: #454545;"><img alt="New_york_g_6n__120" src="/system/teams/logos/000/000/021/list/New_York_G_6N__120.png?1377267939" /></a></td>
               <td class="team-vs">@</td>
               <td class="team-img"><a href="/en/team/Cowboys" style="text-decoration: none; color: #454545;"><img alt="Dallas_6n120" src="/system/teams/logos/000/000/010/list/Dallas_6N120.png?1377268164" /></a></td>
               <td class="team-name  text-center">
                 <a href="/en/team/Cowboys">Cowboys</a>
               </td>
               <td class="text-center">
-		              <b>Final</b>: 36 - 33
+	  	            11/24 05:30 PM
 	            </td>
-              <td class="text-center">CBS</td>
+              <td class="text-center">FOX</td>
               <td class="text-center">
-                <img alt="Clear-day" src="/assets/weather/small/clear-day.png" />
+                <img alt="Na" src="/assets/weather/small/na.png" />
               </td>
               <td class="text-center">
-                  58f Clear
+                  Forecast TBD
               </td>
-              <td>Clear. Clear throughout the day.</td>
-              <td class="text-center" >14m N</td>
+              <td></td>
+              <td class="text-center" ></td>
               <td class="details text-center">
-                <a href="/en/game/2021/week-12/raiders-at-cowboys" class="btn btn-success move-rigth">Details</a>
+                <a href="/en/game/2022/week-12/giants-at-cowboys" class="btn btn-success move-rigth">Details</a>
               </td>
             </tr>
             <tr>
               <td class="team-img">&nbsp;</td>
               <td class="team-name text-center">
-                <a href="/en/team/Bills">Bills</a>
+                <a href="/en/team/Patriots">Patriots</a>
               </td>
-              <td class="team-img"><a href="/en/team/Bills" style="text-decoration: none; color: #454545;"><img alt="Buffalo_red_ntc120" src="/system/teams/logos/000/000/003/list/Buffalo_red_NTC120.png?1377268334" /></a></td>
+              <td class="team-img"><a href="/en/team/Patriots" style="text-decoration: none; color: #454545;"><img alt="New_england_6n_120" src="/system/teams/logos/000/000/002/list/New_England_6N_120.png?1377268341" /></a></td>
               <td class="team-vs">@</td>
-              <td class="team-img"><a href="/en/team/Saints" style="text-decoration: none; color: #454545;"><img alt="New_orleans_6n_120" src="/system/teams/logos/000/000/029/list/New_Orleans_6N_120.png?1377267792" /></a></td>
+              <td class="team-img"><a href="/en/team/Vikings" style="text-decoration: none; color: #454545;"><img alt="Minnesota_ntc120" src="/system/teams/logos/000/000/025/list/Minnesota_NTC120.png?1377267853" /></a></td>
               <td class="team-name  text-center">
-                <a href="/en/team/Saints">Saints</a>
+                <a href="/en/team/Vikings">Vikings</a>
               </td>
               <td class="text-center">
-		              <b>Final</b>: 31 - 6
+	  	            11/24 09:20 PM
 	            </td>
               <td class="text-center">NBC</td>
               <td class="text-center">
@@ -340,37 +328,10 @@
               <td class="text-center">
                    DOME 
               </td>
-              <td>Drizzle. Possible light rain in the evening and overnight.</td>
-              <td class="text-center" >4m SSE</td>
+              <td></td>
+              <td class="text-center" ></td>
               <td class="details text-center">
-                <a href="/en/game/2021/week-12/bills-at-saints" class="btn btn-success move-rigth">Details</a>
-              </td>
-            </tr>
-            <tr>
-              <td class="team-img">&nbsp;</td>
-              <td class="team-name text-center">
-                <a href="/en/team/Steelers">Steelers</a>
-              </td>
-              <td class="team-img"><a href="/en/team/Steelers" style="text-decoration: none; color: #454545;"><img alt="Pittsburg_ntc120" src="/system/teams/logos/000/000/014/list/Pittsburg_NTC120.png?1377268073" /></a></td>
-              <td class="team-vs">@</td>
-              <td class="team-img"><a href="/en/team/Bengals" style="text-decoration: none; color: #454545;"><img alt="Cinncinnati_6n_120" src="/system/teams/logos/000/000/012/list/Cinncinnati_6N_120.png?1377268125" /></a></td>
-              <td class="team-name  text-center">
-                <a href="/en/team/Bengals">Bengals</a>
-              </td>
-              <td class="text-center">
-		              <b>Final</b>: 10 - 41
-	            </td>
-              <td class="text-center">CBS</td>
-              <td class="text-center">
-                <img alt="Clear-day" src="/assets/weather/small/clear-day.png" />
-              </td>
-              <td class="text-center">
-                  42f Clear
-              </td>
-              <td>Clear. Partly cloudy throughout the day.</td>
-              <td class="text-center" >8m W</td>
-              <td class="details text-center">
-                <a href="/en/game/2021/week-12/steelers-at-bengals" class="btn btn-success move-rigth">Details</a>
+                <a href="/en/game/2022/week-12/patriots-at-vikings" class="btn btn-success move-rigth">Details</a>
               </td>
             </tr>
             <tr>
@@ -380,105 +341,105 @@
               </td>
               <td class="team-img"><a href="/en/team/Buccaneers" style="text-decoration: none; color: #454545;"><img alt="Tampa_bay_ntc120" src="/system/teams/logos/000/000/009/list/Tampa_Bay_NTC120.png?1377268184" /></a></td>
               <td class="team-vs">@</td>
-              <td class="team-img"><a href="/en/team/Colts" style="text-decoration: none; color: #454545;"><img alt="Indianapolis_6n_120" src="/system/teams/logos/000/000/016/list/Indianapolis_6N_120.png?1377268032" /></a></td>
+              <td class="team-img"><a href="/en/team/Browns" style="text-decoration: none; color: #454545;"><img alt="Cleveland_6n_120" src="/system/teams/logos/000/000/013/list/Cleveland_6N_120.png?1377268103" /></a></td>
               <td class="team-name  text-center">
-                <a href="/en/team/Colts">Colts</a>
+                <a href="/en/team/Browns">Browns</a>
               </td>
               <td class="text-center">
-		              <b>Final</b>: 38 - 31
+	  	            11/27 02:00 PM
 	            </td>
               <td class="text-center">FOX</td>
               <td class="text-center">
-                <img alt="Dome" src="/assets/weather/small/dome.png" />
+                <img alt="Na" src="/assets/weather/small/na.png" />
               </td>
               <td class="text-center">
-                   DOME 
+                  Forecast TBD
               </td>
-              <td>Clear. Clear throughout the day.</td>
-              <td class="text-center" >10m NW</td>
+              <td></td>
+              <td class="text-center" ></td>
               <td class="details text-center">
-                <a href="/en/game/2021/week-12/buccaneers-at-colts" class="btn btn-success move-rigth">Details</a>
+                <a href="/en/game/2022/week-12/buccaneers-at-browns" class="btn btn-success move-rigth">Details</a>
               </td>
             </tr>
             <tr>
               <td class="team-img">&nbsp;</td>
               <td class="team-name text-center">
-                <a href="/en/team/Panthers">Panthers</a>
+                <a href="/en/team/Bengals">Bengals</a>
               </td>
-              <td class="team-img"><a href="/en/team/Panthers" style="text-decoration: none; color: #454545;"><img alt="Carolina_6n_120" src="/system/teams/logos/000/000/027/list/Carolina_6N_120.png?1377267822" /></a></td>
+              <td class="team-img"><a href="/en/team/Bengals" style="text-decoration: none; color: #454545;"><img alt="Cinncinnati_6n_120" src="/system/teams/logos/000/000/012/list/Cinncinnati_6N_120.png?1377268125" /></a></td>
+              <td class="team-vs">@</td>
+              <td class="team-img"><a href="/en/team/Titans" style="text-decoration: none; color: #454545;"><img alt="Tennessee_ntc120" src="/system/teams/logos/000/000/005/list/Tennessee_NTC120.png?1377268278" /></a></td>
+              <td class="team-name  text-center">
+                <a href="/en/team/Titans">Titans</a>
+              </td>
+              <td class="text-center">
+	  	            11/27 02:00 PM
+	            </td>
+              <td class="text-center">CBS</td>
+              <td class="text-center">
+                <img alt="Na" src="/assets/weather/small/na.png" />
+              </td>
+              <td class="text-center">
+                  Forecast TBD
+              </td>
+              <td></td>
+              <td class="text-center" ></td>
+              <td class="details text-center">
+                <a href="/en/game/2022/week-12/bengals-at-titans" class="btn btn-success move-rigth">Details</a>
+              </td>
+            </tr>
+            <tr>
+              <td class="team-img">&nbsp;</td>
+              <td class="team-name text-center">
+                <a href="/en/team/Texans">Texans</a>
+              </td>
+              <td class="team-img"><a href="/en/team/Texans" style="text-decoration: none; color: #454545;"><img alt="Houston_6n_120" src="/system/teams/logos/000/000/017/list/Houston_6N_120.png?1377268016" /></a></td>
               <td class="team-vs">@</td>
               <td class="team-img"><a href="/en/team/Dolphins" style="text-decoration: none; color: #454545;"><img alt="Miami_greenmask_ntc120" src="/system/teams/logos/000/000/011/list/Miami_greenmask_NTC120.png?1377268146" /></a></td>
               <td class="team-name  text-center">
                 <a href="/en/team/Dolphins">Dolphins</a>
               </td>
               <td class="text-center">
-		              <b>Final</b>: 10 - 33
-	            </td>
-              <td class="text-center">FOX</td>
-              <td class="text-center">
-                <img alt="Partly-cloudy-day" src="/assets/weather/small/partly-cloudy-day.png" />
-              </td>
-              <td class="text-center">
-                  75f Partly Cloudy
-              </td>
-              <td>Partly Cloudy. Partly cloudy throughout the day.</td>
-              <td class="text-center" >3m SSW</td>
-              <td class="details text-center">
-                <a href="/en/game/2021/week-12/panthers-at-dolphins" class="btn btn-success move-rigth">Details</a>
-              </td>
-            </tr>
-            <tr>
-              <td class="team-img">&nbsp;</td>
-              <td class="team-name text-center">
-                <a href="/en/team/Titans">Titans</a>
-              </td>
-              <td class="team-img"><a href="/en/team/Titans" style="text-decoration: none; color: #454545;"><img alt="Tennessee_ntc120" src="/system/teams/logos/000/000/005/list/Tennessee_NTC120.png?1377268278" /></a></td>
-              <td class="team-vs">@</td>
-              <td class="team-img"><a href="/en/team/Patriots" style="text-decoration: none; color: #454545;"><img alt="New_england_6n_120" src="/system/teams/logos/000/000/002/list/New_England_6N_120.png?1377268341" /></a></td>
-              <td class="team-name  text-center">
-                <a href="/en/team/Patriots">Patriots</a>
-              </td>
-              <td class="text-center">
-		              <b>Final</b>: 13 - 36
+	  	            11/27 02:00 PM
 	            </td>
               <td class="text-center">CBS</td>
               <td class="text-center">
-                <img alt="Partly-cloudy-day" src="/assets/weather/small/partly-cloudy-day.png" />
+                <img alt="Na" src="/assets/weather/small/na.png" />
               </td>
               <td class="text-center">
-                  37f Partly Cloudy
+                  Forecast TBD
               </td>
-              <td>Partly Cloudy. Foggy overnight.</td>
-              <td class="text-center" >6m WSW</td>
+              <td></td>
+              <td class="text-center" ></td>
               <td class="details text-center">
-                <a href="/en/game/2021/week-12/titans-at-patriots" class="btn btn-success move-rigth">Details</a>
+                <a href="/en/game/2022/week-12/texans-at-dolphins" class="btn btn-success move-rigth">Details</a>
               </td>
             </tr>
             <tr>
               <td class="team-img">&nbsp;</td>
               <td class="team-name text-center">
-                <a href="/en/team/Eagles">Eagles</a>
+                <a href="/en/team/Bears">Bears</a>
               </td>
-              <td class="team-img"><a href="/en/team/Eagles" style="text-decoration: none; color: #454545;"><img alt="Philadelphia_6n_120" src="/system/teams/logos/000/000/022/list/Philadelphia_6N_120.png?1377267922" /></a></td>
+              <td class="team-img"><a href="/en/team/Bears" style="text-decoration: none; color: #454545;"><img alt="Chicago_ntc120" src="/system/teams/logos/000/000/026/list/Chicago_NTC120.png?1377267838" /></a></td>
               <td class="team-vs">@</td>
-              <td class="team-img"><a href="/en/team/Giants" style="text-decoration: none; color: #454545;"><img alt="New_york_g_6n__120" src="/system/teams/logos/000/000/021/list/New_York_G_6N__120.png?1377267939" /></a></td>
+              <td class="team-img"><a href="/en/team/Jets" style="text-decoration: none; color: #454545;"><img alt="New_york_j_white_n120" src="/system/teams/logos/000/000/004/list/New_York_J_white_N120.png?1377268303" /></a></td>
               <td class="team-name  text-center">
-                <a href="/en/team/Giants">Giants</a>
+                <a href="/en/team/Jets">Jets</a>
               </td>
               <td class="text-center">
-		              <b>Final</b>: 7 - 13
+	  	            11/27 02:00 PM
 	            </td>
               <td class="text-center">FOX</td>
               <td class="text-center">
-                <img alt="Cloudy" src="/assets/weather/small/cloudy.png" />
+                <img alt="Na" src="/assets/weather/small/na.png" />
               </td>
               <td class="text-center">
-                  37f Overcast
+                  Forecast TBD
               </td>
-              <td>Overcast. Mostly cloudy throughout the day.</td>
-              <td class="text-center" >3m ENE</td>
+              <td></td>
+              <td class="text-center" ></td>
               <td class="details text-center">
-                <a href="/en/game/2021/week-12/eagles-at-giants" class="btn btn-success move-rigth">Details</a>
+                <a href="/en/game/2022/week-12/bears-at-jets" class="btn btn-success move-rigth">Details</a>
               </td>
             </tr>
             <tr>
@@ -488,51 +449,78 @@
               </td>
               <td class="team-img"><a href="/en/team/Falcons" style="text-decoration: none; color: #454545;"><img alt="Atlanta_ntc120a" src="/system/teams/logos/000/000/028/list/Atlanta_NTC120A.png?1377267807" /></a></td>
               <td class="team-vs">@</td>
-              <td class="team-img"><a href="/en/team/Jaguars" style="text-decoration: none; color: #454545;"><img alt="Jacksonville_6n_120" src="/system/teams/logos/000/000/008/list/Jacksonville_6N_120.png?1377268214" /></a></td>
+              <td class="team-img"><a href="/en/team/Washington" style="text-decoration: none; color: #454545;"><img alt="Redskins" src="/system/teams/logos/000/000/007/list/redskins.png?1377268235" /></a></td>
               <td class="team-name  text-center">
-                <a href="/en/team/Jaguars">Jaguars</a>
+                <a href="/en/team/Washington">Washington</a>
               </td>
               <td class="text-center">
-		              <b>Final</b>: 21 - 14
+	  	            11/27 02:00 PM
 	            </td>
-              <td class="text-center">CBS</td>
+              <td class="text-center">FOX</td>
               <td class="text-center">
-                <img alt="Partly-cloudy-day" src="/assets/weather/small/partly-cloudy-day.png" />
+                <img alt="Na" src="/assets/weather/small/na.png" />
               </td>
               <td class="text-center">
-                  60f Mostly Cloudy
+                  Forecast TBD
               </td>
-              <td>Mostly Cloudy. Mostly cloudy throughout the day.</td>
-              <td class="text-center" >4m W</td>
+              <td></td>
+              <td class="text-center" ></td>
               <td class="details text-center">
-                <a href="/en/game/2021/week-12/falcons-at-jaguars" class="btn btn-success move-rigth">Details</a>
+                <a href="/en/game/2022/week-12/falcons-at-washington" class="btn btn-success move-rigth">Details</a>
               </td>
             </tr>
             <tr>
               <td class="team-img">&nbsp;</td>
               <td class="team-name text-center">
-                <a href="/en/team/Jets">Jets</a>
+                <a href="/en/team/Broncos">Broncos</a>
               </td>
-              <td class="team-img"><a href="/en/team/Jets" style="text-decoration: none; color: #454545;"><img alt="New_york_j_white_n120" src="/system/teams/logos/000/000/004/list/New_York_J_white_N120.png?1377268303" /></a></td>
+              <td class="team-img"><a href="/en/team/Broncos" style="text-decoration: none; color: #454545;"><img alt="Denver_6n_120" src="/system/teams/logos/000/000/018/list/Denver_6N_120.png?1377267995" /></a></td>
               <td class="team-vs">@</td>
-              <td class="team-img"><a href="/en/team/Texans" style="text-decoration: none; color: #454545;"><img alt="Houston_6n_120" src="/system/teams/logos/000/000/017/list/Houston_6N_120.png?1377268016" /></a></td>
+              <td class="team-img"><a href="/en/team/Panthers" style="text-decoration: none; color: #454545;"><img alt="Carolina_6n_120" src="/system/teams/logos/000/000/027/list/Carolina_6N_120.png?1377267822" /></a></td>
               <td class="team-name  text-center">
-                <a href="/en/team/Texans">Texans</a>
+                <a href="/en/team/Panthers">Panthers</a>
               </td>
               <td class="text-center">
-		              <b>Final</b>: 21 - 14
+	  	            11/27 02:00 PM
+	            </td>
+              <td class="text-center">FOX</td>
+              <td class="text-center">
+                <img alt="Na" src="/assets/weather/small/na.png" />
+              </td>
+              <td class="text-center">
+                  Forecast TBD
+              </td>
+              <td></td>
+              <td class="text-center" ></td>
+              <td class="details text-center">
+                <a href="/en/game/2022/week-12/broncos-at-panthers" class="btn btn-success move-rigth">Details</a>
+              </td>
+            </tr>
+            <tr>
+              <td class="team-img">&nbsp;</td>
+              <td class="team-name text-center">
+                <a href="/en/team/Ravens">Ravens</a>
+              </td>
+              <td class="team-img"><a href="/en/team/Ravens" style="text-decoration: none; color: #454545;"><img alt="Baltimore_ntc120" src="/system/teams/logos/000/000/015/list/Baltimore_NTC120.png?1377268054" /></a></td>
+              <td class="team-vs">@</td>
+              <td class="team-img"><a href="/en/team/Jaguars" style="text-decoration: none; color: #454545;"><img alt="Jacksonville_6n_120" src="/system/teams/logos/000/000/008/list/Jacksonville_6N_120.png?1377268214" /></a></td>
+              <td class="team-name  text-center">
+                <a href="/en/team/Jaguars">Jaguars</a>
+              </td>
+              <td class="text-center">
+	  	            11/27 02:00 PM
 	            </td>
               <td class="text-center">CBS</td>
               <td class="text-center">
-                <img alt="Cloudy" src="/assets/weather/small/cloudy.png" />
+                <img alt="Na" src="/assets/weather/small/na.png" />
               </td>
               <td class="text-center">
-                  56f Overcast
+                  Forecast TBD
               </td>
-              <td>Overcast. Possible light rain in the morning.</td>
-              <td class="text-center" >7m NNW</td>
+              <td></td>
+              <td class="text-center" ></td>
               <td class="details text-center">
-                <a href="/en/game/2021/week-12/jets-at-texans" class="btn btn-success move-rigth">Details</a>
+                <a href="/en/game/2022/week-12/ravens-at-jaguars" class="btn btn-success move-rigth">Details</a>
               </td>
             </tr>
             <tr>
@@ -542,24 +530,51 @@
               </td>
               <td class="team-img"><a href="/en/team/Chargers" style="text-decoration: none; color: #454545;"><img alt="Los_angeles_2_120" src="/system/teams/logos/000/000/020/list/LOS_ANGELES_2_120.png?1511179555" /></a></td>
               <td class="team-vs">@</td>
-              <td class="team-img"><a href="/en/team/Broncos" style="text-decoration: none; color: #454545;"><img alt="Denver_6n_120" src="/system/teams/logos/000/000/018/list/Denver_6N_120.png?1377267995" /></a></td>
+              <td class="team-img"><a href="/en/team/Cardinals" style="text-decoration: none; color: #454545;"><img alt="Arizona_whitetail_ntc120" src="/system/teams/logos/000/000/032/list/Arizona_whitetail_NTC120.png?1377267740" /></a></td>
               <td class="team-name  text-center">
-                <a href="/en/team/Broncos">Broncos</a>
+                <a href="/en/team/Cardinals">Cardinals</a>
               </td>
               <td class="text-center">
-		              <b>Final</b>: 13 - 28
+	  	            11/27 05:05 PM
 	            </td>
               <td class="text-center">CBS</td>
               <td class="text-center">
-                <img alt="Fog" src="/assets/weather/small/fog.png" />
+                <img alt="Dome" src="/assets/weather/small/dome.png" />
               </td>
               <td class="text-center">
-                  64f Foggy
+                   DOME 
               </td>
-              <td>Foggy. Foggy in the morning and afternoon.</td>
-              <td class="text-center" >4m NNW</td>
+              <td></td>
+              <td class="text-center" ></td>
               <td class="details text-center">
-                <a href="/en/game/2021/week-12/chargers-at-broncos" class="btn btn-success move-rigth">Details</a>
+                <a href="/en/game/2022/week-12/chargers-at-cardinals" class="btn btn-success move-rigth">Details</a>
+              </td>
+            </tr>
+            <tr>
+              <td class="team-img">&nbsp;</td>
+              <td class="team-name text-center">
+                <a href="/en/team/Raiders">Raiders</a>
+              </td>
+              <td class="team-img"><a href="/en/team/Raiders" style="text-decoration: none; color: #454545;"><img alt="Lv_b_wstripe_n_120" src="/system/teams/logos/000/000/019/list/LV_B_Wstripe_N_120.png?1599930229" /></a></td>
+              <td class="team-vs">@</td>
+              <td class="team-img"><a href="/en/team/Seahawks" style="text-decoration: none; color: #454545;"><img alt="Seattle_6n_120a" src="/system/teams/logos/000/000/031/list/Seattle_6N_120A.png?1377267758" /></a></td>
+              <td class="team-name  text-center">
+                <a href="/en/team/Seahawks">Seahawks</a>
+              </td>
+              <td class="text-center">
+	  	            11/27 05:05 PM
+	            </td>
+              <td class="text-center">CBS</td>
+              <td class="text-center">
+                <img alt="Na" src="/assets/weather/small/na.png" />
+              </td>
+              <td class="text-center">
+                  Forecast TBD
+              </td>
+              <td></td>
+              <td class="text-center" ></td>
+              <td class="details text-center">
+                <a href="/en/game/2022/week-12/raiders-at-seahawks" class="btn btn-success move-rigth">Details</a>
               </td>
             </tr>
             <tr>
@@ -569,105 +584,105 @@
               </td>
               <td class="team-img"><a href="/en/team/Rams" style="text-decoration: none; color: #454545;"><img alt="Los_angeles_ntc120" src="/system/teams/logos/000/000/006/list/Los_ANGELES_NTC120.png?1470846910" /></a></td>
               <td class="team-vs">@</td>
-              <td class="team-img"><a href="/en/team/Packers" style="text-decoration: none; color: #454545;"><img alt="Greenbay_6n_120" src="/system/teams/logos/000/000/024/list/GreenBay_6N_120.png?1377267883" /></a></td>
+              <td class="team-img"><a href="/en/team/Chiefs" style="text-decoration: none; color: #454545;"><img alt="Kansas_city_ntc120" src="/system/teams/logos/000/000/001/list/Kansas_City_NTC120.png?1377268351" /></a></td>
               <td class="team-name  text-center">
-                <a href="/en/team/Packers">Packers</a>
+                <a href="/en/team/Chiefs">Chiefs</a>
               </td>
               <td class="text-center">
-		              <b>Final</b>: 28 - 36
+	  	            11/27 05:25 PM
 	            </td>
               <td class="text-center">FOX</td>
               <td class="text-center">
-                <img alt="Partly-cloudy-day" src="/assets/weather/small/partly-cloudy-day.png" />
+                <img alt="Na" src="/assets/weather/small/na.png" />
               </td>
               <td class="text-center">
-                  34f Partly Cloudy
+                  Forecast TBD
               </td>
-              <td>Partly Cloudy. Clear throughout the day.</td>
-              <td class="text-center" >13m NW</td>
+              <td></td>
+              <td class="text-center" ></td>
               <td class="details text-center">
-                <a href="/en/game/2021/week-12/rams-at-packers" class="btn btn-success move-rigth">Details</a>
+                <a href="/en/game/2022/week-12/rams-at-chiefs" class="btn btn-success move-rigth">Details</a>
               </td>
             </tr>
             <tr>
               <td class="team-img">&nbsp;</td>
               <td class="team-name text-center">
-                <a href="/en/team/Vikings">Vikings</a>
+                <a href="/en/team/Saints">Saints</a>
               </td>
-              <td class="team-img"><a href="/en/team/Vikings" style="text-decoration: none; color: #454545;"><img alt="Minnesota_ntc120" src="/system/teams/logos/000/000/025/list/Minnesota_NTC120.png?1377267853" /></a></td>
+              <td class="team-img"><a href="/en/team/Saints" style="text-decoration: none; color: #454545;"><img alt="New_orleans_6n_120" src="/system/teams/logos/000/000/029/list/New_Orleans_6N_120.png?1377267792" /></a></td>
               <td class="team-vs">@</td>
               <td class="team-img"><a href="/en/team/49ers" style="text-decoration: none; color: #454545;"><img alt="San_francisco_6n_120" src="/system/teams/logos/000/000/030/list/San_Francisco_6N_120.png?1377267775" /></a></td>
               <td class="team-name  text-center">
                 <a href="/en/team/49ers">49ers</a>
               </td>
               <td class="text-center">
-		              <b>Final</b>: 26 - 34
+	  	            11/27 05:25 PM
 	            </td>
               <td class="text-center">FOX</td>
               <td class="text-center">
-                <img alt="Clear-day" src="/assets/weather/small/clear-day.png" />
+                <img alt="Na" src="/assets/weather/small/na.png" />
               </td>
               <td class="text-center">
-                  66f Clear
+                  Forecast TBD
               </td>
-              <td>Clear. Clear throughout the day.</td>
-              <td class="text-center" >4m NNW</td>
+              <td></td>
+              <td class="text-center" ></td>
               <td class="details text-center">
-                <a href="/en/game/2021/week-12/vikings-at-49ers" class="btn btn-success move-rigth">Details</a>
+                <a href="/en/game/2022/week-12/saints-at-49ers" class="btn btn-success move-rigth">Details</a>
               </td>
             </tr>
             <tr>
               <td class="team-img">&nbsp;</td>
               <td class="team-name text-center">
-                <a href="/en/team/Browns">Browns</a>
+                <a href="/en/team/Packers">Packers</a>
               </td>
-              <td class="team-img"><a href="/en/team/Browns" style="text-decoration: none; color: #454545;"><img alt="Cleveland_6n_120" src="/system/teams/logos/000/000/013/list/Cleveland_6N_120.png?1377268103" /></a></td>
+              <td class="team-img"><a href="/en/team/Packers" style="text-decoration: none; color: #454545;"><img alt="Greenbay_6n_120" src="/system/teams/logos/000/000/024/list/GreenBay_6N_120.png?1377267883" /></a></td>
               <td class="team-vs">@</td>
-              <td class="team-img"><a href="/en/team/Ravens" style="text-decoration: none; color: #454545;"><img alt="Baltimore_ntc120" src="/system/teams/logos/000/000/015/list/Baltimore_NTC120.png?1377268054" /></a></td>
+              <td class="team-img"><a href="/en/team/Eagles" style="text-decoration: none; color: #454545;"><img alt="Philadelphia_6n_120" src="/system/teams/logos/000/000/022/list/Philadelphia_6N_120.png?1377267922" /></a></td>
               <td class="team-name  text-center">
-                <a href="/en/team/Ravens">Ravens</a>
+                <a href="/en/team/Eagles">Eagles</a>
               </td>
               <td class="text-center">
-		              <b>Final</b>: 10 - 16
+	  	            11/27 09:20 PM
 	            </td>
               <td class="text-center">NBC</td>
               <td class="text-center">
-                <img alt="Npartly-cloudy-night" src="/assets/weather/small/npartly-cloudy-night.png" />
+                <img alt="Na" src="/assets/weather/small/na.png" />
               </td>
               <td class="text-center">
-                  44f Mostly Cloudy
+                  Forecast TBD
               </td>
-              <td>Mostly Cloudy. Clear throughout the day.</td>
-              <td class="text-center" >4m N</td>
+              <td></td>
+              <td class="text-center" ></td>
               <td class="details text-center">
-                <a href="/en/game/2021/week-12/browns-at-ravens" class="btn btn-success move-rigth">Details</a>
+                <a href="/en/game/2022/week-12/packers-at-eagles" class="btn btn-success move-rigth">Details</a>
               </td>
             </tr>
             <tr>
               <td class="team-img">&nbsp;</td>
               <td class="team-name text-center">
-                <a href="/en/team/Seahawks">Seahawks</a>
+                <a href="/en/team/Steelers">Steelers</a>
               </td>
-              <td class="team-img"><a href="/en/team/Seahawks" style="text-decoration: none; color: #454545;"><img alt="Seattle_6n_120a" src="/system/teams/logos/000/000/031/list/Seattle_6N_120A.png?1377267758" /></a></td>
+              <td class="team-img"><a href="/en/team/Steelers" style="text-decoration: none; color: #454545;"><img alt="Pittsburg_ntc120" src="/system/teams/logos/000/000/014/list/Pittsburg_NTC120.png?1377268073" /></a></td>
               <td class="team-vs">@</td>
-              <td class="team-img"><a href="/en/team/Washington" style="text-decoration: none; color: #454545;"><img alt="Redskins" src="/system/teams/logos/000/000/007/list/redskins.png?1377268235" /></a></td>
+              <td class="team-img"><a href="/en/team/Colts" style="text-decoration: none; color: #454545;"><img alt="Indianapolis_6n_120" src="/system/teams/logos/000/000/016/list/Indianapolis_6N_120.png?1377268032" /></a></td>
               <td class="team-name  text-center">
-                <a href="/en/team/Washington">Washington</a>
+                <a href="/en/team/Colts">Colts</a>
               </td>
               <td class="text-center">
-		              <b>Final</b>: 15 - 17
+	  	            11/28 09:15 PM
 	            </td>
               <td class="text-center">ESPN</td>
               <td class="text-center">
-                <img alt="Nclear-night" src="/assets/weather/small/nclear-night.png" />
+                <img alt="Dome" src="/assets/weather/small/dome.png" />
               </td>
               <td class="text-center">
-                  37f Clear
+                   DOME 
               </td>
-              <td>Clear. Partly cloudy throughout the day.</td>
-              <td class="text-center" >4m WNW</td>
+              <td></td>
+              <td class="text-center" ></td>
               <td class="details text-center">
-                <a href="/en/game/2021/week-12/seahawks-at-washington" class="btn btn-success move-rigth">Details</a>
+                <a href="/en/game/2022/week-12/steelers-at-colts" class="btn btn-success move-rigth">Details</a>
               </td>
             </tr>
         </tbody>
@@ -685,7 +700,7 @@
 <div class="row-fluid hidden-phone">
   <div class="span2">
     <ul class="pager">
-        <li class="previous"><a href="/en/week/2021/week-11" class="btn btn-primary">&larr;</a></li>
+        <li class="previous"><a href="/en/week/2022/week-11" class="btn btn-primary">&larr;</a></li>
     </ul>
   </div>
   <div class="span8 text-center">
@@ -693,85 +708,73 @@
       <p>
         
         
-            &nbsp;<a href="/en/week/2021/pre-season-week-1/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en.p1">P1</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/pre-season-week-1/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en.p1">P1</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/pre-season-week-2/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en.p2">P2</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/pre-season-week-2/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en.p2">P2</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/pre-season-week-3/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en.p3">P3</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/pre-season-week-3/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en.p3">P3</span></a>&nbsp;
         </p><p>
         
-            &nbsp;<a href="/en/week/2021/week-1/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._1"> 1</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-1/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._1"> 1</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-2/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._2"> 2</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-2/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._2"> 2</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-3/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._3"> 3</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-3/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._3"> 3</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-4/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._4"> 4</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-4/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._4"> 4</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-5/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._5"> 5</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-5/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._5"> 5</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-6/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._6"> 6</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-6/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._6"> 6</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-7/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._7"> 7</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-7/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._7"> 7</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-8/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._8"> 8</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-8/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._8"> 8</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-9/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._9"> 9</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-9/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._9"> 9</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-10/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._10"> 10</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-10/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._10"> 10</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-11/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._11"> 11</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-11/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._11"> 11</span></a>&nbsp;
         
         
              &nbsp;<span class="btn btn-mini disabled btn-primary"><span class="translation_missing" title="translation missing: en._12"> 12</span></span>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-13/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._13"> 13</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-13/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._13"> 13</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-14/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._14"> 14</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-14/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._14"> 14</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-15/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._15"> 15</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-15/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._15"> 15</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-16/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._16"> 16</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-16/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._16"> 16</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-17/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._17"> 17</span></a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-17/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._17"> 17</span></a>&nbsp;
         
         
-            &nbsp;<a href="/en/week/2021/week-18/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._18"> 18</span></a>&nbsp;
-        
-        
-            &nbsp;<a href="/en/week/2021/wildcard-weekend/" class="btn btn-mini btn-primary">Wildcard</a>&nbsp;
-        
-        
-            &nbsp;<a href="/en/week/2021/divisional-playoffs/" class="btn btn-mini btn-primary">Div Playoffs</a>&nbsp;
-        
-        
-            &nbsp;<a href="/en/week/2021/ conf-championships/" class="btn btn-mini btn-primary">Conf Championships</a>&nbsp;
-        
-        
-            &nbsp;<a href="/en/week/2021/superbowl/" class="btn btn-mini btn-primary">Superbowl</a>&nbsp;
+            &nbsp;<a href="/en/week/2022/week-18/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._18"> 18</span></a>&nbsp;
     </p>
     </div>
   </div>
   <div class="span2">
     <ul class="pager">
-        <li class="next" style="vertical-align: middle;"><a href="/en/week/2021/week-13" class="btn btn-primary">&rarr;</a></li>
+        <li class="next" style="vertical-align: middle;"><a href="/en/week/2022/week-13" class="btn btn-primary">&rarr;</a></li>
     </ul>
   </div>
 </div>
@@ -779,8 +782,8 @@
 <div class="row-fluid hidden-desktop hidden-tablet">
   <div class="span12">
     <ul class="pager">
-        <li class="previous"><a href="/en/week/2021/week-11" class="btn">&larr;</a></li>
-        <li class="next" style="vertical-align: middle;"><a href="/en/week/2021/week-13" class="btn">&rarr;</a></li>
+        <li class="previous"><a href="/en/week/2022/week-11" class="btn">&larr;</a></li>
+        <li class="next" style="vertical-align: middle;"><a href="/en/week/2022/week-13" class="btn">&rarr;</a></li>
     </ul>
   </div>
 </div>

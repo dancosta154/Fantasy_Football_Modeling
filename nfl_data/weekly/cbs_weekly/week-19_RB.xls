@@ -28,7 +28,7 @@
 <meta property="og:site_name" content="CBSSports.com">
 <meta property="og:title" content="2021 NFL Live Scoring Leaders - Wild Card">
 <meta property="og:description" content="Get the latest NFL live scoring leaders throughout the Wild Card round. Play fantasy football, follow players from around the NFL, and more from CBSSports.com.">
-    <meta property="og:image" content="https://sportsfly.cbsistatic.com/fly-0235/bundles/sportsmediacss/images/fantasy/default-article-image-large.png">
+    <meta property="og:image" content="https://sportsfly.cbsistatic.com/fly-0246/bundles/sportsmediacss/images/fantasy/default-article-image-large.png">
 <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.cbssports.com/nfl/stats/leaders/live/RB/19/">
 <meta property="fb:pages" content="25902406772">
@@ -45,7 +45,7 @@
 <meta content="@cbssports" name="twitter:creator">
 <meta content="2021 NFL Live Scoring Leaders - Wild Card - CBSSports.com" name="twitter:title">
 <meta content="Get the latest NFL live scoring leaders throughout the Wild Card round. Play fantasy football, follow players from around the NFL, and more from CBSSports.com." name="twitter:description">
-<meta content="https://sportsfly.cbsistatic.com/fly-0235/bundles/sportsmediacss/images/fantasy/default-article-image-large.png" name="twitter:image">
+<meta content="https://sportsfly.cbsistatic.com/fly-0246/bundles/sportsmediacss/images/fantasy/default-article-image-large.png" name="twitter:image">
 <meta content="CBSSports.com features live scoring and news for NFL football, MLB baseball, NBA basketball, NHL hockey, college basketball and football. CBSSports.com is also your source for fantasy sports news." name="msapplication-tooltip">
 <meta content="https://www.cbssports.com/" name="msapplication-starturl">
 <meta content="width=1024;height=768" name="msapplication-window">
@@ -65,15 +65,15 @@
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="blue">
 
-    <link rel="apple-touch-icon" href="https://sportsfly.cbsistatic.com/fly-0235/bundles/sportsmediacss/images/core/webclips/touch-icon-iphone.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="https://sportsfly.cbsistatic.com/fly-0235/bundles/sportsmediacss/images/core/webclips/touch-icon-ipad.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="https://sportsfly.cbsistatic.com/fly-0235/bundles/sportsmediacss/images/core/webclips/touch-icon-iphone-retina.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="https://sportsfly.cbsistatic.com/fly-0235/bundles/sportsmediacss/images/core/webclips/touch-icon-ipad-retina.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://sportsfly.cbsistatic.com/fly-0235/bundles/sportsmediacss/images/core/webclips/apple-touch-icon-180.png">
+    <link rel="apple-touch-icon" href="https://sportsfly.cbsistatic.com/fly-0246/bundles/sportsmediacss/images/core/webclips/touch-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://sportsfly.cbsistatic.com/fly-0246/bundles/sportsmediacss/images/core/webclips/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://sportsfly.cbsistatic.com/fly-0246/bundles/sportsmediacss/images/core/webclips/touch-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://sportsfly.cbsistatic.com/fly-0246/bundles/sportsmediacss/images/core/webclips/touch-icon-ipad-retina.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://sportsfly.cbsistatic.com/fly-0246/bundles/sportsmediacss/images/core/webclips/apple-touch-icon-180.png">
     
-                    <link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0235/bundles/sportsmediacss/css/v2/default.css">
+                    <link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0246/bundles/sportsmediacss/css/v2/default.css">
 
-            <link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0235/bundles/sportsmediacss/css/v2/pages/live-leaders/live-leaders.css">
+            <link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0246/bundles/sportsmediacss/css/v2/pages/live-leaders/live-leaders.css">
         
                     <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="a60e161f-a66d-414e-adaa-217c83fc6ae0"></script>
 <script id="bb-cbsoptanon" src="https://production-cmp.isgprivacy.cbsi.com/dist/optanon-v1.1.0.js" type="text/javascript" async></script>
@@ -131,11 +131,11 @@
     });
 </script>
     
-        <script type="text/javascript" src="https://sportsfly.cbsistatic.com/fly-0235/bundles/sportsmediajs/js-build/libs/require-2.3.5.js"></script>
+        <script type="text/javascript" src="https://sportsfly.cbsistatic.com/fly-0246/bundles/sportsmediajs/js-build/libs/require-2.3.5.js"></script>
 <script type="text/javascript">
 
             
-    require.config({"baseUrl":"https:\/\/sportsfly.cbsistatic.com\/fly-0235\/bundles\/sportsmediajs\/js-build","config":{"version":{"fly\/components\/accordion":"1.0","fly\/components\/alert":"1.0","fly\/components\/base":"1.0","fly\/components\/carousel":"1.0","fly\/components\/dropdown":"1.0","fly\/components\/fixate":"1.0","fly\/components\/form-validate":"1.0","fly\/components\/image-gallery":"1.0","fly\/components\/iframe-messenger":"1.0","fly\/components\/load-more":"1.0","fly\/components\/load-more-article":"1.0","fly\/components\/load-more-scroll":"1.0","fly\/components\/loading":"1.0","fly\/components\/modal":"1.0","fly\/components\/modal-iframe":"1.0","fly\/components\/network-bar":"1.0","fly\/components\/poll":"1.0","fly\/components\/search-player":"1.0","fly\/components\/social-button":"1.0","fly\/components\/social-counts":"1.0","fly\/components\/social-links":"1.0","fly\/components\/tabs":"1.0","fly\/components\/video":"1.0","fly\/libs\/easy-xdm":"2.4.17.1","fly\/libs\/jquery.cookie":"1.2","fly\/libs\/jquery.throttle-debounce":"1.1","fly\/libs\/jquery.widget":"1.9.2","fly\/libs\/omniture.s-code":"1.0","fly\/utils\/jquery-mobile-init":"1.0","fly\/libs\/jquery.mobile":"1.3.2","fly\/libs\/backbone":"1.0.0","fly\/libs\/underscore":"1.5.1","fly\/libs\/jquery.easing":"1.3","fly\/managers\/ad":"2.0","fly\/managers\/components":"1.0","fly\/managers\/cookie":"1.0","fly\/managers\/debug":"1.0","fly\/managers\/geo":"1.0","fly\/managers\/gpt":"4.3","fly\/managers\/history":"2.0","fly\/managers\/madison":"1.0","fly\/managers\/social-authentication":"1.0","fly\/utils\/data-prefix":"1.0","fly\/utils\/data-selector":"1.0","fly\/utils\/function-natives":"1.0","fly\/utils\/guid":"1.0","fly\/utils\/log":"1.0","fly\/utils\/object-helper":"1.0","fly\/utils\/string-helper":"1.0","fly\/utils\/string-vars":"1.0","fly\/utils\/url-helper":"1.0","libs\/jshashtable":"2.1","libs\/select2":"3.5.1","libs\/jsonp":"2.4.0","libs\/jquery\/mobile":"1.4.5","libs\/modernizr.custom":"2.6.2","libs\/velocity":"1.2.2","libs\/dataTables":"1.10.6","libs\/dataTables.fixedColumns":"3.0.4","libs\/dataTables.fixedHeader":"2.1.2","libs\/dateformat":"1.0.3","libs\/waypoints\/infinite":"3.1.1","libs\/waypoints\/inview":"3.1.1","libs\/waypoints\/jquery.waypoints":"3.1.1","libs\/waypoints\/sticky":"3.1.1","libs\/jquery\/dotdotdot":"1.6.1","libs\/jquery\/flexslider":"2.1","libs\/jquery\/lazyload":"1.9.3","libs\/jquery\/maskedinput":"1.3.1","libs\/jquery\/marquee":"1.3.1","libs\/jquery\/numberformatter":"1.2.3","libs\/jquery\/placeholder":"0.2.4","libs\/jquery\/scrollbar":"0.1.6","libs\/jquery\/tablesorter":"2.0.5","libs\/jquery\/touchswipe":"1.6.18","libs\/jquery\/ui\/jquery.ui.core":"1.11.4","libs\/jquery\/ui\/jquery.ui.draggable":"1.11.4","libs\/jquery\/ui\/jquery.ui.mouse":"1.11.4","libs\/jquery\/ui\/jquery.ui.position":"1.11.4","libs\/jquery\/ui\/jquery.ui.slider":"1.11.4","libs\/jquery\/ui\/jquery.ui.sortable":"1.11.4","libs\/jquery\/ui\/jquery.ui.touch-punch":"0.2.3","libs\/jquery\/ui\/jquery.ui.autocomplete":"1.11.4","libs\/jquery\/ui\/jquery.ui.accordion":"1.11.4","libs\/jquery\/ui\/jquery.ui.tabs":"1.11.4","libs\/jquery\/ui\/jquery.ui.menu":"1.11.4","libs\/jquery\/ui\/jquery.ui.dialog":"1.11.4","libs\/jquery\/ui\/jquery.ui.resizable":"1.11.4","libs\/jquery\/ui\/jquery.ui.button":"1.11.4","libs\/jquery\/ui\/jquery.ui.tooltip":"1.11.4","libs\/jquery\/ui\/jquery.ui.effects":"1.11.4","libs\/jquery\/ui\/jquery.ui.datepicker":"1.11.4"}},"shim":{"liveconnection\/managers\/connection":{"deps":["liveconnection\/libs\/sockjs-0.3.4"]},"liveconnection\/libs\/sockjs-0.3.4":{"exports":"SockJS"},"libs\/setValueFromArray":{"exports":"set"},"libs\/getValueFromArray":{"exports":"get"},"fly\/libs\/jquery.mobile-1.3.2":["version!fly\/utils\/jquery-mobile-init"],"libs\/backbone.marionette":{"deps":["jquery","version!fly\/libs\/underscore","version!fly\/libs\/backbone"],"exports":"Marionette"},"fly\/libs\/underscore-1.5.1":{"exports":"_"},"fly\/libs\/backbone-1.0.0":{"deps":["version!fly\/libs\/underscore","jquery"],"exports":"Backbone"},"libs\/jquery\/ui\/jquery.ui.tabs-1.11.4":["jquery","version!libs\/jquery\/ui\/jquery.ui.core","version!fly\/libs\/jquery.widget"],"libs\/jquery\/flexslider-2.1":["jquery"],"libs\/dataTables.fixedColumns-3.0.4":["jquery","version!libs\/dataTables"],"libs\/dataTables.fixedHeader-2.1.2":["jquery","version!libs\/dataTables"],"https:\/\/sports.cbsimg.net\/js\/CBSi\/app\/VideoPlayer\/AdobePass-min.js":["https:\/\/sports.cbsimg.net\/js\/CBSi\/util\/Utils-min.js"]},"map":{"*":{"adobe-pass":"https:\/\/sports.cbsimg.net\/js\/CBSi\/app\/VideoPlayer\/AdobePass-min.js","facebook":"https:\/\/connect.facebook.net\/en_US\/sdk.js","facebook-debug":"https:\/\/connect.facebook.net\/en_US\/all\/debug.js","google":"https:\/\/apis.google.com\/js\/plusone.js","google-platform":"https:\/\/apis.google.com\/js\/client:platform.js","google-csa":"https:\/\/www.google.com\/adsense\/search\/async-ads.js","google-javascript-api":"https:\/\/www.google.com\/jsapi","google-client-api":"https:\/\/apis.google.com\/js\/api:client.js","gpt":"https:\/\/securepubads.g.doubleclick.net\/tag\/js\/gpt.js","hlsjs":"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hls.js\/1.0.7\/hls.js","newsroom":"https:\/\/c2.taboola.com\/nr\/cbsinteractive-cbssports\/newsroom.js","recaptcha":"https:\/\/www.google.com\/recaptcha\/api.js?onload=loadRecaptcha&render=explicit","recaptcha_ajax":"https:\/\/www.google.com\/recaptcha\/api\/js\/recaptcha_ajax.js","supreme-golf":"https:\/\/sgapps-staging.supremegolf.com\/search\/assets\/js\/bundle.js","taboola":"https:\/\/cdn.taboola.com\/libtrc\/cbsinteractive-cbssports\/loader.js","twitter":"https:\/\/platform.twitter.com\/widgets.js","video-avia":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/1.14.0\/player\/avia.min.js","video-avia-ui":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/1.14.0\/plugins\/ui\/avia.ui.min.js","video-avia-gam":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/1.14.0\/plugins\/gam\/avia.gam.min.js","video-ima3":"https:\/\/imasdk.googleapis.com\/js\/sdkloader\/ima3.js","video-ima3-dai":"https:\/\/imasdk.googleapis.com\/js\/sdkloader\/ima3_dai.js","video-utils":"https:\/\/sports.cbsimg.net\/js\/CBSi\/util\/Utils-min.js","video-vast-tracking":"https:\/\/vidtech.cbsinteractive.com\/sb55\/vast-js\/vtg-vast-client.js"}},"waitSeconds":300});
+    require.config({"baseUrl":"https:\/\/sportsfly.cbsistatic.com\/fly-0246\/bundles\/sportsmediajs\/js-build","config":{"version":{"fly\/components\/accordion":"1.0","fly\/components\/alert":"1.0","fly\/components\/base":"1.0","fly\/components\/carousel":"1.0","fly\/components\/dropdown":"1.0","fly\/components\/fixate":"1.0","fly\/components\/form-validate":"1.0","fly\/components\/image-gallery":"1.0","fly\/components\/iframe-messenger":"1.0","fly\/components\/load-more":"1.0","fly\/components\/load-more-article":"1.0","fly\/components\/load-more-scroll":"1.0","fly\/components\/loading":"1.0","fly\/components\/modal":"1.0","fly\/components\/modal-iframe":"1.0","fly\/components\/network-bar":"1.0","fly\/components\/poll":"1.0","fly\/components\/search-player":"1.0","fly\/components\/social-button":"1.0","fly\/components\/social-counts":"1.0","fly\/components\/social-links":"1.0","fly\/components\/tabs":"1.0","fly\/components\/video":"1.0","fly\/libs\/easy-xdm":"2.4.17.1","fly\/libs\/jquery.cookie":"1.2","fly\/libs\/jquery.throttle-debounce":"1.1","fly\/libs\/jquery.widget":"1.9.2","fly\/libs\/omniture.s-code":"1.0","fly\/utils\/jquery-mobile-init":"1.0","fly\/libs\/jquery.mobile":"1.3.2","fly\/libs\/backbone":"1.0.0","fly\/libs\/underscore":"1.5.1","fly\/libs\/jquery.easing":"1.3","fly\/managers\/ad":"2.0","fly\/managers\/components":"1.0","fly\/managers\/cookie":"1.0","fly\/managers\/debug":"1.0","fly\/managers\/geo":"1.0","fly\/managers\/gpt":"4.3","fly\/managers\/history":"2.0","fly\/managers\/madison":"1.0","fly\/managers\/social-authentication":"1.0","fly\/utils\/data-prefix":"1.0","fly\/utils\/data-selector":"1.0","fly\/utils\/function-natives":"1.0","fly\/utils\/guid":"1.0","fly\/utils\/log":"1.0","fly\/utils\/object-helper":"1.0","fly\/utils\/string-helper":"1.0","fly\/utils\/string-vars":"1.0","fly\/utils\/url-helper":"1.0","libs\/jshashtable":"2.1","libs\/select2":"3.5.1","libs\/jsonp":"2.4.0","libs\/jquery\/mobile":"1.4.5","libs\/modernizr.custom":"2.6.2","libs\/velocity":"1.2.2","libs\/dataTables":"1.10.6","libs\/dataTables.fixedColumns":"3.0.4","libs\/dataTables.fixedHeader":"2.1.2","libs\/dateformat":"1.0.3","libs\/waypoints\/infinite":"3.1.1","libs\/waypoints\/inview":"3.1.1","libs\/waypoints\/jquery.waypoints":"3.1.1","libs\/waypoints\/sticky":"3.1.1","libs\/jquery\/dotdotdot":"1.6.1","libs\/jquery\/flexslider":"2.1","libs\/jquery\/lazyload":"1.9.3","libs\/jquery\/maskedinput":"1.3.1","libs\/jquery\/marquee":"1.3.1","libs\/jquery\/numberformatter":"1.2.3","libs\/jquery\/placeholder":"0.2.4","libs\/jquery\/scrollbar":"0.1.6","libs\/jquery\/tablesorter":"2.0.5","libs\/jquery\/touchswipe":"1.6.18","libs\/jquery\/ui\/jquery.ui.core":"1.11.4","libs\/jquery\/ui\/jquery.ui.draggable":"1.11.4","libs\/jquery\/ui\/jquery.ui.mouse":"1.11.4","libs\/jquery\/ui\/jquery.ui.position":"1.11.4","libs\/jquery\/ui\/jquery.ui.slider":"1.11.4","libs\/jquery\/ui\/jquery.ui.sortable":"1.11.4","libs\/jquery\/ui\/jquery.ui.touch-punch":"0.2.3","libs\/jquery\/ui\/jquery.ui.autocomplete":"1.11.4","libs\/jquery\/ui\/jquery.ui.accordion":"1.11.4","libs\/jquery\/ui\/jquery.ui.tabs":"1.11.4","libs\/jquery\/ui\/jquery.ui.menu":"1.11.4","libs\/jquery\/ui\/jquery.ui.dialog":"1.11.4","libs\/jquery\/ui\/jquery.ui.resizable":"1.11.4","libs\/jquery\/ui\/jquery.ui.button":"1.11.4","libs\/jquery\/ui\/jquery.ui.tooltip":"1.11.4","libs\/jquery\/ui\/jquery.ui.effects":"1.11.4","libs\/jquery\/ui\/jquery.ui.datepicker":"1.11.4"}},"shim":{"liveconnection\/managers\/connection":{"deps":["liveconnection\/libs\/sockjs-0.3.4"]},"liveconnection\/libs\/sockjs-0.3.4":{"exports":"SockJS"},"libs\/setValueFromArray":{"exports":"set"},"libs\/getValueFromArray":{"exports":"get"},"fly\/libs\/jquery.mobile-1.3.2":["version!fly\/utils\/jquery-mobile-init"],"libs\/backbone.marionette":{"deps":["jquery","version!fly\/libs\/underscore","version!fly\/libs\/backbone"],"exports":"Marionette"},"fly\/libs\/underscore-1.5.1":{"exports":"_"},"fly\/libs\/backbone-1.0.0":{"deps":["version!fly\/libs\/underscore","jquery"],"exports":"Backbone"},"libs\/jquery\/ui\/jquery.ui.tabs-1.11.4":["jquery","version!libs\/jquery\/ui\/jquery.ui.core","version!fly\/libs\/jquery.widget"],"libs\/jquery\/flexslider-2.1":["jquery"],"libs\/dataTables.fixedColumns-3.0.4":["jquery","version!libs\/dataTables"],"libs\/dataTables.fixedHeader-2.1.2":["jquery","version!libs\/dataTables"],"https:\/\/sports.cbsimg.net\/js\/CBSi\/app\/VideoPlayer\/AdobePass-min.js":["https:\/\/sports.cbsimg.net\/js\/CBSi\/util\/Utils-min.js"]},"map":{"*":{"adobe-pass":"https:\/\/sports.cbsimg.net\/js\/CBSi\/app\/VideoPlayer\/AdobePass-min.js","facebook":"https:\/\/connect.facebook.net\/en_US\/sdk.js","facebook-debug":"https:\/\/connect.facebook.net\/en_US\/all\/debug.js","google":"https:\/\/apis.google.com\/js\/plusone.js","google-platform":"https:\/\/apis.google.com\/js\/client:platform.js","google-csa":"https:\/\/www.google.com\/adsense\/search\/async-ads.js","google-javascript-api":"https:\/\/www.google.com\/jsapi","google-client-api":"https:\/\/apis.google.com\/js\/api:client.js","gpt":"https:\/\/securepubads.g.doubleclick.net\/tag\/js\/gpt.js","hlsjs":"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hls.js\/1.0.7\/hls.js","newsroom":"https:\/\/c2.taboola.com\/nr\/cbsinteractive-cbssports\/newsroom.js","recaptcha":"https:\/\/www.google.com\/recaptcha\/api.js?onload=loadRecaptcha&render=explicit","recaptcha_ajax":"https:\/\/www.google.com\/recaptcha\/api\/js\/recaptcha_ajax.js","supreme-golf":"https:\/\/sgapps-staging.supremegolf.com\/search\/assets\/js\/bundle.js","taboola":"https:\/\/cdn.taboola.com\/libtrc\/cbsinteractive-cbssports\/loader.js","twitter":"https:\/\/platform.twitter.com\/widgets.js","video-avia":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/1.14.0\/player\/avia.min.js","video-avia-ui":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/1.14.0\/plugins\/ui\/avia.ui.min.js","video-avia-gam":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/1.14.0\/plugins\/gam\/avia.gam.min.js","video-ima3":"https:\/\/imasdk.googleapis.com\/js\/sdkloader\/ima3.js","video-ima3-dai":"https:\/\/imasdk.googleapis.com\/js\/sdkloader\/ima3_dai.js","video-utils":"https:\/\/sports.cbsimg.net\/js\/CBSi\/util\/Utils-min.js","video-vast-tracking":"https:\/\/vidtech.cbsinteractive.com\/sb55\/vast-js\/vtg-vast-client.js"}},"waitSeconds":300});
 
         
 </script>
@@ -162,7 +162,7 @@
             });
         });
     </script>
-                        <script src="https://sportsfly.cbsistatic.com/fly-0235/bundles/sportsmediajs/js-build/fly/libs/guid-1.0.js"></script>
+                        <script src="https://sportsfly.cbsistatic.com/fly-0246/bundles/sportsmediajs/js-build/fly/libs/guid-1.0.js"></script>
 <script type="text/javascript">
     var __window_vguid = null;
 
@@ -186,7 +186,7 @@
             data: {"gpt":{"targeting":{"device":"desktop","ptype":"statistics","cid":"","env":"prod"},"adConfig":{"network":{"dev":7336,"local":7336,"qa":7336,"alpha":7336,"stage":8264,"beta":8264,"prod":8264},"method":"async-inline","regions":[],"adUnits":{"intromercial":{"outOfPage":true},"skyboxTop":{"sizes":[[5,5]],"position":"top"},"skyboxPlusTop":{"sizes":[[5,5],[728,90],[970,66]],"position":"top"},"skyboxSticky":{"sizes":[[5,5]],"position":"sticky"},"skyboxLeaderSticky":{"sizes":[[5,5],[728,90],[970,66]],"position":"sticky"},"omniSkyboxSticky":{"sizes":[[5,5],[6,6]],"position":"sticky"},"omniSkyboxLeaderSticky":{"sizes":[[5,5],[728,90],[970,66],[6,6]],"position":"sticky"},"leaderPlusTop":{"sizes":[[728,90],[970,66],[970,250],[970,90]],"position":"top","eventCallbacks":{"slotRenderEnded":"leaderboardCallback"}},"leaderPlus2Bottom":{"sizes":[[728,90],[970,66]],"position":"bottom"},"leaderTop":{"sizes":[[728,90],[970,66],[970,90]],"position":"top","eventCallbacks":{"slotRenderEnded":"leaderboardCallback"}},"leaderMiddle":{"sizes":[[728,90],[970,66]],"position":"middle"},"leaderBottom":{"sizes":[[970,66],[728,90]],"position":"bottom"},"mMarqueeTop":{"sizes":[[356,365]],"position":"top"},"mRailTopLeft":{"sizes":[[170,360]],"position":"top"},"mRailBottomLeft":{"sizes":[[170,230]],"position":"bottom"},"mLeaderTop":{"sizes":[[1170,150]],"position":"top"},"mLeaderMiddle":{"sizes":[[1170,150]],"position":"middle"},"mRailTopRight":{"sizes":[[370,345]],"position":"top"},"mStoryInset":{"sizes":[[300,310]],"position":"top"},"mDropdown":{"sizes":[[220,350]],"position":"top"},"mpuBottom":{"sizes":[[300,250]],"position":"bottom","disableInitialLoad":false},"mpuMiddle":{"sizes":[[300,250]],"position":"middle"},"mpuPlusTop":{"sizes":[[300,250],[300,600]],"position":"top"},"mpuTop":{"sizes":[[300,250]],"position":"top"},"mpuTopGametracker":{"sizes":[[300,250]],"position":"top","disableInitialLoad":true,"eventCallbacks":{"slotRenderEnded":"clear20second"}},"sharethroughTop":{"sizes":[[11,11],["fluid"]],"position":"top","customTargeting":{"strnativekey":"a749ea2b"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"sharethroughBottom":{"sizes":[[11,11],["fluid"],[300,250]],"position":"bottom","customTargeting":{"strnativekey":"a749ea2b"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"sharethroughArticle":{"sizes":[[11,11],["fluid"]],"position":"top","customTargeting":{"strnativekey":"433f2831"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"sharethroughScoreboard":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"1KzYzb2nt1prfLivSYMjVJCV"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"nativeHqTop":{"sizes":[[11,11],["fluid"]],"position":"top","customTargeting":{"strnativekey":"BAhUjps7CdLL2R6QfFqoXhbT"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"mpuHomeArenaFlex":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"pHEZXrGTz8xAczhbvBryALrh"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"nativeArenaMiddle":{"sizes":[[11,11],["fluid"]],"position":"middle","customTargeting":{"strnativekey":"rSRFToMHkC84SmYyCbF6LsXG"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"nativeGtTop":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"3b2acfdb"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"nativeStoryFlexTop":{"sizes":[[11,11],["fluid"],[300,251]],"position":"top","customTargeting":{"strnativekey":"pUtkm6PEEeEqSsKgmNRVvEGN"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"nativeStoryFlexInc":{"sizes":[[11,11],["fluid"],[300,250]],"position":"inc","disableInitialLoad":true,"customTargeting":{"strnativekey":"pUtkm6PEEeEqSsKgmNRVvEGN"}},"videoThumbnailTop":{"sizes":[[171,231]],"position":"top"},"marqueeTop":{"sizes":[[234,60]],"position":"top"},"hqSponsoredShelf":{"sizes":[[150,25]],"position":"top"},"gamblingPartner":{"sizes":[[8,8],["fluid"]],"position":"dynamic"},"gamblingPartnerLogo":{"sizes":[[8,8],["fluid"]],"position":"static"},"gamblingPartnerModal":{"sizes":[[8,8],["fluid"]],"position":"modal"}},"mobile":{"adUnits":{"intromercial":{"outOfPage":true},"mobileOmniSkyboxPlusSticky":{"sizes":[[5,5],[320,50],[6,6]],"position":"sticky"},"mobileOmniPlusSticky":{"sizes":[[320,50],[6,6]],"position":"sticky"},"mobileSkyboxPlusSticky":{"sizes":[[5,5],[320,50]],"position":"sticky"},"mobileHomeFlexTop":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"FPbxvZ35anf9AJRvNfe6i5bj"}},"mobileHomeFlexSilentMiddle":{"sizes":[[11,11],["fluid"],[300,250]],"position":"middle","customTargeting":{"strnativekey":"4QaKVuofR1D6XYNp5djXh8m5"}},"mobileHomeFlexBottom":{"sizes":[[11,11],["fluid"],[300,250]],"position":"bottom","customTargeting":{"strnativekey":"FPbxvZ35anf9AJRvNfe6i5bj"}},"mobileHomeFlexSilentBottom2":{"sizes":[[11,11],["fluid"],[300,250]],"position":"bottom2","customTargeting":{"strnativekey":"4QaKVuofR1D6XYNp5djXh8m5"}},"mobileArenaFlexSilentMiddle":{"sizes":[[11,11],["fluid"],[300,250],[320,50]],"position":"middle","customTargeting":{"strnativekey":"p19egy6FqHCsS251t1yj2EBy"}},"mobileArenaFlexSilent":{"sizes":[[11,11],["fluid"],[300,250]],"position":"middle","customTargeting":{"strnativekey":"p19egy6FqHCsS251t1yj2EBy"}},"mobileArenaFlexSilentBottom2":{"sizes":[[11,11],["fluid"],[300,250],[320,50]],"position":"bottom2","customTargeting":{"strnativekey":"p19egy6FqHCsS251t1yj2EBy"}},"mobileFlexSilentTop":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"gubJdWNSqW4KERyShJGTxkGt"}},"mobileFlexTop":{"sizes":[[300,250],[11,11],["fluid"]],"position":"top","customTargeting":{"strnativekey":"UhpLuUjohuTPZ7eAodkse53o"}},"mobileFlexInc":{"sizes":[[320,50],[300,250],[11,11],["fluid"]],"position":"inc","disableInitialLoad":true,"customTargeting":{"strnativekey":"UhpLuUjohuTPZ7eAodkse53o"}},"mobileBannerTop2":{"sizes":[[320,50]],"position":"top2"},"mpuBottom":{"sizes":[[300,250]],"position":"bottom"},"mobileMpuBottom":{"sizes":[[300,250]],"position":"bottom"},"mobileMpuBottom2":{"sizes":[[300,250]],"position":"bottom2"},"mpuMiddle":{"sizes":[[300,50]],"position":"middle"},"mpuTop":{"sizes":[[320,50]],"position":"top"},"mobileMpuTop":{"sizes":[[300,250]],"position":"top"},"mobileMpuMiddle":{"sizes":[[300,250]],"position":"middle"},"mobileMarketingMpuTop":{"sizes":[[320,100]],"position":"top"},"mobileMarketingMpuMiddle":{"sizes":[[320,100]],"position":"middle"},"mobileMarketingMpuBottom":{"sizes":[[320,100]],"position":"bottom"},"mobileNativeTop2":{"sizes":[[11,11],["fluid"]],"position":"top","customTargeting":{"strnativekey":"nJQjFMCYfivejGXoqNXYEKsY"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"mobileNativeTeamTop":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"pjJXawoyvqmBkden6uzUT6kQ"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"mobileNativeGtTop":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"83b0ae49"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"mobileNativeBottom2":{"sizes":[[11,11],["fluid"]],"position":"bottom","customTargeting":{"strnativekey":"nJQjFMCYfivejGXoqNXYEKsY"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"sharethroughPos2":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"54ab0589"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"mMarqueeTop":{"sizes":[[356,365]],"position":"top"},"mobileNflnetworkTop":{"sizes":[[300,100]],"position":"top"},"mobileNflnetworkMarqueeTop":{"sizes":[[300,100]],"position":"top"},"mobileMpuTopGametracker":{"sizes":[[300,250]],"position":"top","disableInitialLoad":true,"eventCallbacks":{"slotRenderEnded":"clear20second"}},"mobileHqSponsoredShelf":{"sizes":[[150,25]],"position":"top"},"mobileGamblingPartner":{"sizes":[[8,8],["fluid"]],"position":"dynamic"},"mobileGamblingPartnerLogo":{"sizes":[[8,8],["fluid"]],"position":"static"},"gamblingPartnerModal":{"sizes":[[8,8],["fluid"]],"position":"modal"},"mobileIncontentSocial":{"sizes":[[12,12]],"position":"top"}}},"siteName":"cbssports","collapseEmptyDiv":true,"setRefreshUnfilledSlots":false,"setClearUnfilledSlots":true,"disableInitialLoad":false,"disableInitialLoadCompanions":true,"disableInitialLoadRefresh":true,"enableSingleRequest":true,"enableHeaderBidding":true,"disableClearTargetingOnInit":true,"enableRepeatedAds":true,"defaultRegion":"aw","adOrder":[],"disableAdIncrement":false,"enableYieldIntelligence":"false"},"containerId":"0845ee2fc7317","slotVars":{"network":"8264","siteName":"cbssports","collapseEmptyDiv":"1","topics":"nfl\/media\/statistics\/stats","platform":"desktop"},"adType":"gpt","adDivIds":["omni-skybox-sticky-0845ee2fc7317","leader-plus-top-0845ee2fc7317","leader-bottom-0845ee2fc7317","intromercial-0845ee2fc7317"]},"cookieName":"cbssports_ad","cookieServicePath":"\/ad\/ad-cookie\/","session":6,"subSession":4,"useFirstPageTargeting":true}
         },
         assetsVersion: {
-            version: 'fly-0235'
+            version: 'fly-0246'
         },
         device: "desktop",
         environment: 'prod',
@@ -261,7 +261,7 @@
 
                                     
                     
-<link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0235/bundles/sportsmediacss/css/header-footer/header-footer.desktop.css">
+<link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0246/bundles/sportsmediacss/css/header-footer/header-footer.desktop.css">
 
                             <div id="skybox-top-wrapper" class="skybox-top-wrapper desktop ">
         <div id="omni_skybox_sticky" class="ad-omni-skybox-sticky " data-ad="omni-skybox-sticky" data-ad-unit="omni_skybox_sticky"></div>
@@ -306,10 +306,10 @@
 
 
 
-                                                                                                                                    
+                                                                                                                                
 
         
-                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                            
     
 
 <div id="cbs-site-nav" class="cbs-site-nav ">
@@ -396,7 +396,7 @@
                                                                 <span class="icon-sport icon-moon-arena-golf"></span>
 
                                                                                                             
-            <a href="/golf/tournaments/pga-championship/" class="">PGA 2022</a>
+            <a href="/golf/" class="">Golf</a>
     
                                                             </li>
                                                                                                                                             
@@ -404,10 +404,10 @@
                             
                                                         
                             <li class="nav-dropdown-item ">
-                                                                <span class="icon-sport icon-moon-arena-golf"></span>
+                                                                <span class="icon-sport icon-moon-arena-horseracing"></span>
 
                                                                                                             
-            <a href="/golf/" class="">Golf</a>
+                                    <a href="https://www.americasbestracing.net/" target="_blank" rel="nofollow" class=" external-link">Belmont </a>
     
                                                             </li>
                                                                                                                                             
@@ -417,10 +417,10 @@
                             
                                                         
                             <li class="nav-dropdown-item ">
-                                                                <span class="icon-sport icon-moon-arena-horseracing"></span>
+                                                                <span class="icon-sport icon-moon-arena-nhl"></span>
 
                                                                                                             
-                                    <a href="https://www.americasbestracing.net/" target="_blank" rel="nofollow" class=" external-link">Preakness </a>
+            <a href="/nhl/" class="">NHL</a>
     
                                                             </li>
                                                                                                                                             
@@ -432,28 +432,6 @@
 
                                                                                                             
             <a href="/soccer/" class="">Soccer</a>
-    
-                                                            </li>
-                                                                                                                                            
-                                                                                                                                            
-                            
-                                                        
-                            <li class="nav-dropdown-item ">
-                                                                <span class="icon-sport icon-moon-arena-soccer"></span>
-
-                                                                                                            
-            <a href="/soccer/champions-league/" class="">Champions League</a>
-    
-                                                            </li>
-                                                                                                                                            
-                                                                                                                                            
-                            
-                                                        
-                            <li class="nav-dropdown-item ">
-                                                                <span class="icon-sport icon-moon-arena-nhl"></span>
-
-                                                                                                            
-            <a href="/nhl/" class="">NHL</a>
     
                                                             </li>
                                                                                                                                             
@@ -494,6 +472,17 @@
                             
                                                         
                             <li class="nav-dropdown-item ">
+                                                                <span class="icon-sport icon-moon-arena-soccer"></span>
+
+                                                                                                            
+            <a href="/soccer/champions-league/" class="">Champions League</a>
+    
+                                                            </li>
+                                                                                                                                            
+                                                                                                                                            
+                            
+                                                        
+                            <li class="nav-dropdown-item ">
                                                                 <span class="icon-sport icon-moon-arena-mma"></span>
 
                                                                                                             
@@ -502,8 +491,6 @@
                                                             </li>
                                                                                                                                             
                                                                                                                                             
-                                                            </ul>
-                                <ul class="nav-dropdown-col">
                             
                                                         
                             <li class="nav-dropdown-item ">
@@ -515,6 +502,8 @@
                                                             </li>
                                                                                                                                             
                                                                                                                                             
+                                                            </ul>
+                                <ul class="nav-dropdown-col">
                             
                                                         
                             <li class="nav-dropdown-item ">
@@ -592,8 +581,6 @@
                                                             </li>
                                                                                                                                             
                                                                                                                                             
-                                                            </ul>
-                                <ul class="nav-dropdown-col">
                             
                                                         
                             <li class="nav-dropdown-item ">
@@ -605,6 +592,8 @@
                                                             </li>
                                                                                                                                             
                                                                                                                                             
+                                                            </ul>
+                                <ul class="nav-dropdown-col">
                             
                                                         
                             <li class="nav-dropdown-item ">
@@ -682,8 +671,6 @@
                                                             </li>
                                                                                                                                             
                                                                                                                                             
-                                                            </ul>
-                                <ul class="nav-dropdown-col">
                             
                                                         
                             <li class="nav-dropdown-item ">
@@ -699,6 +686,8 @@
                                                             </li>
                                                                                                                                             
                                                                                                                                             
+                                                            </ul>
+                                <ul class="nav-dropdown-col">
                             
                                                         
                             <li class="nav-dropdown-item ">
@@ -1082,8 +1071,8 @@
                                                                     <div class="nav-game-wrap">
                                                                                                                                 <div class="nav-game game-left">
                                                 <div class="nav-game-image">
-                                                    <a href="https://picks.cbssports.com/college-basketball/ncaa-tournament/bracket">
-                                                                    <figure class=" img"><img class=" is-lazy-image" alt="bracketgamespromobox-180x100-1x.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2022/03/01/73eb7376-7165-4059-98a6-5394ab997a75/thumbnail/180x100/9d1e2c59b47bd9a40b10b553d3cd8c9b/bracketgamespromobox-180x100-1x.png" src="" height="100" width="180"></figure>
+                                                    <a href="https://www.cbssports.com/fantasy/games/football/office-pool-manager/">
+                                                                    <figure class=" img"><img class=" is-lazy-image" alt="footballpickempromobox-180x100-1x.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2022/06/01/4be9ec61-6101-4eb8-85a3-86dc27fbae87/thumbnail/180x100/3339dbd488943829fa4d25ab32c329b1/footballpickempromobox-180x100-1x.png" src="" height="100" width="180"></figure>
                                                         <p class="nav-game-text">
                                                             Play Now
                                                         </p>
@@ -1091,14 +1080,14 @@
                                                 </div>
                                                 <p class="nav-game-title">
                                                                                             
-            <a href="https://picks.cbssports.com/college-basketball/ncaa-tournament/bracket" class="">Men's Brackets</a>
+            <a href="/fantasy/games/football/office-pool-manager/" class="">Football Pick'em</a>
     
                                                 </p>
                                             </div>
                                                                                                                                 <div class="nav-game game-right">
                                                 <div class="nav-game-image">
-                                                    <a href="https://picks.cbssports.com/college-basketball/ncaaw-tournament/bracket">
-                                                                    <figure class=" img"><img class=" is-lazy-image" alt="bracketgamespromobox-180x100-1x.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2022/03/01/d9cb0854-f7c5-4b92-9cf4-832244300432/thumbnail/180x100/030001eead6872f5b54d6c4a0e0c29a4/bracketgamespromobox-180x100-1x.png" src="" height="100" width="180"></figure>
+                                                    <a href="https://www.cbssports.com/fantasy/games/football/">
+                                                                    <figure class=" img"><img class=" is-lazy-image" alt="fantasyfootball-180x100-1x.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2022/06/01/a347b0fb-c0c2-47ed-a89a-6a85ac583f0d/thumbnail/180x100/ad5574568763e34df26a3e9fe52673f5/fantasyfootball-180x100-1x.png" src="" height="100" width="180"></figure>
                                                         <p class="nav-game-text">
                                                             Play Now
                                                         </p>
@@ -1106,7 +1095,7 @@
                                                 </div>
                                                 <p class="nav-game-title">
                                                                                             
-            <a href="https://picks.cbssports.com/college-basketball/ncaaw-tournament/bracket" class="">Women's Brackets</a>
+            <a href="/fantasy/games/football/" class="">Fantasy Football</a>
     
                                                 </p>
                                             </div>
@@ -1143,7 +1132,7 @@
                                                                                                         
                                     <h6 class="nav-dropdown-title">
                                                                                                                             
-            <a href="/fantasy/games/baseball/?ttag=FBB16_os_drpdwn_lk" class="">Fantasy Baseball</a>
+            <a href="/fantasy/games/football?ttag=FF16_os_drpdwn_lk" class="">Fantasy Football</a>
     
                                                                             </h6>
                                 
@@ -1154,7 +1143,7 @@
                                                                                                         
                                     <h6 class="nav-dropdown-title">
                                                                                                                             
-            <a href="/fantasy/games/football?ttag=FF16_os_drpdwn_lk" class="">Fantasy Football</a>
+            <a href="/fantasy/games/baseball/?ttag=FBB16_os_drpdwn_lk" class="">Fantasy Baseball</a>
     
                                                                             </h6>
                                 
@@ -1234,7 +1223,7 @@
                                                     
                                                             <h6 class="nav-dropdown-title">
                                                                             
-            <a href="https://cbs-sports.app.link/6Gu2Yvkxcgb" class="">PGA Championship</a>
+            <a href="/live/?ftag=CBS-16-10acb3e" class="">24/7 Sports News Network</a>
     
                                 </h6>
                                 <div class="nav-dropdown-top">
@@ -1243,9 +1232,9 @@
     
                 
     
-            <a href="https://cbs-sports.app.link/6Gu2Yvkxcgb" class="">
+            <a href="https://www.cbssports.com/live/?ftag=CBS-16-10acb3e" class="">
             <div class="image-icon-overlay-wrap      ">
-                                                        <figure class=" img"><img class=" is-lazy-image" alt="pga-champ-may-thumbnail-1920x1080.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2022/05/19/edc5e971-ce00-46fe-9077-742f7dd010b7/thumbnail/270x152/d131a5bfc1dcccc31c9a7dc17f233408/pga-champ-may-thumbnail-1920x1080.jpg" src="" height="152" width="270"></figure>
+                                                        <figure class=" img"><img class=" is-lazy-image" alt="image-1616770431589.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2021/03/26/4e42f44e-b1a6-4e0c-81ca-b3e58612076e/thumbnail/270x152/febf31dff30e4abf5d0caed35dd2b169/image-1616770431589.jpg" src="" height="152" width="270"></figure>
             
                                                                             <div class="image-icon-overlay size-small type-video ">
                     </div>
@@ -1261,6 +1250,12 @@
                                                             <li class="nav-dropdown-item">
                                                                             
             <a href="https://www.paramountplus.com/?ftag=PPM-01-10afj3a" class="">Paramount+</a>
+    
+                                </li>
+                                                                                
+                                                            <li class="nav-dropdown-item">
+                                                                            
+            <a href="/watch/concacaf-nations-league?ftag=CBS-16-10aci9f" class="">Concacaf Nations League</a>
     
                                 </li>
                                                                                 
@@ -1308,7 +1303,7 @@
                                                                                 
                                                             <li class="nav-dropdown-item">
                                                                             
-            <a href="https://www.paramountplus.com/shows/national-womens-soccer-league/?ftag=PPM-16-10bbc1g" class="">NWSL Challenge Cup</a>
+            <a href="https://www.paramountplus.com/shows/national-womens-soccer-league/?ftag=PPM-16-10bbc1g" class="">NWSL</a>
     
                                 </li>
                                                                                 
@@ -1455,7 +1450,7 @@
                                                                         <div class="nav-dropdown-top-side">
                                         <p class="nav-dropdown-top-title">
                                                                                     
-            <a href="/podcasts/fantasy-football-today-podcast/" class="">Kupp vs. Chase vs. Jefferson</a>
+            <a href="/podcasts/fantasy-football-today-podcast/" class="">Lessons Learned From a 2021 Draft</a>
     
                                         </p>
                                     </div>
@@ -1568,7 +1563,7 @@
                 <div class="my-teams-component-bottom">
                     <div class="bottom-row">
                         <a href="/fantasy/games/my-teams/">Organize / See All Teams</a>
-                        <a href="http://cbsi.force.com/CBSi/cbssports">Help</a>
+                        <a href="https://www.cbssports.com/help">Help</a>
                     </div>
                     <div class="bottom-row">
                         <a href="https://www.cbssports.com/settings">Account Settings</a>
@@ -2373,9 +2368,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2241251/devin-singletary" class="">D. Singletary</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2241251/devin-singletary/" class="">D. Singletary</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2241251/devin-singletary" class="">Devin Singletary</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2241251/devin-singletary/" class="">Devin Singletary</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -2425,9 +2420,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2129436/jerick-mckinnon" class="">J. McKinnon</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2129436/jerick-mckinnon/" class="">J. McKinnon</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2129436/jerick-mckinnon" class="">Jerick McKinnon</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2129436/jerick-mckinnon/" class="">Jerick McKinnon</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -2477,9 +2472,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2819876/elijah-mitchell" class="">E. Mitchell</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2819876/elijah-mitchell/" class="">E. Mitchell</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2819876/elijah-mitchell" class="">Elijah Mitchell</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2819876/elijah-mitchell/" class="">Elijah Mitchell</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -2529,9 +2524,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/1737248/giovani-bernard" class="">G. Bernard</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/1737248/giovani-bernard/" class="">G. Bernard</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/1737248/giovani-bernard" class="">Giovani Bernard</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/1737248/giovani-bernard/" class="">Giovani Bernard</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -2581,9 +2576,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2257876/josh-jacobs" class="">J. Jacobs</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2257876/josh-jacobs/" class="">J. Jacobs</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2257876/josh-jacobs" class="">Josh Jacobs</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2257876/josh-jacobs/" class="">Josh Jacobs</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -2633,9 +2628,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2179704/keshawn-vaughn" class="">K. Vaughn</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2179704/keshawn-vaughn/" class="">K. Vaughn</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2179704/keshawn-vaughn" class="">Ke'Shawn Vaughn</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2179704/keshawn-vaughn/" class="">Ke'Shawn Vaughn</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -2685,9 +2680,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2968948/kenneth-gainwell" class="">K. Gainwell</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2968948/kenneth-gainwell/" class="">K. Gainwell</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2968948/kenneth-gainwell" class="">Kenneth Gainwell</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2968948/kenneth-gainwell/" class="">Kenneth Gainwell</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -2737,9 +2732,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2804034/cam-akers" class="">C. Akers</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2804034/cam-akers/" class="">C. Akers</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2804034/cam-akers" class="">Cam Akers</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2804034/cam-akers/" class="">Cam Akers</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -2789,9 +2784,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2079334/boston-scott" class="">B. Scott</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2079334/boston-scott/" class="">B. Scott</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2079334/boston-scott" class="">Boston Scott</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2079334/boston-scott/" class="">Boston Scott</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -2841,9 +2836,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2071585/james-conner" class="">J. Conner</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2071585/james-conner/" class="">J. Conner</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2071585/james-conner" class="">James Conner</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2071585/james-conner/" class="">James Conner</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -2893,9 +2888,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2131143/joe-mixon" class="">J. Mixon</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2131143/joe-mixon/" class="">J. Mixon</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2131143/joe-mixon" class="">Joe Mixon</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2131143/joe-mixon/" class="">Joe Mixon</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -2945,9 +2940,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2131588/sony-michel" class="">S. Michel</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2131588/sony-michel/" class="">S. Michel</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2131588/sony-michel" class="">Sony Michel</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2131588/sony-michel/" class="">Sony Michel</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -2997,9 +2992,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/3125832/rhamondre-stevenson" class="">R. Stevenson</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/3125832/rhamondre-stevenson/" class="">R. Stevenson</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/3125832/rhamondre-stevenson" class="">Rhamondre Stevenson</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/3125832/rhamondre-stevenson/" class="">Rhamondre Stevenson</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -3049,9 +3044,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2186318/damien-harris" class="">D. Harris</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2186318/damien-harris/" class="">D. Harris</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2186318/damien-harris" class="">Damien Harris</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2186318/damien-harris/" class="">Damien Harris</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -3101,9 +3096,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2060769/ezekiel-elliott" class="">E. Elliott</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2060769/ezekiel-elliott/" class="">E. Elliott</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2060769/ezekiel-elliott" class="">Ezekiel Elliott</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2060769/ezekiel-elliott/" class="">Ezekiel Elliott</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -3153,9 +3148,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/1632301/brandon-bolden" class="">B. Bolden</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/1632301/brandon-bolden/" class="">B. Bolden</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/1632301/brandon-bolden" class="">Brandon Bolden</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/1632301/brandon-bolden/" class="">Brandon Bolden</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -3205,9 +3200,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2137507/chase-edmonds" class="">C. Edmonds</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2137507/chase-edmonds/" class="">C. Edmonds</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2137507/chase-edmonds" class="">Chase Edmonds</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2137507/chase-edmonds/" class="">Chase Edmonds</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -3257,9 +3252,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2760832/eno-benjamin" class="">E. Benjamin</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2760832/eno-benjamin/" class="">E. Benjamin</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2760832/eno-benjamin" class="">Eno Benjamin</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2760832/eno-benjamin/" class="">Eno Benjamin</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -3309,9 +3304,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2251305/miles-sanders" class="">M. Sanders</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2251305/miles-sanders/" class="">M. Sanders</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2251305/miles-sanders" class="">Miles Sanders</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2251305/miles-sanders/" class="">Miles Sanders</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -3361,9 +3356,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2184011/tony-pollard" class="">T. Pollard</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2184011/tony-pollard/" class="">T. Pollard</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2184011/tony-pollard" class="">Tony Pollard</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2184011/tony-pollard/" class="">Tony Pollard</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -3413,9 +3408,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2245150/benny-snell" class="">B. Snell</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2245150/benny-snell/" class="">B. Snell</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2245150/benny-snell" class="">Benny Snell</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2245150/benny-snell/" class="">Benny Snell</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -3465,9 +3460,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2131476/kalen-ballage" class="">K. Ballage</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2131476/kalen-ballage/" class="">K. Ballage</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2131476/kalen-ballage" class="">Kalen Ballage</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2131476/kalen-ballage/" class="">Kalen Ballage</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -3517,9 +3512,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/1682469/taiwan-jones" class="">T. Jones</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/1682469/taiwan-jones/" class="">T. Jones</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/1682469/taiwan-jones" class="">Taiwan Jones</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/1682469/taiwan-jones/" class="">Taiwan Jones</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -3569,9 +3564,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2079861/peyton-barber" class="">P. Barber</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2079861/peyton-barber/" class="">P. Barber</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2079861/peyton-barber" class="">Peyton Barber</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2079861/peyton-barber/" class="">Peyton Barber</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -3621,9 +3616,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2260647/chris-evans" class="">C. Evans</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2260647/chris-evans/" class="">C. Evans</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2260647/chris-evans" class="">Chris Evans</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2260647/chris-evans/" class="">Chris Evans</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -3673,9 +3668,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2237795/jalen-richard" class="">J. Richard</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2237795/jalen-richard/" class="">J. Richard</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2237795/jalen-richard" class="">Jalen Richard</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2237795/jalen-richard/" class="">Jalen Richard</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -3725,9 +3720,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2083294/jordan-howard" class="">J. Howard</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2083294/jordan-howard/" class="">J. Howard</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2083294/jordan-howard" class="">Jordan Howard</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2083294/jordan-howard/" class="">Jordan Howard</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -3777,9 +3772,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2240516/zack-moss" class="">Z. Moss</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2240516/zack-moss/" class="">Z. Moss</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2240516/zack-moss" class="">Zack Moss</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2240516/zack-moss/" class="">Zack Moss</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -3829,9 +3824,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/3114047/jakob-johnson" class="">J. Johnson</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/3114047/jakob-johnson/" class="">J. Johnson</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/3114047/jakob-johnson" class="">Jakob Johnson</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/3114047/jakob-johnson/" class="">Jakob Johnson</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -3881,9 +3876,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2189504/jamycal-hasty" class="">J. Hasty</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2189504/jamycal-hasty/" class="">J. Hasty</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2189504/jamycal-hasty" class="">JaMycal Hasty</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2189504/jamycal-hasty/" class="">JaMycal Hasty</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -3933,9 +3928,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/3127656/derrick-gore" class="">D. Gore</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/3127656/derrick-gore/" class="">D. Gore</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/3127656/derrick-gore" class="">Derrick Gore</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/3127656/derrick-gore/" class="">Derrick Gore</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -3985,9 +3980,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2131714/darrel-williams" class="">D. Williams</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2131714/darrel-williams/" class="">D. Williams</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2131714/darrel-williams" class="">Darrel Williams</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2131714/darrel-williams/" class="">Darrel Williams</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -4037,9 +4032,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2741200/najee-harris" class="">N. Harris</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2741200/najee-harris/" class="">N. Harris</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2741200/najee-harris" class="">Najee Harris</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2741200/najee-harris/" class="">Najee Harris</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -4089,9 +4084,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2239544/jake-funk" class="">J. Funk</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2239544/jake-funk/" class="">J. Funk</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2239544/jake-funk" class="">Jake Funk</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2239544/jake-funk/" class="">Jake Funk</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -4141,9 +4136,9 @@
                 
                 
                 
-                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/playerpage/2131148/samaje-perine" class="">S. Perine</a><span class="CellPlayerName-position">
+                "><span class="CellPlayerName--short"><span class=""><a href="/nfl/players/2131148/samaje-perine/" class="">S. Perine</a><span class="CellPlayerName-position">
                         RB
-                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/playerpage/2131148/samaje-perine" class="">Samaje Perine</a><span class="CellPlayerName-position">
+                    </span></span></span><span class="CellPlayerName--long"><span class=""><a href="/nfl/players/2131148/samaje-perine/" class="">Samaje Perine</a><span class="CellPlayerName-position">
                             RB
                         </span></span></span></td><td class="TableBase-bodyTd 
                 
@@ -4330,7 +4325,7 @@
 
 
 
-    <script type="text/javascript" charset="utf-8" data-requirecontext="_" data-requiremodule="jquery" src="https://sportsfly.cbsistatic.com/fly-0235/bundles/sportsmediajs/js-build/jquery.js">
+    <script type="text/javascript" charset="utf-8" data-requirecontext="_" data-requiremodule="jquery" src="https://sportsfly.cbsistatic.com/fly-0246/bundles/sportsmediajs/js-build/jquery.js">
     </script>
 
 
@@ -4340,7 +4335,7 @@
 
 
 
-    <script type="text/javascript" charset="utf-8" data-requirecontext="_" data-requiremodule="footer.lite" src="https://sportsfly.cbsistatic.com/fly-0235/bundles/sportsmediajs/js-build/footer.lite.js">
+    <script type="text/javascript" charset="utf-8" data-requirecontext="_" data-requiremodule="footer.lite" src="https://sportsfly.cbsistatic.com/fly-0246/bundles/sportsmediajs/js-build/footer.lite.js">
     </script>
 
 
@@ -4350,7 +4345,7 @@
 
 
 
-    <script async type="text/javascript" charset="utf-8" data-requirecontext="_" data-requiremodule="main.desktop" src="https://sportsfly.cbsistatic.com/fly-0235/bundles/sportsmediajs/js-build/main.desktop.js">
+    <script async type="text/javascript" charset="utf-8" data-requirecontext="_" data-requiremodule="main.desktop" src="https://sportsfly.cbsistatic.com/fly-0246/bundles/sportsmediajs/js-build/main.desktop.js">
     </script>
 
 
